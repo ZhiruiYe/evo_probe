@@ -1,0 +1,1532 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+A0A0B4J1N3	reviewed	GP15L_MOUSE	Protein GPR15LG (Protein GPR15 ligand) (Protein GPR15L)	Gpr15lg Gpr15l	Mus musculus (Mouse)	78
+A0A0G2KYH9	unreviewed	A0A0G2KYH9_DANRE	Chemokine (C-X-C motif) ligand 8a (Interleukin-8 isoform X1)	cxcl8a	Danio rerio (Zebrafish) (Brachydanio rerio)	98
+A0A2J8LJL3	unreviewed	A0A2J8LJL3_PANTR	C-C motif chemokine	CK820_G0028761	Pan troglodytes (Chimpanzee)	92
+A0A4X1T3A0	unreviewed	A0A4X1T3A0_PIG	C-C motif chemokine	CCL5	Sus scrofa (Pig)	91
+A0A5F4W4J1	unreviewed	A0A5F4W4J1_CALJA	C-C motif chemokine	CCL5	Callithrix jacchus (White-tufted-ear marmoset)	91
+A0A6D2WNS6	unreviewed	A0A6D2WNS6_PONAB	C-C motif chemokine	CCL5 CR201_G0051846	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	91
+A0A6D2XPR4	unreviewed	A0A6D2XPR4_PANTR	C-C motif chemokine	CK820_G0028744	Pan troglodytes (Chimpanzee)	91
+A0A8B7HSN2	unreviewed	A0A8B7HSN2_MICMU	C-C motif chemokine	CCL5	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	91
+A0A8I6A271	unreviewed	A0A8I6A271_RAT	C-C motif chemokine	Ccl19	Rattus norvegicus (Rat)	114
+A0A8I6GDX4	unreviewed	A0A8I6GDX4_RAT	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	Cxcl12	Rattus norvegicus (Rat)	81
+A0A8M3B7M3	unreviewed	A0A8M3B7M3_DANRE	Interleukin-8 isoform X2	cxcl8a	Danio rerio (Zebrafish) (Brachydanio rerio)	97
+A6IIY6	unreviewed	A6IIY6_RAT	C-C motif chemokine	Ccl19 Ccl19_predicted rCG_54984	Rattus norvegicus (Rat)	108
+A6IL30	unreviewed	A6IL30_RAT	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	Cxcl12 rCG_30074	Rattus norvegicus (Rat)	93
+A6IL31	unreviewed	A6IL31_RAT	Chemokine (C-X-C motif) ligand 12, isoform CRA_b	Cxcl12 rCG_30074	Rattus norvegicus (Rat)	96
+B1AB88	unreviewed	B1AB88_HORSE	C-C motif chemokine		Equus caballus (Horse)	93
+D3ZI84	unreviewed	D3ZI84_RAT	C-C motif chemokine	Ccl19	Rattus norvegicus (Rat)	108
+F1S1A1	unreviewed	F1S1A1_PIG	C-C motif chemokine	CCL3L1	Sus scrofa (Pig)	93
+F7EV62	unreviewed	F7EV62_MONDO	C-C motif chemokine 5 (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	CCL5	Monodelphis domestica (Gray short-tailed opossum)	91
+F7HEP4	unreviewed	F7HEP4_CALJA	C-C motif chemokine	CCL3L3 CCL3L1	Callithrix jacchus (White-tufted-ear marmoset)	93
+G1LXW4	unreviewed	G1LXW4_AILME	C-C motif chemokine	LOC100469295	Ailuropoda melanoleuca (Giant panda)	93
+G1RVC7	unreviewed	G1RVC7_NOMLE	C-C motif chemokine	CCL5	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	91
+G1RVM1	unreviewed	G1RVM1_NOMLE	C-C motif chemokine		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	92
+G1SE13	unreviewed	G1SE13_RABIT	C-C motif chemokine		Oryctolagus cuniculus (Rabbit)	93
+G1SIG1	unreviewed	G1SIG1_RABIT	C-C motif chemokine	CCL5	Oryctolagus cuniculus (Rabbit)	91
+G3RWY7	unreviewed	G3RWY7_GORGO	C-C motif chemokine	CCL3	Gorilla gorilla gorilla (Western lowland gorilla)	92
+H7BX38	unreviewed	H7BX38_MOUSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	Cxcl12	Mus musculus (Mouse)	119
+I3LGZ3	reviewed	GL15L_PIG	Protein GPR15LG (Protein GPR15 ligand) (Protein GPR15L)	GPR15LG GPR15L	Sus scrofa (Pig)	81
+K7ARK7	unreviewed	K7ARK7_PANTR	C-C motif chemokine	CCL5	Pan troglodytes (Chimpanzee)	91
+O00175	reviewed	CCL24_HUMAN	C-C motif chemokine 24 (CK-beta-6) (Eosinophil chemotactic protein 2) (Eotaxin-2) (Myeloid progenitor inhibitory factor 2) (MPIF-2) (Small-inducible cytokine A24)	CCL24 MPIF2 SCYA24	Homo sapiens (Human)	119
+O00626	reviewed	CCL22_HUMAN	C-C motif chemokine 22 (CC chemokine STCP-1) (MDC(1-69)) (Macrophage-derived chemokine) (Small-inducible cytokine A22) (Stimulated T-cell chemotactic protein 1) [Cleaved into: MDC(3-69); MDC(5-69); MDC(7-69)]	CCL22 MDC SCYA22 A-152E5.1	Homo sapiens (Human)	93
+O14625	reviewed	CXL11_HUMAN	C-X-C motif chemokine 11 (Beta-R1) (H174) (Interferon gamma-inducible protein 9) (IP-9) (Interferon-inducible T-cell alpha chemoattractant) (I-TAC) (Small-inducible cytokine B11)	CXCL11 ITAC SCYB11 SCYB9B	Homo sapiens (Human)	94
+O15467	reviewed	CCL16_HUMAN	C-C motif chemokine 16 (Chemokine CC-4) (HCC-4) (Chemokine LEC) (IL-10-inducible chemokine) (LCC-1) (Liver-expressed chemokine) (Lymphocyte and monocyte chemoattractant) (LMC) (Monotactin-1) (MTN-1) (NCC-4) (Small-inducible cytokine A16)	CCL16 ILINCK NCC4 SCYA16	Homo sapiens (Human)	120
+O43927	reviewed	CXL13_HUMAN	C-X-C motif chemokine 13 (Angie) (B cell-attracting chemokine 1) (BCA-1) (B lymphocyte chemoattractant) (CXC chemokine BLC) (Small-inducible cytokine B13)	CXCL13 BCA1 BLC SCYB13	Homo sapiens (Human)	109
+O55038	reviewed	CXL13_MOUSE	C-X-C motif chemokine 13 (B lymphocyte chemoattractant) (CXC chemokine BLC) (Small-inducible cytokine B13)	Cxcl13 Blc Scyb13	Mus musculus (Mouse)	109
+O70460	reviewed	CCL19_MOUSE	C-C motif chemokine 19 (Epstein-Barr virus-induced molecule 1 ligand chemokine) (EBI1 ligand chemokine) (ELC) (Small-inducible cytokine A19)	Ccl19 Elc Scya19	Mus musculus (Mouse)	108
+O89093	reviewed	CCL20_MOUSE	C-C motif chemokine 20 (Beta-chemokine exodus-1) (CC chemokine LARC) (CC chemokine ST38) (Liver and activation-regulated chemokine) (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20)	Ccl20 Larc Scya20	Mus musculus (Mouse)	97
+O95715	reviewed	CXL14_HUMAN	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14 MIP2G NJAC SCYB14 PSEC0212 UNQ240/PRO273	Homo sapiens (Human)	111
+O97919	reviewed	CCL5_BOVIN	C-C motif chemokine 5 (SIS-delta) (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	CCL5 SCYA5	Bos taurus (Bovine)	91
+P02776	reviewed	PLF4_HUMAN	Platelet factor 4 (PF-4) (C-X-C motif chemokine 4) (Iroplact) (Oncostatin-A) [Cleaved into: Platelet factor 4, short form (Endothelial cell growth inhibitor)]	PF4 CXCL4 SCYB4	Homo sapiens (Human)	101
+P02777	reviewed	PLF4_BOVIN	Platelet factor 4 (PF-4) (C-X-C motif chemokine 4)	PF4 CXCL4 SCYB4	Bos taurus (Bovine)	88
+P02778	reviewed	CXL10_HUMAN	C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (Small-inducible cytokine B10) [Cleaved into: CXCL10(1-73)]	CXCL10 INP10 SCYB10	Homo sapiens (Human)	98
+P06765	reviewed	PLF4_RAT	Platelet factor 4 (PF-4) (C-X-C motif chemokine 4)	Pf4 Cxcl4 Scyb4	Rattus norvegicus (Rat)	105
+P09341	reviewed	GROA_HUMAN	Growth-regulated alpha protein (C-X-C motif chemokine 1) (GRO-alpha(1-73)) (Melanoma growth stimulatory activity) (MGSA) (Neutrophil-activating protein 3) (NAP-3) [Cleaved into: GRO-alpha(4-73); GRO-alpha(5-73); GRO-alpha(6-73)]	CXCL1 GRO GRO1 GROA MGSA SCYB1	Homo sapiens (Human)	107
+P10145	reviewed	IL8_HUMAN	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8) (Emoctakin) (Granulocyte chemotactic protein 1) (GCP-1) (Monocyte-derived neutrophil chemotactic factor) (MDNCF) (Monocyte-derived neutrophil-activating peptide) (MONAP) (Neutrophil-activating protein 1) (NAP-1) (Protein 3-10C) (T-cell chemotactic factor) [Cleaved into: MDNCF-a (GCP/IL-8 protein IV) (IL8/NAP1 form I); Interleukin-8 ((Ala-IL-8)77) (GCP/IL-8 protein II) (IL-8(1-77)) (IL8/NAP1 form II) (MDNCF-b); IL-8(5-77); IL-8(6-77) ((Ser-IL-8)72) (GCP/IL-8 protein I) (IL8/NAP1 form III) (Lymphocyte-derived neutrophil-activating factor) (LYNAP) (MDNCF-c) (Neutrophil-activating factor) (NAF); IL-8(7-77) (GCP/IL-8 protein V) (IL8/NAP1 form IV); IL-8(8-77) (GCP/IL-8 protein VI) (IL8/NAP1 form V); IL-8(9-77) (GCP/IL-8 protein III) (IL8/NAP1 form VI)]	CXCL8 IL8	Homo sapiens (Human)	99
+P10146	reviewed	CCL1_MOUSE	C-C motif chemokine 1 (P500) (SIS-epsilon) (Small-inducible cytokine A1) (T-cell activation protein 3) (TCA-3) (TCA3)	Ccl1 Scya1 Tca3	Mus musculus (Mouse)	92
+P10147	reviewed	CCL3_HUMAN	C-C motif chemokine 3 (G0/G1 switch regulatory protein 19-1) (Macrophage inflammatory protein 1-alpha) (MIP-1-alpha) (PAT 464.1) (SIS-beta) (Small-inducible cytokine A3) (Tonsillar lymphocyte LD78 alpha protein) [Cleaved into: MIP-1-alpha(4-69) (LD78-alpha(4-69))]	CCL3 G0S19-1 MIP1A SCYA3	Homo sapiens (Human)	92
+P10720	reviewed	PF4V_HUMAN	Platelet factor 4 variant (C-X-C motif chemokine 4 variant) (CXCL4L1) (PF4alt) (PF4var1) [Cleaved into: Platelet factor 4 variant(4-74); Platelet factor 4 variant(5-74); Platelet factor 4 variant(6-74)]	PF4V1 CXCL4V1 SCYB4V1	Homo sapiens (Human)	104
+P10855	reviewed	CCL3_MOUSE	C-C motif chemokine 3 (Heparin-binding chemotaxis protein) (L2G25B) (Macrophage inflammatory protein 1-alpha) (MIP-1-alpha) (SIS-alpha) (Small-inducible cytokine A3) (TY-5)	Ccl3 Mip1a Scya3	Mus musculus (Mouse)	92
+P10889	reviewed	CXCL2_MOUSE	C-X-C motif chemokine 2 (Macrophage inflammatory protein 2) (MIP2)	Cxcl2 Mip-2 Mip2 Scyb2	Mus musculus (Mouse)	100
+P12850	reviewed	GROA_MOUSE	Growth-regulated alpha protein (C-X-C motif chemokine 1) (Platelet-derived growth factor-inducible protein KC) (Secretory protein N51) [Cleaved into: KC(5-72) (Hematopoietic synergistic factor) (HSF) (KC-T)]	Cxcl1 Gro Gro1 Mgsa Scyb1	Mus musculus (Mouse)	96
+P13236	reviewed	CCL4_HUMAN	C-C motif chemokine 4 (G-26 T-lymphocyte-secreted protein) (HC21) (Lymphocyte activation gene 1 protein) (LAG-1) (MIP-1-beta(1-69)) (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (PAT 744) (Protein H400) (SIS-gamma) (Small-inducible cytokine A4) (T-cell activation protein 2) (ACT-2) [Cleaved into: MIP-1-beta(3-69)]	CCL4 LAG1 MIP1B SCYA4	Homo sapiens (Human)	92
+P13500	reviewed	CCL2_HUMAN	C-C motif chemokine 2 (HC11) (Monocyte chemoattractant protein 1) (Monocyte chemotactic and activating factor) (MCAF) (Monocyte chemotactic protein 1) (MCP-1) (Monocyte secretory protein JE) (Small-inducible cytokine A2)	CCL2 MCP1 SCYA2	Homo sapiens (Human)	99
+P13501	reviewed	CCL5_HUMAN	C-C motif chemokine 5 (EoCP) (Eosinophil chemotactic cytokine) (SIS-delta) (Small-inducible cytokine A5) (T cell-specific protein P228) (TCP228) (T-cell-specific protein RANTES) [Cleaved into: RANTES(3-68); RANTES(4-68)]	CCL5 D17S136E SCYA5	Homo sapiens (Human)	91
+P14095	reviewed	GROA_RAT	Growth-regulated alpha protein (C-X-C motif chemokine 1) (Cytokine-induced neutrophil chemoattractant 1) (CINC-1) (Platelet-derived growth factor-inducible protein KC)	Cxcl1 Cinc1 Gro Scyb1	Rattus norvegicus (Rat)	96
+P16619	reviewed	CL3L1_HUMAN	C-C motif chemokine 3-like 1 (G0/G1 switch regulatory protein 19-2) (LD78-beta(1-70)) (PAT 464.2) (Small-inducible cytokine A3-like 1) (Tonsillar lymphocyte LD78 beta protein) [Cleaved into: LD78-beta(3-70); LD78-beta(5-70)]	CCL3L1 D17S1718 G0S19-2 SCYA3L1; CCL3L3	Homo sapiens (Human)	93
+P17515	reviewed	CXL10_MOUSE	C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (C7) (Interferon-gamma induced protein CRG-2) (Small-inducible cytokine B10)	Cxcl10 Crg2 Ifi10 Inp10 Scyb10	Mus musculus (Mouse)	98
+P19874	reviewed	IL8_RABIT	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8) (Neutrophil attractant/activation protein 1) (NAP-1) (Permeability factor 1) (PF1) (rPF1)	CXCL8 IL8	Oryctolagus cuniculus (Rabbit)	101
+P19875	reviewed	CXCL2_HUMAN	C-X-C motif chemokine 2 (Growth-regulated protein beta) (Gro-beta) (Macrophage inflammatory protein 2-alpha) (MIP2-alpha) [Cleaved into: GRO-beta(5-73) (GRO-beta-T) (Hematopoietic synergistic factor) (HSF) (SB-251353)]	CXCL2 GRO2 GROB MIP2A SCYB2	Homo sapiens (Human)	107
+P19876	reviewed	CXCL3_HUMAN	C-X-C motif chemokine 3 (GRO-gamma(1-73)) (Growth-regulated protein gamma) (GRO-gamma) (Macrophage inflammatory protein 2-beta) (MIP2-beta) [Cleaved into: GRO-gamma(5-73)]	CXCL3 GRO3 GROG SCYB3	Homo sapiens (Human)	107
+P22362	reviewed	CCL1_HUMAN	C-C motif chemokine 1 (Small-inducible cytokine A1) (T lymphocyte-secreted protein I-309)	CCL1 SCYA1	Homo sapiens (Human)	96
+P26894	reviewed	IL8_PIG	Interleukin-8 (IL-8) (Alveolar macrophage chemotactic factor I) (AMCF-I) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL8 IL8	Sus scrofa (Pig)	103
+P28291	reviewed	CCL2_BOVIN	C-C motif chemokine 2 (Acidic seminal fluid protein) (Monocyte chemotactic protein 1A) (MCP-1) (MCP-1A) (Small-inducible cytokine A2)	CCL2 SCYA2	Bos taurus (Bovine)	99
+P30034	reviewed	PLF4_PIG	Platelet factor 4 (PF-4) (C-X-C motif chemokine 4)	PF4 CXCL4 SCYB4	Sus scrofa (Pig)	90
+P30348	reviewed	CXCL2_RAT	C-X-C motif chemokine 2 (Cytokine-induced neutrophil chemoattractant 3) (CINC-3) (Macrophage inflammatory protein 2) (MIP2)	Cxcl2 Cinc3 Mip-2 Mip2 Scyb2	Rattus norvegicus (Rat)	100
+P30882	reviewed	CCL5_MOUSE	C-C motif chemokine 5 (MuRantes) (SIS-delta) (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	Ccl5 Scya5	Mus musculus (Mouse)	91
+P36925	reviewed	IL8_SHEEP	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL8 IL8	Ovis aries (Sheep)	101
+P40224	reviewed	SDF1_MOUSE	Stromal cell-derived factor 1 (SDF-1) (12-O-tetradecanoylphorbol 13-acetate repressed protein 1) (TPAR1) (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor) (PBSF) (Thymic lymphoma cell-stimulating factor) (TLSF)	Cxcl12 Sdf1	Mus musculus (Mouse)	93
+P42830	reviewed	CXCL5_HUMAN	C-X-C motif chemokine 5 (ENA-78(1-78)) (Epithelial-derived neutrophil-activating protein 78) (Neutrophil-activating peptide ENA-78) (Small-inducible cytokine B5) [Cleaved into: ENA-78(8-78); ENA-78(9-78)]	CXCL5 ENA78 SCYB5	Homo sapiens (Human)	114
+P42831	reviewed	CCL2_PIG	C-C motif chemokine 2 (Monocyte chemoattractant protein 1) (Monocyte chemotactic protein 1) (MCP-1) (Small-inducible cytokine A2)	CCL2 SCYA2	Sus scrofa (Pig)	99
+P47992	reviewed	XCL1_HUMAN	Lymphotactin (ATAC) (C motif chemokine 1) (Cytokine SCM-1) (Lymphotaxin) (SCM-1-alpha) (Small-inducible cytokine C1) (XC chemokine ligand 1)	XCL1 LTN SCYC1	Homo sapiens (Human)	114
+P47993	reviewed	XCL1_MOUSE	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Lymphotaxin) (Small-inducible cytokine C1)	Xcl1 Lptn Ltn Scyc1	Mus musculus (Mouse)	114
+P48061	reviewed	SDF1_HUMAN	Stromal cell-derived factor 1 (SDF-1) (hSDF-1) (C-X-C motif chemokine 12) (Intercrine reduced in hepatomas) (IRH) (hIRH) (Pre-B cell growth-stimulating factor) (PBSF) [Cleaved into: SDF-1-beta(3-72); SDF-1-alpha(3-67)]	CXCL12 SDF1 SDF1A SDF1B	Homo sapiens (Human)	93
+P48298	reviewed	CCL11_MOUSE	Eotaxin (C-C motif chemokine 11) (Eosinophil chemotactic protein) (Small-inducible cytokine A11)	Ccl11 Scya11	Mus musculus (Mouse)	97
+P48973	reviewed	CXL10_RAT	C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (Interferon-inducible protein 10) (Protein Mob-1) (Small-inducible cytokine B10)	Cxcl10 Inp10 Mob1 Scyb10	Rattus norvegicus (Rat)	98
+P50229	reviewed	CCL3_RAT	C-C motif chemokine 3 (Macrophage inflammatory protein 1-alpha) (MIP-1-alpha) (Small-inducible cytokine A3)	Ccl3 Mip1a Scya3	Rattus norvegicus (Rat)	92
+P50230	reviewed	CCL4_RAT	C-C motif chemokine 4 (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (Small-inducible cytokine A4)	Ccl4 Mip1b Scya4	Rattus norvegicus (Rat)	92
+P50231	reviewed	CCL5_RAT	C-C motif chemokine 5 (SIS-delta) (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	Ccl5 Scya5	Rattus norvegicus (Rat)	92
+P51671	reviewed	CCL11_HUMAN	Eotaxin (C-C motif chemokine 11) (Eosinophil chemotactic protein) (Small-inducible cytokine A11)	CCL11 SCYA11	Homo sapiens (Human)	97
+P51672	reviewed	XCL1_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 Ltn Scyc1	Rattus norvegicus (Rat)	114
+P55773	reviewed	CCL23_HUMAN	C-C motif chemokine 23 (CK-beta-8) (CKB-8) (Macrophage inflammatory protein 3) (MIP-3) (Myeloid progenitor inhibitory factor 1) (MPIF-1) (Small-inducible cytokine A23) [Cleaved into: CCL23(19-99); CCL23(22-99); CCL23(27-99); CCL23(30-99)]	CCL23 MIP3 MPIF1 SCYA23	Homo sapiens (Human)	120
+P55774	reviewed	CCL18_HUMAN	C-C motif chemokine 18 (Alternative macrophage activation-associated CC chemokine 1) (AMAC-1) (CC chemokine PARC) (Dendritic cell chemokine 1) (DC-CK1) (Macrophage inflammatory protein 4) (MIP-4) (Pulmonary and activation-regulated chemokine) (Small-inducible cytokine A18) [Cleaved into: CCL18(1-68); CCL18(3-69); CCL18(4-69)]	CCL18 AMAC1 DCCK1 MIP4 PARC SCYA18	Homo sapiens (Human)	89
+P78556	reviewed	CCL20_HUMAN	C-C motif chemokine 20 (Beta-chemokine exodus-1) (CC chemokine LARC) (Liver and activation-regulated chemokine) (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20) [Cleaved into: CCL20(1-67); CCL20(1-64); CCL20(2-70)]	CCL20 LARC MIP3A SCYA20	Homo sapiens (Human)	96
+P79255	reviewed	IL8_BOVIN	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL8 IL8	Bos taurus (Bovine)	101
+P80075	reviewed	CCL8_HUMAN	C-C motif chemokine 8 (HC14) (Monocyte chemoattractant protein 2) (Monocyte chemotactic protein 2) (MCP-2) (Small-inducible cytokine A8) [Cleaved into: MCP-2(6-76)]	CCL8 MCP2 SCYA10 SCYA8	Homo sapiens (Human)	99
+P80098	reviewed	CCL7_HUMAN	C-C motif chemokine 7 (Monocyte chemoattractant protein 3) (Monocyte chemotactic protein 3) (MCP-3) (NC28) (Small-inducible cytokine A7)	CCL7 MCP3 SCYA6 SCYA7	Homo sapiens (Human)	99
+P80162	reviewed	CXCL6_HUMAN	C-X-C motif chemokine 6 (Chemokine alpha 3) (CKA-3) (Granulocyte chemotactic protein 2) (GCP-2) (Small-inducible cytokine B6) [Cleaved into: Small-inducible cytokine B6, N-processed variant 1; Small-inducible cytokine B6, N-processed variant 2; Small-inducible cytokine B6, N-processed variant 3]	CXCL6 GCP2 SCYB6	Homo sapiens (Human)	114
+P80221	reviewed	CXCL6_BOVIN	C-X-C motif chemokine 6 (Granulocyte chemotactic protein 2) (GCP-2) (Small-inducible cytokine B6)	CXCL6 GCP2 SCYB6	Bos taurus (Bovine)	112
+P80325	reviewed	CCL11_CAVPO	Eotaxin (C-C motif chemokine 11) (Eosinophil chemotactic protein) (Small-inducible cytokine A11)	CCL11 SCYA11	Cavia porcellus (Guinea pig)	96
+P97272	reviewed	CCL5_CAVPO	C-C motif chemokine 5 (SIS-delta) (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	CCL5 SCYA5	Cavia porcellus (Guinea pig)	91
+P97545	reviewed	CCL11_RAT	Eotaxin (C-C motif chemokine 11) (Eosinophil chemotactic protein) (Small-inducible cytokine A11)	Ccl11 Scya11	Rattus norvegicus (Rat)	97
+P97884	reviewed	CCL20_RAT	C-C motif chemokine 20 (Beta-chemokine exodus-1) (CC chemokine LARC) (CC chemokine ST38) (Liver and activation-regulated chemokine) (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20)	Ccl20 Scya20 St38	Rattus norvegicus (Rat)	96
+Q03366	reviewed	CCL7_MOUSE	C-C motif chemokine 7 (Intercrine/chemokine MARC) (Monocyte chemoattractant protein 3) (Monocyte chemotactic protein 3) (MCP-3) (Protein FIC) (Small-inducible cytokine A7)	Ccl7 Fic Mcp3 Scya7	Mus musculus (Mouse)	97
+Q09141	reviewed	CCL8_BOVIN	C-C motif chemokine 8 (Monocyte chemoattractant protein 2) (Monocyte chemotactic protein 2) (MCP-2) (Small-inducible cytokine A8)	CCL8 MCP2 SCYA8	Bos taurus (Bovine)	99
+Q10746	reviewed	CXCL3_RAT	C-X-C motif chemokine 3 (Cytokine-induced neutrophil chemoattractant 2) (CINC-2) (Macrophage inflammatory protein 2-alpha/beta) (MIP2-alpha/beta)	Cxcl3 Cinc2	Rattus norvegicus (Rat)	101
+Q16627	reviewed	CCL14_HUMAN	C-C motif chemokine 14 (Chemokine CC-1/CC-3) (HCC-1/HCC-3) (HCC-1(1-74)) (NCC-2) (Small-inducible cytokine A14) [Cleaved into: HCC-1(3-74); HCC-1(4-74); HCC-1(9-74)]	CCL14 NCC2 SCYA14	Homo sapiens (Human)	93
+Q16663	reviewed	CCL15_HUMAN	C-C motif chemokine 15 (Chemokine CC-2) (HCC-2) (Leukotactin-1) (LKN-1) (MIP-1 delta) (Macrophage inflammatory protein 5) (MIP-5) (Mrp-2b) (NCC-3) (Small-inducible cytokine A15) [Cleaved into: CCL15(22-92); CCL15(25-92); CCL15(29-92)]	CCL15 MIP5 NCC3 SCYA15	Homo sapiens (Human)	113
+Q2EN89	unreviewed	Q2EN89_PIG	C-C motif chemokine	CCL5	Sus scrofa (Pig)	91
+Q2KIQ8	reviewed	CXL10_BOVIN	C-X-C motif chemokine 10 (Small-inducible cytokine B10)	CXCL10	Bos taurus (Bovine)	102
+Q5I1Z0	reviewed	CCL3_PANTR	C-C motif chemokine 3 (Macrophage inflammatory protein 1-alpha) (MIP-1-alpha) (Small-inducible cytokine A3)	CCL3	Pan troglodytes (Chimpanzee)	92
+Q5KSV9	reviewed	CXL10_CANLF	C-X-C motif chemokine 10 (Small-inducible cytokine B10)	CXCL10	Canis lupus familiaris (Dog) (Canis familiaris)	98
+Q5UW37	reviewed	CXL17_MOUSE	C-X-C motif chemokine 17 (6-Cys CXCL17) (13.6 kDa protein) (VEGF coregulated chemokine 1) [Cleaved into: 4-Cys CXCL17]	Cxcl17 Vcc1	Mus musculus (Mouse)	119
+Q5XZF2	unreviewed	Q5XZF2_MOUSE	C-C motif chemokine	Ccl5	Mus musculus (Mouse)	91
+Q62401	reviewed	CCL12_MOUSE	C-C motif chemokine 12 (MCP-1-related chemokine) (Monocyte chemoattractant protein 5) (Monocyte chemotactic protein 5) (MCP-5) (Small-inducible cytokine A12)	Ccl12 Mcp5 Scya12	Mus musculus (Mouse)	104
+Q68A92	reviewed	CCL3_CANLF	C-C motif chemokine 3 (Small-inducible cytokine A3)	CCL3	Canis lupus familiaris (Dog) (Canis familiaris)	92
+Q6UWK7	reviewed	GP15L_HUMAN	Protein GPR15LG (Antimicrobial peptide with 57 amino acid residues) (AP-57) (Antimicrobial peptide-57) (Colon-derived SUSD2 binding factor) (CSBF) (Protein GPR15 ligand) (Protein GPR15L) (Secreted protein C10orf99)	GPR15LG C10orf99 GPR15L UNQ1833/PRO3446	Homo sapiens (Human)	81
+Q80YV8	unreviewed	Q80YV8_RAT	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	Cxcl12	Rattus norvegicus (Rat)	119
+Q8AV10	unreviewed	Q8AV10_DANRE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	cxcl12a cxcl12 SDF-1 sdf-1a sdf1a wu:fa55e10 wu:fc16h12 wu:fj84c02	Danio rerio (Zebrafish) (Brachydanio rerio)	99
+Q8NHW4	reviewed	CC4L_HUMAN	C-C motif chemokine 4-like (Lymphocyte activation gene 1 protein) (LAG-1) (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (Monocyte adherence-induced protein 5-alpha) (Small-inducible cytokine A4-like)	CCL4L1 CCL4L LAG1 SCYA4L1; CCL4L2 CCL4L SCYA4L2	Homo sapiens (Human)	92
+Q8SQA6	reviewed	CCL3_BOVIN	C-C motif chemokine 3 (Macrophage inflammatory protein 1-alpha) (MIP-1-alpha) (Small-inducible cytokine A3)	CCL3 SCYA3	Bos taurus (Bovine)	93
+Q92583	reviewed	CCL17_HUMAN	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL17 SCYA17 TARC	Homo sapiens (Human)	94
+Q99616	reviewed	CCL13_HUMAN	C-C motif chemokine 13 (CK-beta-10) (Monocyte chemoattractant protein 4) (Monocyte chemotactic protein 4) (MCP-4) (NCC-1) (Small-inducible cytokine A13) [Cleaved into: C-C motif chemokine 13, long chain; C-C motif chemokine 13, medium chain; C-C motif chemokine 13, short chain]	CCL13 MCP4 NCC1 SCYA13	Homo sapiens (Human)	98
+Q99731	reviewed	CCL19_HUMAN	C-C motif chemokine 19 (Beta-chemokine exodus-3) (CK beta-11) (Epstein-Barr virus-induced molecule 1 ligand chemokine) (EBI1 ligand chemokine) (ELC) (Macrophage inflammatory protein 3 beta) (MIP-3-beta) (Small-inducible cytokine A19)	CCL19 ELC MIP3B SCYA19	Homo sapiens (Human)	98
+Q9JKC0	reviewed	CCL24_MOUSE	C-C motif chemokine 24 (Eosinophil chemotactic protein 2) (Eotaxin-2) (Small-inducible cytokine A24)	Ccl24 Scya24	Mus musculus (Mouse)	119
+Q9QXY8	reviewed	CCL7_RAT	C-C motif chemokine 7 (Monocyte chemoattractant protein 3) (Monocyte chemotactic protein 3) (MCP-3) (Small-inducible cytokine A7)	Ccl7 Mcp3 Scya7	Rattus norvegicus (Rat)	97
+Q9QZD1	unreviewed	Q9QZD1_RAT	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	Cxcl12 SDF-1	Rattus norvegicus (Rat)	89
+Q9UBD3	reviewed	XCL2_HUMAN	Cytokine SCM-1 beta (C motif chemokine 2) (XC chemokine ligand 2)	XCL2 SCYC2	Homo sapiens (Human)	114
+Q9WUZ6	reviewed	CCL17_MOUSE	C-C motif chemokine 17 (ABCD-2) (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	Ccl17 Tarc	Mus musculus (Mouse)	93
+Q9Y258	reviewed	CCL26_HUMAN	C-C motif chemokine 26 (CC chemokine IMAC) (Eotaxin-3) (Macrophage inflammatory protein 4-alpha) (MIP-4-alpha) (Small-inducible cytokine A26) (Thymic stroma chemokine-1) (TSC-1)	CCL26 SCYA26 UNQ216/PRO242	Homo sapiens (Human)	94
+Q9Y4X3	reviewed	CCL27_HUMAN	C-C motif chemokine 27 (CC chemokine ILC) (Cutaneous T-cell-attracting chemokine) (CTACK) (ESkine) (IL-11 R-alpha-locus chemokine) (Skinkine) (Small-inducible cytokine A27)	CCL27 ILC SCYA27	Homo sapiens (Human)	112
+Q9Z126	reviewed	PLF4_MOUSE	Platelet factor 4 (PF-4) (C-X-C motif chemokine 4)	Pf4 Cxcl4 Scyb4	Mus musculus (Mouse)	105
+Q9Z1X0	reviewed	CCL27_MOUSE	C-C motif chemokine 27 (CC chemokine ILC) (Cutaneous T-cell-attracting chemokine) (CTACK) (ESkine) (IL-11 R-alpha-locus chemokine) (ALP) (mILC) (Skinkine) (Small-inducible cytokine A27)	Ccl27 Ilc Scya27	Mus musculus (Mouse)	120
+A0A286X9D1	unreviewed	A0A286X9D1_CAVPO	C-X-C motif chemokine	Cxcl8	Cavia porcellus (Guinea pig)	101
+A0A286XB05	unreviewed	A0A286XB05_CAVPO	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Cavia porcellus (Guinea pig)	119
+A0A286XCT1	unreviewed	A0A286XCT1_CAVPO	C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Small-inducible cytokine B10)	CXCL10	Cavia porcellus (Guinea pig)	97
+A0A2I3HIA2	unreviewed	A0A2I3HIA2_NOMLE	C-X-C motif chemokine	PF4	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	106
+A0A2I3HR56	unreviewed	A0A2I3HR56_NOMLE	C-X-C motif chemokine	CXCL8	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	101
+A0A2R8MWC4	unreviewed	A0A2R8MWC4_CALJA	C-X-C motif chemokine	CXCL10	Callithrix jacchus (White-tufted-ear marmoset)	97
+A0A4X1UQX9	unreviewed	A0A4X1UQX9_PIG	C-C motif chemokine	CCL19	Sus scrofa (Pig)	100
+A0A5F4WHC5	unreviewed	A0A5F4WHC5_CALJA	C-C motif chemokine	CCL2	Callithrix jacchus (White-tufted-ear marmoset)	98
+A0A5G2QQD0	unreviewed	A0A5G2QQD0_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	119
+A0A663D9V6	unreviewed	A0A663D9V6_PANTR	C-X-C motif chemokine	CK820_G0003474	Pan troglodytes (Chimpanzee)	99
+A0A669BJ04	unreviewed	A0A669BJ04_ORENI	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	cxcl12a	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	90
+A0A6D2WGQ1	unreviewed	A0A6D2WGQ1_PANTR	C-X-C motif chemokine	CK820_G0003525	Pan troglodytes (Chimpanzee)	96
+A0A6D2WRB5	unreviewed	A0A6D2WRB5_PANTR	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	CK820_G0003482	Pan troglodytes (Chimpanzee)	101
+A0A6P3CWG0	unreviewed	A0A6P3CWG0_SHEEP	C-X-C motif chemokine	JEQ12_017524	Ovis aries (Sheep)	102
+A0A6P3E7N8	unreviewed	A0A6P3E7N8_SHEEP	C-C motif chemokine	JEQ12_003313	Ovis aries (Sheep)	98
+A0A7N5JM26	unreviewed	A0A7N5JM26_AILME	C-X-C motif chemokine	CXCL10	Ailuropoda melanoleuca (Giant panda)	98
+A0A7N5JZA1	unreviewed	A0A7N5JZA1_AILME	C-X-C motif chemokine	CXCL8	Ailuropoda melanoleuca (Giant panda)	101
+A0A803YRW6	unreviewed	A0A803YRW6_MELGA	C-C motif chemokine	CCL21	Meleagris gallopavo (Wild turkey)	108
+A0A8B7ETN9	unreviewed	A0A8B7ETN9_MICMU	C-C motif chemokine	CCL2	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	119
+A0A8B7EZS3	unreviewed	A0A8B7EZS3_MICMU	C-X-C motif chemokine	CXCL8	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	101
+A0A8B7HR46	unreviewed	A0A8B7HR46_MICMU	Chemokine interleukin-8-like domain-containing protein	XCL1	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	114
+A0A8D1BK15	unreviewed	A0A8D1BK15_PIG	C-X-C motif chemokine	CXCL10	Sus scrofa (Pig)	104
+A0A8I3RSK6	unreviewed	A0A8I3RSK6_CANLF	C-C motif chemokine	CCL19	Canis lupus familiaris (Dog) (Canis familiaris)	115
+A0A8I3WZJ6	unreviewed	A0A8I3WZJ6_CALJA	Chemokine interleukin-8-like domain-containing protein	LOC100402205	Callithrix jacchus (White-tufted-ear marmoset)	114
+A0A8I4A1B7	unreviewed	A0A8I4A1B7_CALJA	C-X-C motif chemokine	CXCL8	Callithrix jacchus (White-tufted-ear marmoset)	101
+A0A8P0N515	unreviewed	A0A8P0N515_CANLF	C-C motif chemokine	CCL19	Canis lupus familiaris (Dog) (Canis familiaris)	115
+A6HHD5	unreviewed	A6HHD5_RAT	C-C motif chemokine	Ccl12 Ccl12_predicted rCG_34001	Rattus norvegicus (Rat)	98
+A6IDF5	unreviewed	A6IDF5_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 rCG_46098	Rattus norvegicus (Rat)	114
+A6K673	unreviewed	A6K673_RAT	Similar to Small inducible cytokine B13 (CXCL13) (B lymphocyte chemoattractant) (CXC chemokine BLC)	Cxcl13 LOC498335 rCG_37907	Rattus norvegicus (Rat)	109
+D3ZKM3	reviewed	GP15L_RAT	Protein GPR15LG (Protein GPR15 ligand) (Protein GPR15L)	Gpr15lg Gpr15l	Rattus norvegicus (Rat)	77
+D4ABS1	unreviewed	D4ABS1_RAT	C-C motif chemokine	Ccl12	Rattus norvegicus (Rat)	98
+F1RPV4	unreviewed	F1RPV4_PIG	Chemokine (C motif) ligand 1 (Lymphotactin isoform X1)	XCL1	Sus scrofa (Pig)	110
+F6QYE4	unreviewed	F6QYE4_MONDO	C-C motif chemokine	CCL19	Monodelphis domestica (Gray short-tailed opossum)	96
+F6RGS8	unreviewed	F6RGS8_ORNAN	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Ornithorhynchus anatinus (Duckbill platypus)	113
+F6U909	unreviewed	F6U909_HORSE	C-X-C motif chemokine	CXCL8	Equus caballus (Horse)	101
+F6Y7V7	unreviewed	F6Y7V7_MONDO	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Monodelphis domestica (Gray short-tailed opossum)	89
+F7AWM0	unreviewed	F7AWM0_MONDO	C-X-C motif chemokine	CXCL8	Monodelphis domestica (Gray short-tailed opossum)	101
+F7F7W7	unreviewed	F7F7W7_RAT	C-X-C motif chemokine ligand 13	Cxcl13	Rattus norvegicus (Rat)	109
+G1R9F6	unreviewed	G1R9F6_NOMLE	C-X-C motif chemokine	CXCL10	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	98
+G1T4F1	unreviewed	G1T4F1_RABIT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	LOC100349255	Oryctolagus cuniculus (Rabbit)	114
+G1TBA6	unreviewed	G1TBA6_RABIT	C-X-C motif chemokine	CXCL10	Oryctolagus cuniculus (Rabbit)	98
+G3LUN8	unreviewed	G3LUN8_BOVIN	C-X-C motif chemokine	IL-8	Bos taurus (Bovine)	101
+G3QKB7	unreviewed	G3QKB7_GORGO	C-C motif chemokine	CCL19	Gorilla gorilla gorilla (Western lowland gorilla)	98
+G3R4U6	unreviewed	G3R4U6_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	98
+G3RHN6	unreviewed	G3RHN6_GORGO	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Gorilla gorilla gorilla (Western lowland gorilla)	101
+G3RJC7	unreviewed	G3RJC7_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	99
+G3SA80	unreviewed	G3SA80_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	99
+G3SLT4	unreviewed	G3SLT4_LOXAF	Interleukin-8 (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL8	Loxodonta africana (African elephant)	109
+G3T0V9	unreviewed	G3T0V9_LOXAF	C-X-C motif chemokine	CXCL10	Loxodonta africana (African elephant)	98
+G3TJJ5	unreviewed	G3TJJ5_LOXAF	Chemokine interleukin-8-like domain-containing protein		Loxodonta africana (African elephant)	114
+G3V6D4	unreviewed	G3V6D4_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+H0UYZ8	unreviewed	H0UYZ8_CAVPO	C-C motif chemokine	CCL19	Cavia porcellus (Guinea pig)	107
+
+H2NTB4	unreviewed	H2NTB4_PONAB	C-C motif chemokine	CCL2 CR201_G0033746	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	99
+H2PDK9	unreviewed	H2PDK9_PONAB	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PF4 CR201_G0024840	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	101
+H2PDN5	unreviewed	H2PDN5_PONAB	C-X-C motif chemokine	CXCL10 CR201_G0024882	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	98
+H2QPN2	unreviewed	H2QPN2_PANTR	C-X-C motif chemokine	CXCL8 IL8	Pan troglodytes (Chimpanzee)	99
+H2QPN6	unreviewed	H2QPN6_PANTR	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PF4	Pan troglodytes (Chimpanzee)	101
+H2QPQ2	unreviewed	H2QPQ2_PANTR	C-X-C motif chemokine	CXCL10	Pan troglodytes (Chimpanzee)	96
+H2QX71	unreviewed	H2QX71_PANTR	C-C motif chemokine	CCL19	Pan troglodytes (Chimpanzee)	98
+P14097	reviewed	CCL4_MOUSE	C-C motif chemokine 4 (Immune activation protein 2) (ACT-2) (ACT2) (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (Protein H400) (SIS-gamma) (Small-inducible cytokine A4)	Ccl4 Mip1b Scya4	Mus musculus (Mouse)	92
+P22952	reviewed	AMC2_PIG	Alveolar macrophage chemotactic factor 2 (Alveolar macrophage chemotactic factor II) (AMCF-II)		Sus scrofa (Pig)	117
+P27784	reviewed	CCL6_MOUSE	C-C motif chemokine 6 (Protein C10) (Small-inducible cytokine A6) [Cleaved into: CCL6(22-95); CCL6(23-95)]	Ccl6 C10 Scya6	Mus musculus (Mouse)	116
+P30035	reviewed	PLF4_SHEEP	Platelet factor 4 (PF-4) (C-X-C motif chemokine 4)	PF4 CXCL4 SCYB4	Ovis aries (Sheep)	85
+P43030	reviewed	CXCL7_PIG	Platelet basic protein (PBP) (C-X-C motif chemokine 7) (Small-inducible cytokine B7)	PPBP CXCL7 SCYB7	Sus scrofa (Pig)	119
+P49873	reviewed	CCL8_PIG	C-C motif chemokine 8 (Monocyte chemoattractant protein 2) (Monocyte chemotactic protein 2) (MCP-2) (Small-inducible cytokine A8)	CCL8 MCP2 SCYA8	Sus scrofa (Pig)	99
+P52203	reviewed	CCL2_CANLF	C-C motif chemokine 2 (Monocyte chemoattractant protein 1) (Monocyte chemotactic protein 1) (MCP-1) (Small-inducible cytokine A2)	CCL2 MCP1 SCYA2	Canis lupus familiaris (Dog) (Canis familiaris)	101
+P82535	reviewed	AMC_RABIT	Alveolar macrophage chemotactic factor (Neutrophil chemotactic protein) (NPC)		Oryctolagus cuniculus (Rabbit)	76
+Q08782	reviewed	CCL2_CAVPO	C-C motif chemokine 2 (Monocyte chemoattractant protein 1) (Monocyte chemotactic protein 1) (MCP-1) (Small-inducible cytokine A2)	CCL2 MCP1 SCYA2	Cavia porcellus (Guinea pig)	120
+Q3ZBN3	unreviewed	Q3ZBN3_BOVIN	C-C motif chemokine	CCL19	Bos taurus (Bovine)	102
+Q548V9	unreviewed	Q548V9_MOUSE	C-X-C motif chemokine	Cxcl10 Scyb10	Mus musculus (Mouse)	98
+Q5I0J6	unreviewed	Q5I0J6_RAT	Chemokine (C-X-C motif) ligand 13	Cxcl13 LOC498335	Rattus norvegicus (Rat)	108
+Q5S1S3	unreviewed	Q5S1S3_PIG	C-X-C motif chemokine	CXCL10	Sus scrofa (Pig)	104
+Q64H35	reviewed	CCL26_CANLF	C-C motif chemokine 26 (Eotaxin-3) (Small-inducible cytokine A26)	CCL26	Canis lupus familiaris (Dog) (Canis familiaris)	94
+Q68AY9	reviewed	CCL8_CANLF	C-C motif chemokine 8 (Monocyte chemoattractant protein 2) (Monocyte chemotactic protein 2) (MCP-2) (Small-inducible cytokine A8)	CCL8 MCP2	Canis lupus familiaris (Dog) (Canis familiaris)	99
+Q68CM2	unreviewed	Q68CM2_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	103
+Q6W5C0	reviewed	CXCL3_MOUSE	C-X-C motif chemokine 3 (Dendritic cell inflammatory protein 1)	Cxcl3 Dcip1 Gm1960	Mus musculus (Mouse)	100
+Q95MZ7	unreviewed	Q95MZ7_SHEEP	C-X-C motif chemokine	IP-10 CXCL10	Ovis aries (Sheep)	102
+Q9TTQ3	reviewed	CCL2_HORSE	C-C motif chemokine 2 (Monocyte chemoattractant protein 1) (Monocyte chemotactic protein 1) (MCP-1) (Small-inducible cytokine A2)	CCL2 MCP1 SCYA2	Equus caballus (Horse)	99
+Q9TTS6	reviewed	CCL11_BOVIN	Eotaxin (C-C motif chemokine 11) (Small-inducible cytokine A11)	CCL11	Bos taurus (Bovine)	97
+Q9WUQ5	reviewed	CXL14_MOUSE	C-X-C motif chemokine 14 (B-cell and monocyte-activating chemokine) (Chemokine BRAK) (Kidney-expressed chemokine CXC) (MIP-2G) (Small-inducible cytokine B14)	Cxcl14 Bmac Kec Ks1 Mip2g Scyb14	Mus musculus (Mouse)	99
+Q9Z121	reviewed	CCL8_MOUSE	C-C motif chemokine 8 (Monocyte chemoattractant protein 2) (Monocyte chemotactic protein 2) (MCP-2) (Small-inducible cytokine A8)	Ccl8 Mcp2 Scya8	Mus musculus (Mouse)	97
+S5TPE2	unreviewed	S5TPE2_SHEEP	C-X-C motif chemokine	IL-8	Ovis aries (Sheep)	101
+A0A0G2JYH6	unreviewed	A0A0G2JYH6_RAT	C-C motif chemokine ligand 24	Ccl24	Rattus norvegicus (Rat)	115
+A0A0N4SUZ8	unreviewed	A0A0N4SUZ8_MOUSE	C-C motif chemokine	Ccl19	Mus musculus (Mouse)	116
+A0A0R4INB9	reviewed	CX111_DANRE	C-X-C motif chemokine 11-1	cxcl11.1 cxcl11aa	Danio rerio (Zebrafish) (Brachydanio rerio)	94
+A0A286XCB0	unreviewed	A0A286XCB0_CAVPO	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	LOC100714756	Cavia porcellus (Guinea pig)	114
+A0A286XN83	unreviewed	A0A286XN83_CAVPO	C-X-C motif chemokine	CXCL11	Cavia porcellus (Guinea pig)	97
+A0A287BN00	unreviewed	A0A287BN00_PIG	C-C motif chemokine	CCL26	Sus scrofa (Pig)	94
+A0A2I3RK63	unreviewed	A0A2I3RK63_PANTR	C-C motif chemokine	CCL13	Pan troglodytes (Chimpanzee)	98
+A0A2I3TV26	unreviewed	A0A2I3TV26_PANTR	C-C motif chemokine	CCL11	Pan troglodytes (Chimpanzee)	97
+A0A2R8P6F7	unreviewed	A0A2R8P6F7_CALJA	C-C motif chemokine ligand 8	CCL8	Callithrix jacchus (White-tufted-ear marmoset)	99
+A0A3Q1M085	unreviewed	A0A3Q1M085_BOVIN	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Bos taurus (Bovine)	119
+A0A3Q1M5V9	unreviewed	A0A3Q1M5V9_BOVIN	C-C motif chemokine	CCL26	Bos taurus (Bovine)	94
+A0A3Q1NB11	unreviewed	A0A3Q1NB11_BOVIN	C-C motif chemokine		Bos taurus (Bovine)	89
+A0A3Q2KVU7	unreviewed	A0A3Q2KVU7_HORSE	C-C motif chemokine ligand 24	CCL24	Equus caballus (Horse)	109
+A0A4X1T9Y7	unreviewed	A0A4X1T9Y7_PIG	C-C motif chemokine	CCL11	Sus scrofa (Pig)	97
+A0A5F4WD53	unreviewed	A0A5F4WD53_CALJA	C-X-C motif chemokine ligand 13	CXCL13	Callithrix jacchus (White-tufted-ear marmoset)	104
+A0A5F9CYC5	unreviewed	A0A5F9CYC5_RABIT	C-C motif chemokine	CCL19	Oryctolagus cuniculus (Rabbit)	109
+A0A669D2I6	unreviewed	A0A669D2I6_ORENI	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	cxcl12b	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	102
+A0A6D2XBM0	unreviewed	A0A6D2XBM0_PANTR	C-C motif chemokine	CK820_G0028672	Pan troglodytes (Chimpanzee)	97
+A0A6D2XI59	unreviewed	A0A6D2XI59_PANTR	C-C motif chemokine	CK820_G0014397	Pan troglodytes (Chimpanzee)	98
+A0A6D2XXF3	unreviewed	A0A6D2XXF3_PONAB	C-C motif chemokine ligand 24 (CCL24 isoform 1) (CCL24 isoform 2)	CCL24 CR201_G0040186	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	119
+A0A6D2Y3F8	unreviewed	A0A6D2Y3F8_PANTR	C-X-C motif chemokine	CK820_G0003560	Pan troglodytes (Chimpanzee)	109
+A0A6P3EE98	unreviewed	A0A6P3EE98_SHEEP	C-C motif chemokine	JEQ12_012618	Ovis aries (Sheep)	94
+A0A6P3EGX0	unreviewed	A0A6P3EGX0_SHEEP	C-C motif chemokine	JEQ12_003314	Ovis aries (Sheep)	97
+A0A6P7DF91	unreviewed	A0A6P7DF91_SHEEP	Chemokine interleukin-8-like domain-containing protein	JEQ12_012619	Ovis aries (Sheep)	116
+A0A7N5JD91	unreviewed	A0A7N5JD91_AILME	Cytokine SCM-1 beta		Ailuropoda melanoleuca (Giant panda)	112
+A0A7N5JDK7	unreviewed	A0A7N5JDK7_AILME	C-C motif chemokine	CCL26	Ailuropoda melanoleuca (Giant panda)	105
+A0A7N5JVR6	unreviewed	A0A7N5JVR6_AILME	C-C motif chemokine	CCL5	Ailuropoda melanoleuca (Giant panda)	91
+A0A7N5K062	unreviewed	A0A7N5K062_AILME	C-C motif chemokine ligand 8	CCL8	Ailuropoda melanoleuca (Giant panda)	99
+A0A7N5KL52	unreviewed	A0A7N5KL52_AILME	C-C motif chemokine	LOC100469047	Ailuropoda melanoleuca (Giant panda)	93
+A0A803SMD1	unreviewed	A0A803SMD1_ANOCA	C-X-C motif chemokine	CXCL13	Anolis carolinensis (Green anole) (American chameleon)	96
+A0A8B7EYN1	unreviewed	A0A8B7EYN1_MICMU	C-X-C motif chemokine	CXCL10	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	98
+A0A8B7F1A6	unreviewed	A0A8B7F1A6_MICMU	C-X-C motif chemokine ligand 13	CXCL13	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	111
+A0A8B7HMC3	unreviewed	A0A8B7HMC3_MICMU	C-C motif chemokine	LOC105881608	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	120
+A0A8B7I6B2	unreviewed	A0A8B7I6B2_MICMU	C-C motif chemokine	CCL8	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	99
+A0A8C0T5A2	unreviewed	A0A8C0T5A2_CANLF	C-X-C motif chemokine	CXCL13	Canis lupus familiaris (Dog) (Canis familiaris)	110
+A0A8C0TUX0	unreviewed	A0A8C0TUX0_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	119
+A0A8C5Y5G9	unreviewed	A0A8C5Y5G9_MICMU	C-C motif chemokine ligand 24	CCL24	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	119
+A0A8C6EK44	unreviewed	A0A8C6EK44_MICMU	C-C motif chemokine	CCL19	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	98
+A0A8D0QYD0	unreviewed	A0A8D0QYD0_PIG	C-C motif chemokine	CCL8	Sus scrofa (Pig)	99
+A0A8D0V261	unreviewed	A0A8D0V261_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	119
+A0A8D1AK59	unreviewed	A0A8D1AK59_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	110
+A0A8D1DCB4	unreviewed	A0A8D1DCB4_PIG	C-C motif chemokine	CCL8	Sus scrofa (Pig)	97
+A0A8D1WA14	unreviewed	A0A8D1WA14_PIG	C-C motif chemokine		Sus scrofa (Pig)	100
+A0A8I3NMN5	unreviewed	A0A8I3NMN5_CANLF	C-X-C motif chemokine	CXCL13	Canis lupus familiaris (Dog) (Canis familiaris)	110
+A0A8I3PX81	unreviewed	A0A8I3PX81_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	119
+A2VBZ2	unreviewed	A2VBZ2_MELGA	C-X-C motif chemokine	cxcli2 IL8	Meleagris gallopavo (Wild turkey)	103
+A6HHD4	unreviewed	A6HHD4_RAT	C-C motif chemokine	Ccl11 rCG_34880	Rattus norvegicus (Rat)	97
+A6HHI7	unreviewed	A6HHI7_RAT	C-C motif chemokine	Ccl3 rCG_34044	Rattus norvegicus (Rat)	92
+A6KK92	unreviewed	A6KK92_RAT	C-X-C motif chemokine	Cxcl10 rCG_60375	Rattus norvegicus (Rat)	98
+A9QWQ1	reviewed	CXL11_BOVIN	C-X-C motif chemokine 11 (Small-inducible cytokine B11)	CXCL11	Bos taurus (Bovine)	100
+B3DGM0	unreviewed	B3DGM0_DANRE	C-C motif chemokine	ccl20a.3 CH73-320I17.1 LOC100004509 zgc:195195 zgc:195209	Danio rerio (Zebrafish) (Brachydanio rerio)	99
+B3GDZ4	unreviewed	B3GDZ4_PIG	C-C motif chemokine	CCL2	Sus scrofa (Pig)	99
+B3VH90	unreviewed	B3VH90_BOVIN	C-C motif chemokine	CCL11	Bos taurus (Bovine)	97
+B5DEM2	unreviewed	B5DEM2_RAT	C-X-C motif chemokine	Cxcl11 rCG_60434	Rattus norvegicus (Rat)	100
+C7F842	unreviewed	C7F842_PIG	C-C motif chemokine	CCL8	Sus scrofa (Pig)	99
+D3ZDY4	unreviewed	D3ZDY4_RAT	C-C motif chemokine	Ccl1	Rattus norvegicus (Rat)	92
+D9YM45	unreviewed	D9YM45_MOUSE	C-X-C motif chemokine 16 (Transmembrane chemokine CXCL16)	Cxcl16	Mus musculus (Mouse)	119
+F1QBE9	unreviewed	F1QBE9_DANRE	C-C motif chemokine 25 (Small-inducible cytokine A25)	ccl25b	Danio rerio (Zebrafish) (Brachydanio rerio)	106
+F6Q1T6	unreviewed	F6Q1T6_RAT	Chemokine (C-C motif) ligand 24 (RCG21808)	Ccl24 rCG_21808	Rattus norvegicus (Rat)	119
+F6ZD18	unreviewed	F6ZD18_HORSE	C-C motif chemokine	CCL26	Equus caballus (Horse)	94
+F6ZX45	unreviewed	F6ZX45_HORSE	C-X-C motif chemokine	CXCL13	Equus caballus (Horse)	110
+F7BQ31	unreviewed	F7BQ31_CALJA	C-C motif chemokine	CCL19	Callithrix jacchus (White-tufted-ear marmoset)	98
+G1L6W7	unreviewed	G1L6W7_AILME	C-X-C motif chemokine ligand 13	CXCL13	Ailuropoda melanoleuca (Giant panda)	110
+G1M5G9	unreviewed	G1M5G9_AILME	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Ailuropoda melanoleuca (Giant panda)	119
+G1QLE8	unreviewed	G1QLE8_NOMLE	C-C motif chemokine	CCL11	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	97
+G1QLF8	unreviewed	G1QLF8_NOMLE	C-C motif chemokine	CCL8	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	99
+G1R9B8	unreviewed	G1R9B8_NOMLE	C-X-C motif chemokine	CXCL11	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	94
+G1R9S8	unreviewed	G1R9S8_NOMLE	C-X-C motif chemokine ligand 13	CXCL13	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	109
+G1RB61	unreviewed	G1RB61_NOMLE	C-C motif chemokine ligand 24	CCL24	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	118
+G1RB74	unreviewed	G1RB74_NOMLE	C-C motif chemokine	CCL26	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	94
+G1SPZ3	unreviewed	G1SPZ3_RABIT	Chemokine (C-C motif) ligand 11	CCL11	Oryctolagus cuniculus (Rabbit)	96
+G1TR38	unreviewed	G1TR38_RABIT	C-X-C motif chemokine ligand 13	CXCL13	Oryctolagus cuniculus (Rabbit)	105
+G3QK67	unreviewed	G3QK67_GORGO	C-C motif chemokine	CCL13	Gorilla gorilla gorilla (Western lowland gorilla)	98
+G3QPB9	unreviewed	G3QPB9_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	109
+G3QPC3	unreviewed	G3QPC3_GORGO	C-C motif chemokine	CCL8	Gorilla gorilla gorilla (Western lowland gorilla)	99
+G3R3B6	unreviewed	G3R3B6_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	114
+G3RE10	unreviewed	G3RE10_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	109
+G3RRC3	unreviewed	G3RRC3_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	96
+G3T4V5	unreviewed	G3T4V5_LOXAF	C-X-C motif chemokine ligand 13	CXCL13	Loxodonta africana (African elephant)	110
+G3TAQ9	unreviewed	G3TAQ9_LOXAF	C-C motif chemokine ligand 8	CCL8	Loxodonta africana (African elephant)	95
+G3U0E4	unreviewed	G3U0E4_LOXAF	Chemokine interleukin-8-like domain-containing protein		Loxodonta africana (African elephant)	95
+G3U2Z0	unreviewed	G3U2Z0_LOXAF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Loxodonta africana (African elephant)	119
+G3UCE9	unreviewed	G3UCE9_LOXAF	C-C motif chemokine	CCL19	Loxodonta africana (African elephant)	103
+H0UW27	unreviewed	H0UW27_CAVPO	Chemokine interleukin-8-like domain-containing protein	Cxcl13	Cavia porcellus (Guinea pig)	109
+H2NTB5	unreviewed	H2NTB5_PONAB	C-C motif chemokine	CCL8 CR201_G0033749	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	99
+H2NTB7	unreviewed	H2NTB7_PONAB	C-C motif chemokine	CCL11 CR201_G0033748	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	97
+H2PDP9	unreviewed	H2PDP9_PONAB	C-X-C motif chemokine	CXCL13 CR201_G0024917	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	109
+H2PLV7	unreviewed	H2PLV7_PONAB	C-C motif chemokine	CCL26	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	94
+H2PRV6	unreviewed	H2PRV6_PONAB	C-C motif chemokine	CCL19 CR201_G0038963	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	104
+H2QCN5	unreviewed	H2QCN5_PANTR	C-C motif chemokine	CCL8	Pan troglodytes (Chimpanzee)	109
+H2QCN6	unreviewed	H2QCN6_PANTR	C-C motif chemokine	CCL1	Pan troglodytes (Chimpanzee)	96
+H2QPQ3	unreviewed	H2QPQ3_PANTR	C-X-C motif chemokine	CXCL11	Pan troglodytes (Chimpanzee)	94
+H2QPR5	unreviewed	H2QPR5_PANTR	C-X-C motif chemokine	CXCL13	Pan troglodytes (Chimpanzee)	109
+H2R9L7	unreviewed	H2R9L7_PANTR	C-C motif chemokine	CCL7	Pan troglodytes (Chimpanzee)	109
+N0GW19	unreviewed	N0GW19_DANRE	Chemokine (C-X-C motif) ligand 8b, duplicate 1 (Interleukin-8, like 1) (Interleukin-8b.1 precursor)	cxcl8b.1 il8l1	Danio rerio (Zebrafish) (Brachydanio rerio)	118
+O46678	reviewed	GROA_SHEEP	Growth-regulated alpha protein (C-X-C motif chemokine 1)	CXCL1 GRO SCYB1	Ovis aries (Sheep)	103
+O55235	reviewed	GROA_CAVPO	Growth-regulated alpha protein (C-X-C motif chemokine 1)	CXCL1 GRO SCYB1	Cavia porcellus (Guinea pig)	104
+O62812	reviewed	IL8_HORSE	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL8 IL8	Equus caballus (Horse)	101
+O88430	reviewed	CCL22_MOUSE	C-C motif chemokine 22 (Activated B and dendritic cell-derived) (CC chemokine ABCD-1) (Small-inducible cytokine A22)	Ccl22 Abcd1 Scya22	Mus musculus (Mouse)	92
+P41324	reviewed	IL8_CANLF	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL8 IL8	Canis lupus familiaris (Dog) (Canis familiaris)	101
+P46632	reviewed	CCL4_RABIT	C-C motif chemokine 4 (Immune activation protein 2) (ACT-2) (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (Small-inducible cytokine A4)	CCL4 SCYA4	Oryctolagus cuniculus (Rabbit)	92
+P49113	reviewed	IL8_CAVPO	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8) (Neutrophil attractant protein 1) (NAP-1)	CXCL8 IL8	Cavia porcellus (Guinea pig)	101
+P82943	reviewed	REG1_BOVIN	Regakine-1		Bos taurus (Bovine)	92
+Q17QA1	reviewed	CCL4_BOVIN	C-C motif chemokine 4 (Small-inducible cytokine A4)	CCL4 SCY4A	Bos taurus (Bovine)	92
+Q2KIR3	unreviewed	Q2KIR3_BOVIN	C-C motif chemokine ligand 24 (Chemokine (C-C motif) ligand 24)	CCL24	Bos taurus (Bovine)	116
+Q3TVN6	unreviewed	Q3TVN6_MOUSE	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	Pf4 Cxcl4	Mus musculus (Mouse)	105
+Q3U0A4	unreviewed	Q3U0A4_MOUSE	C-C motif chemokine	Ccl24	Mus musculus (Mouse)	119
+Q3U1J5	unreviewed	Q3U1J5_MOUSE	C-X-C motif chemokine	Cxcl2	Mus musculus (Mouse)	100
+Q56JW7	unreviewed	Q56JW7_BOVIN	C-X-C motif chemokine	CXCL13	Bos taurus (Bovine)	109
+Q5EBF6	reviewed	SDF1_XENTR	Stromal cell-derived factor 1 (SDF-1) (C-X-C motif chemokine 12)	cxcl12 sdf1	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	93
+Q5PPP2	unreviewed	Q5PPP2_RAT	C-C motif chemokine ligand 24	Ccl24	Rattus norvegicus (Rat)	119
+Q5RA36	reviewed	CCL2_PONAB	C-C motif chemokine 2 (Small-inducible cytokine A2)	CCL2	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	99
+Q68AZ0	reviewed	CCL4_CANLF	C-C motif chemokine 4 (Small-inducible cytokine A4)	CCL4 SCYA4	Canis lupus familiaris (Dog) (Canis familiaris)	92
+Q68FP3	reviewed	CCL6_RAT	C-C motif chemokine 6 (Small-inducible cytokine A6)	Ccl6	Rattus norvegicus (Rat)	115
+Q68Y86	reviewed	CCL24_CANLF	C-C motif chemokine 24 (Eosinophil chemotactic protein 2) (Eotaxin-2) (Small-inducible cytokine A24)	CCL24	Canis lupus familiaris (Dog) (Canis familiaris)	119
+Q68Y88	reviewed	CCL13_CANLF	C-C motif chemokine 13 (Monocyte chemoattractant protein 4) (Monocyte chemotactic protein 4) (MCP-4) (Small-inducible cytokine A13)	CCL13	Canis lupus familiaris (Dog) (Canis familiaris)	98
+Q6I9T4	unreviewed	Q6I9T4_HUMAN	C-C motif chemokine	CCL11 hCG_29299	Homo sapiens (Human)	97
+Q711P4	reviewed	CCL4_PIG	C-C motif chemokine 4 (Macrophage inflammatory protein 1-beta) (MIP-1-beta) (Small-inducible cytokine A4)	CCL4 MIP1B SCY4A	Sus scrofa (Pig)	92
+Q7TNL0	unreviewed	Q7TNL0_RAT	C-X-C motif chemokine	Cxcl11	Rattus norvegicus (Rat)	100
+Q8HYS0	reviewed	CCL5_CANLF	C-C motif chemokine 5 (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	CCL5 SCYA5	Canis lupus familiaris (Dog) (Canis familiaris)	91
+Q8K477	unreviewed	Q8K477_RAT	Eotaxin-2-like protein	Ccl24	Rattus norvegicus (Rat)	119
+Q8MIN2	reviewed	CXCL6_HORSE	C-X-C motif chemokine 6 (Granulocyte chemotactic protein 2) (GCP-2) (Small-inducible cytokine B6)	CXCL6 GCP2 SCYB6	Equus caballus (Horse)	113
+Q8MKD0	reviewed	CCL5_HORSE	C-C motif chemokine 5 (Small-inducible cytokine A5) (T-cell-specific protein RANTES)	CCL5 SCYA5	Equus caballus (Horse)	91
+Q8SQB1	reviewed	CCL20_BOVIN	C-C motif chemokine 20 (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20)	CCL20 MIP3A SCYA20	Bos taurus (Bovine)	96
+Q95N01	reviewed	CCL17_CANLF	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL17 TARC	Canis lupus familiaris (Dog) (Canis familiaris)	99
+Q9ERE0	reviewed	CCL17_RAT	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	Ccl17 Abcd-2 Tarc	Rattus norvegicus (Rat)	93
+Q9JHH5	reviewed	CXL11_MOUSE	C-X-C motif chemokine 11 (Interferon-inducible T-cell alpha chemoattractant) (I-TAC) (Small-inducible cytokine B11)	Cxcl11 Scyb11	Mus musculus (Mouse)	100
+Q9TTQ4	reviewed	CCL11_HORSE	Eotaxin (C-C motif chemokine 11) (Small-inducible cytokine A11)	CCL11 SCYA11	Equus caballus (Horse)	100
+Q9Z318	unreviewed	Q9Z318_CAVPO	C-C motif chemokine	Mcpt3	Cavia porcellus (Guinea pig)	97
+A0A087X089	unreviewed	A0A087X089_HUMAN	C-C motif chemokine	CCL14	Homo sapiens (Human)	115
+A0A088C578	unreviewed	A0A088C578_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	SDF1	Equus caballus (Horse)	89
+A0A0B4J2E2	unreviewed	A0A0B4J2E2_HUMAN	C-C motif chemokine	CCL15-CCL14	Homo sapiens (Human)	113
+A0A0C4DGC1	unreviewed	A0A0C4DGC1_HUMAN	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Homo sapiens (Human)	99
+A0A0G2KM47	unreviewed	A0A0G2KM47_DANRE	C-X-C motif chemokine 11-6-like	cxcl11.4 LOC567656	Danio rerio (Zebrafish) (Brachydanio rerio)	96
+A0A0G2L2I4	unreviewed	A0A0G2L2I4_DANRE	C-C motif chemokine	ccl36.1 CCL-chr7a CCL-CUi CCL36ab	Danio rerio (Zebrafish) (Brachydanio rerio)	93
+A0A0R4IQ43	unreviewed	A0A0R4IQ43_DANRE	Chemokine (C-X-C motif) ligand 11, duplicate 5	cxcl11.5	Danio rerio (Zebrafish) (Brachydanio rerio)	106
+A0A0R4IRX2	unreviewed	A0A0R4IRX2_DANRE	C-C motif chemokine	ccl27a ccl1 wu:fa96a04	Danio rerio (Zebrafish) (Brachydanio rerio)	94
+A0A0R4ISV2	unreviewed	A0A0R4ISV2_DANRE	Chemokine (C-C motif) ligand 39, duplicate 2 (Eotaxin isoform X1)	ccl39.2	Danio rerio (Zebrafish) (Brachydanio rerio)	87
+A0A1B8Y8I6	unreviewed	A0A1B8Y8I6_XENTR	Chemokine interleukin-8-like domain-containing protein	XENTR_v90029243mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	105
+A0A1B8Y8K7	unreviewed	A0A1B8Y8K7_XENTR	Interleukin-8 (Provisional ortholog of C-X-C motif chemokine ligand 8)	cxcl8b.2 LOC100498234 XB5945946 XB5945946 [provisional:cxcl8] XENTR_v90029245mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	108
+A0A1B8Y8M7	unreviewed	A0A1B8Y8M7_XENTR	Chemokine interleukin-8-like domain-containing protein	XENTR_v90029262mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	99
+A0A1B8Y8M9	unreviewed	A0A1B8Y8M9_XENTR	C-X-C motif chemokine	cxcl2 XENTR_v90029241mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	101
+A0A1B8Y8P4	unreviewed	A0A1B8Y8P4_XENTR	Interleukin-8	cxcl8a.2 LOC100498389 XENTR_v90029244mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	105
+
+A0A1S3KNJ8	unreviewed	A0A1S3KNJ8_SALSA	C-C motif chemokine	LOC106561115	Salmo salar (Atlantic salmon)	101
+A0A1S3M1J3	unreviewed	A0A1S3M1J3_SALSA	C-C motif chemokine	LOC106569680	Salmo salar (Atlantic salmon)	104
+A0A1S3M7E3	unreviewed	A0A1S3M7E3_SALSA	C-C motif chemokine	LOC106570861	Salmo salar (Atlantic salmon)	114
+A0A1S3M7H7	unreviewed	A0A1S3M7H7_SALSA	C-X-C motif chemokine 11-like	LOC106570878	Salmo salar (Atlantic salmon)	103
+A0A1S3N380	unreviewed	A0A1S3N380_SALSA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	cxcl12	Salmo salar (Atlantic salmon)	98
+A0A1S3N8D6	unreviewed	A0A1S3N8D6_SALSA	Growth-regulated alpha protein-like	LOC106577834	Salmo salar (Atlantic salmon)	112
+A0A1S3NQ22	unreviewed	A0A1S3NQ22_SALSA	Interleukin-8-like	LOC106580715	Salmo salar (Atlantic salmon)	117
+A0A1S3R9J1	unreviewed	A0A1S3R9J1_SALSA	Permeability factor 2-like	LOC106601371	Salmo salar (Atlantic salmon)	97
+A0A1S3RB01	unreviewed	A0A1S3RB01_SALSA	Growth-regulated alpha protein-like	LOC106601388	Salmo salar (Atlantic salmon)	113
+A0A1S3RPB1	unreviewed	A0A1S3RPB1_SALSA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	LOC106604225	Salmo salar (Atlantic salmon)	98
+A0A1S3S4A9	unreviewed	A0A1S3S4A9_SALSA	Permeability factor 2-like	LOC106607048	Salmo salar (Atlantic salmon)	97
+A0A1S3S8Y7	unreviewed	A0A1S3S8Y7_SALSA	C-X-C motif chemokine 13-like	LOC106607873	Salmo salar (Atlantic salmon)	110
+A0A1S3SCC4	unreviewed	A0A1S3SCC4_SALSA	C-C motif chemokine	LOC106608548	Salmo salar (Atlantic salmon)	92
+A0A1S3SDX3	unreviewed	A0A1S3SDX3_SALSA	Permeability factor 2-like	LOC106608877	Salmo salar (Atlantic salmon)	115
+A0A286X7F8	unreviewed	A0A286X7F8_CAVPO	C-C motif chemokine	LOC100735368	Cavia porcellus (Guinea pig)	94
+A0A286XAH0	unreviewed	A0A286XAH0_CAVPO	C-C motif chemokine ligand 27	CCL27	Cavia porcellus (Guinea pig)	119
+A0A286XIJ8	unreviewed	A0A286XIJ8_CAVPO	C-C motif chemokine	CCL14	Cavia porcellus (Guinea pig)	94
+A0A286XMC6	unreviewed	A0A286XMC6_CAVPO	C-C motif chemokine	LOC100717552	Cavia porcellus (Guinea pig)	120
+A0A286XNL7	unreviewed	A0A286XNL7_CAVPO	C-C motif chemokine	LOC106027640	Cavia porcellus (Guinea pig)	97
+A0A286XPT6	unreviewed	A0A286XPT6_CAVPO	C-C motif chemokine	LOC100734903	Cavia porcellus (Guinea pig)	93
+A0A286XWF2	unreviewed	A0A286XWF2_CAVPO	C-X-C motif chemokine	Cxcl2	Cavia porcellus (Guinea pig)	118
+A0A286XYS9	unreviewed	A0A286XYS9_CAVPO	C-C motif chemokine	LOC100735187	Cavia porcellus (Guinea pig)	93
+A0A286Y1J7	unreviewed	A0A286Y1J7_CAVPO	C-X-C motif chemokine	LOC100732171	Cavia porcellus (Guinea pig)	113
+A0A286Y638	unreviewed	A0A286Y638_CAVPO	C-C motif chemokine	CCL22	Cavia porcellus (Guinea pig)	93
+A0A287A706	unreviewed	A0A287A706_PIG	C-X-C motif chemokine	CXCL13	Sus scrofa (Pig)	111
+A0A287AV32	unreviewed	A0A287AV32_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A287BFR1	unreviewed	A0A287BFR1_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	107
+A0A2I2Y596	unreviewed	A0A2I2Y596_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	105
+A0A2I2Y5I3	unreviewed	A0A2I2Y5I3_GORGO	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)		Gorilla gorilla gorilla (Western lowland gorilla)	93
+A0A2I2YFE1	unreviewed	A0A2I2YFE1_GORGO	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)		Gorilla gorilla gorilla (Western lowland gorilla)	119
+A0A2I2YNA7	unreviewed	A0A2I2YNA7_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	120
+A0A2I2YQQ2	unreviewed	A0A2I2YQQ2_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	94
+A0A2I2YT40	unreviewed	A0A2I2YT40_GORGO	X-C motif chemokine ligand 1		Gorilla gorilla gorilla (Western lowland gorilla)	102
+A0A2I2ZAI4	unreviewed	A0A2I2ZAI4_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	97
+A0A2I2ZUR5	unreviewed	A0A2I2ZUR5_GORGO	C-C motif chemokine	CCL22	Gorilla gorilla gorilla (Western lowland gorilla)	93
+A0A2I2ZVE3	unreviewed	A0A2I2ZVE3_GORGO	Chemokine interleukin-8-like domain-containing protein		Gorilla gorilla gorilla (Western lowland gorilla)	79
+A0A2I3FXY3	unreviewed	A0A2I3FXY3_NOMLE	Chemokine interleukin-8-like domain-containing protein	CCL19	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	98
+A0A2I3GD59	unreviewed	A0A2I3GD59_NOMLE	Chemokine interleukin-8-like domain-containing protein		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	90
+A0A2I3GFF0	unreviewed	A0A2I3GFF0_NOMLE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	119
+A0A2I3GWS5	unreviewed	A0A2I3GWS5_NOMLE	C-C motif chemokine	CCL20	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	96
+A0A2I3H0B4	unreviewed	A0A2I3H0B4_NOMLE	Chemokine interleukin-8-like domain-containing protein	LOC100595821	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	89
+A0A2I3H1A2	unreviewed	A0A2I3H1A2_NOMLE	Chemokine interleukin-8-like domain-containing protein		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	91
+A0A2I3H9H8	unreviewed	A0A2I3H9H8_NOMLE	C-C motif chemokine	CCL22	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	93
+A0A2I3HDJ2	unreviewed	A0A2I3HDJ2_NOMLE	C-C motif chemokine	CCL14	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	93
+A0A2I3HE97	unreviewed	A0A2I3HE97_NOMLE	Chemokine interleukin-8-like domain-containing protein	LOC100607085	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	114
+A0A2I3HJM1	unreviewed	A0A2I3HJM1_NOMLE	C-C motif chemokine	LOC100602058	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	92
+A0A2I3HKQ9	unreviewed	A0A2I3HKQ9_NOMLE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	93
+A0A2I3HUY2	unreviewed	A0A2I3HUY2_NOMLE	C-X-C motif chemokine		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	94
+A0A2I3HWJ4	unreviewed	A0A2I3HWJ4_NOMLE	Chemokine interleukin-8-like domain-containing protein	LOC100595821	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	92
+A0A2I3RZV6	unreviewed	A0A2I3RZV6_PANTR	C-X-C motif chemokine	CXCL1	Pan troglodytes (Chimpanzee)	105
+A0A2I3S7G8	unreviewed	A0A2I3S7G8_PANTR	C-C motif chemokine		Pan troglodytes (Chimpanzee)	99
+A0A2I3SAA6	unreviewed	A0A2I3SAA6_PANTR	Chemokine interleukin-8-like domain-containing protein		Pan troglodytes (Chimpanzee)	92
+A0A2I3SMD5	unreviewed	A0A2I3SMD5_PANTR	C-C motif chemokine	CCL22	Pan troglodytes (Chimpanzee)	93
+A0A2I3SR46	unreviewed	A0A2I3SR46_PANTR	C-C motif chemokine	CCL3L3	Pan troglodytes (Chimpanzee)	87
+A0A2I3SS61	unreviewed	A0A2I3SS61_PANTR	Chemokine interleukin-8-like domain-containing protein		Pan troglodytes (Chimpanzee)	87
+A0A2I3SUB7	unreviewed	A0A2I3SUB7_PANTR	C-X-C motif chemokine	CXCL2	Pan troglodytes (Chimpanzee)	117
+A0A2I3T6I9	unreviewed	A0A2I3T6I9_PANTR	Chemokine interleukin-8-like domain-containing protein	LOC469572	Pan troglodytes (Chimpanzee)	114
+A0A2I3TGU9	unreviewed	A0A2I3TGU9_PANTR	Chemokine interleukin-8-like domain-containing protein	LOC455004	Pan troglodytes (Chimpanzee)	103
+A0A2J8LJ49	unreviewed	A0A2J8LJ49_PANTR	C-C motif chemokine	CK820_G0028671	Pan troglodytes (Chimpanzee)	99
+A0A2J8LJ50	unreviewed	A0A2J8LJ50_PANTR	C-C motif chemokine	CK820_G0028673	Pan troglodytes (Chimpanzee)	99
+A0A2J8LJK6	unreviewed	A0A2J8LJK6_PANTR	C-C motif chemokine	CK820_G0028752	Pan troglodytes (Chimpanzee)	93
+A0A2J8LJL0	unreviewed	A0A2J8LJL0_PANTR	C-C motif chemokine	CK820_G0028758	Pan troglodytes (Chimpanzee)	120
+A0A2J8LJL5	unreviewed	A0A2J8LJL5_PANTR	C-C motif chemokine	CK820_G0028752	Pan troglodytes (Chimpanzee)	115
+A0A2J8LJW1	unreviewed	A0A2J8LJW1_PANTR	C-C motif chemokine	CK820_G0028814	Pan troglodytes (Chimpanzee)	87
+A0A2J8LRP4	unreviewed	A0A2J8LRP4_PANTR	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CK820_G0026685	Pan troglodytes (Chimpanzee)	99
+A0A2J8MW74	unreviewed	A0A2J8MW74_PANTR	C-C motif chemokine	CCL17	Pan troglodytes (Chimpanzee)	94
+A0A2J8NFH2	unreviewed	A0A2J8NFH2_PANTR	C-C motif chemokine	CK820_G0010930	Pan troglodytes (Chimpanzee)	95
+A0A2J8PFF2	unreviewed	A0A2J8PFF2_PANTR	C-X-C motif chemokine	CK820_G0003474	Pan troglodytes (Chimpanzee)	95
+A0A2J8PX74	unreviewed	A0A2J8PX74_PANTR	C-C motif chemokine	CCL26	Pan troglodytes (Chimpanzee)	94
+A0A2J8QS38	unreviewed	A0A2J8QS38_PANTR	C-C motif chemokine	CK820_G0014397	Pan troglodytes (Chimpanzee)	104
+A0A2J8QZH7	unreviewed	A0A2J8QZH7_PONAB	CCL4L2 isoform 9	CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	87
+A0A2J8RCK5	unreviewed	A0A2J8RCK5_PONAB	C-C motif chemokine	CR201_G0051837	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	93
+A0A2J8RCK6	unreviewed	A0A2J8RCK6_PONAB	C-C motif chemokine	CR201_G0051837	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	109
+A0A2J8RCM5	unreviewed	A0A2J8RCM5_PONAB	C-C motif chemokine	CCL14 CR201_G0051837	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	115
+A0A2J8SHS1	unreviewed	A0A2J8SHS1_PONAB	C-C motif chemokine	CR201_G0042846	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	95
+A0A2J8TNF8	unreviewed	A0A2J8TNF8_PONAB	C-C motif chemokine	CCL13 CR201_G0033751	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	98
+A0A2J8UTY4	unreviewed	A0A2J8UTY4_PONAB	C-X-C motif chemokine	CR201_G0024834	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	113
+A0A2J8VQ66	unreviewed	A0A2J8VQ66_PONAB	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CR201_G0017585	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	99
+A0A2J8VZ34	unreviewed	A0A2J8VZ34_PONAB	C-C motif chemokine	CCL22 CR201_G0014625	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	93
+A0A2J8XTB3	unreviewed	A0A2J8XTB3_PONAB	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12 CR201_G0044927	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	119
+A0A2J8XTI0	unreviewed	A0A2J8XTI0_PONAB	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CR201_G0044927	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	89
+
+A0A2R8MT57	unreviewed	A0A2R8MT57_CALJA	C-C motif chemokine	CCL16	Callithrix jacchus (White-tufted-ear marmoset)	116
+A0A2R8MXM6	unreviewed	A0A2R8MXM6_CALJA	C-C motif chemokine	CCL13	Callithrix jacchus (White-tufted-ear marmoset)	97
+A0A2R8N0J1	unreviewed	A0A2R8N0J1_CALJA	C-C motif chemokine	CCL16	Callithrix jacchus (White-tufted-ear marmoset)	108
+A0A2R8N9E7	unreviewed	A0A2R8N9E7_CALJA	C-X-C motif chemokine	CXCL6	Callithrix jacchus (White-tufted-ear marmoset)	116
+A0A2R8QR67	unreviewed	A0A2R8QR67_DANRE	C-C motif chemokine 21 (Chemokine (C-C motif) ligand 25a)	ccl25a	Danio rerio (Zebrafish) (Brachydanio rerio)	102
+A0A2R8QTH6	unreviewed	A0A2R8QTH6_DANRE	Chemokine (C-C motif) ligand 19a, tandem duplicate 2 (Similar to CC chemokine SCYA113)	ccl19a.2 LOC794521	Danio rerio (Zebrafish) (Brachydanio rerio)	96
+
+
+A0A3Q1LKC4	unreviewed	A0A3Q1LKC4_BOVIN	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Bos taurus (Bovine)	117
+A0A3Q1M5N8	unreviewed	A0A3Q1M5N8_BOVIN	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Bos taurus (Bovine)	93
+A0A3Q1N456	unreviewed	A0A3Q1N456_BOVIN	C-X-C motif chemokine		Bos taurus (Bovine)	102
+A0A3Q2HK92	unreviewed	A0A3Q2HK92_HORSE	C-C motif chemokine 1 (Small-inducible cytokine A1)	CCL1	Equus caballus (Horse)	94
+A0A3Q2I4T7	unreviewed	A0A3Q2I4T7_HORSE	C-C motif chemokine 22 (Small-inducible cytokine A22)	CCL22	Equus caballus (Horse)	93
+A0A3Q2IDW7	unreviewed	A0A3Q2IDW7_HORSE	Chemokine interleukin-8-like domain-containing protein	XCL1	Equus caballus (Horse)	112
+A0A480X3P5	unreviewed	A0A480X3P5_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	107
+A0A481B8J5	unreviewed	A0A481B8J5_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	103
+A0A4D6YKM5	unreviewed	A0A4D6YKM5_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+A0A4D6YMT2	unreviewed	A0A4D6YMT2_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+A0A4D6YMU3	unreviewed	A0A4D6YMU3_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+A0A4D6YMV4	unreviewed	A0A4D6YMV4_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+A0A4D6YNR9	unreviewed	A0A4D6YNR9_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+A0A4D6YW90	unreviewed	A0A4D6YW90_RAT	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Rattus norvegicus (Rat)	114
+A0A4D6YWC7	unreviewed	A0A4D6YWC7_MOUSE	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	XCL1	Mus musculus (Mouse)	114
+
+A0A4X1SDP2	unreviewed	A0A4X1SDP2_PIG	C-C motif chemokine		Sus scrofa (Pig)	93
+A0A4X1SVT8	unreviewed	A0A4X1SVT8_PIG	C-X-C motif chemokine	CXCL13	Sus scrofa (Pig)	111
+A0A4X1SX03	unreviewed	A0A4X1SX03_PIG	C-X-C motif chemokine	CXCL11	Sus scrofa (Pig)	100
+A0A4X1SZ52	unreviewed	A0A4X1SZ52_PIG	C-X-C motif chemokine	CXCL10	Sus scrofa (Pig)	103
+A0A4X1T2F3	unreviewed	A0A4X1T2F3_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A4X1T3L2	unreviewed	A0A4X1T3L2_PIG	C-X-C motif chemokine	LOC100525396 CXCL2	Sus scrofa (Pig)	107
+A0A4X1T3T9	unreviewed	A0A4X1T3T9_PIG	C-X-C motif chemokine	CXCL8	Sus scrofa (Pig)	95
+A0A4X1T4W1	unreviewed	A0A4X1T4W1_PIG	C-X-C motif chemokine	LOC100525396 CXCL2	Sus scrofa (Pig)	107
+A0A4X1T4Z1	unreviewed	A0A4X1T4Z1_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A4X1T503	unreviewed	A0A4X1T503_PIG	C-X-C motif chemokine	LOC100525396 CXCL2	Sus scrofa (Pig)	107
+A0A4X1T574	unreviewed	A0A4X1T574_PIG	C-C motif chemokine	CCL16	Sus scrofa (Pig)	120
+A0A4X1T596	unreviewed	A0A4X1T596_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A4X1T5A9	unreviewed	A0A4X1T5A9_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A4X1T5B6	unreviewed	A0A4X1T5B6_PIG	C-X-C motif chemokine	LOC100525396 CXCL2	Sus scrofa (Pig)	107
+A0A4X1T5K8	unreviewed	A0A4X1T5K8_PIG	C-C motif chemokine		Sus scrofa (Pig)	92
+A0A4X1T626	unreviewed	A0A4X1T626_PIG	C-C motif chemokine	CCL14	Sus scrofa (Pig)	99
+A0A4X1TDM7	unreviewed	A0A4X1TDM7_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A4X1U1V7	unreviewed	A0A4X1U1V7_PIG	C-C motif chemokine	CCL20	Sus scrofa (Pig)	95
+A0A4X1UMT7	unreviewed	A0A4X1UMT7_PIG	C-C motif chemokine		Sus scrofa (Pig)	94
+A0A4X1V768	unreviewed	A0A4X1V768_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	109
+A0A5F4VXZ9	unreviewed	A0A5F4VXZ9_CALJA	C-X-C motif chemokine	CXCL2	Callithrix jacchus (White-tufted-ear marmoset)	109
+A0A5F4W184	unreviewed	A0A5F4W184_CALJA	C-X-C motif chemokine	LOC100400489 CXCL2	Callithrix jacchus (White-tufted-ear marmoset)	107
+A0A5F4W1H3	unreviewed	A0A5F4W1H3_CALJA	C-C motif chemokine	CCL2	Callithrix jacchus (White-tufted-ear marmoset)	96
+A0A5F4WJQ3	unreviewed	A0A5F4WJQ3_CALJA	C-C motif chemokine	CCL7	Callithrix jacchus (White-tufted-ear marmoset)	108
+A0A5F5PZB4	unreviewed	A0A5F5PZB4_HORSE	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)		Equus caballus (Horse)	111
+A0A5F5Q0J6	unreviewed	A0A5F5Q0J6_HORSE	C-C motif chemokine 22 (Small-inducible cytokine A22)	CCL22	Equus caballus (Horse)	104
+A0A5F8G3R6	unreviewed	A0A5F8G3R6_MONDO	Chemokine interleukin-8-like domain-containing protein		Monodelphis domestica (Gray short-tailed opossum)	97
+A0A5F8G6A0	unreviewed	A0A5F8G6A0_MONDO	C-C motif chemokine	CCL19	Monodelphis domestica (Gray short-tailed opossum)	93
+A0A5F8G849	unreviewed	A0A5F8G849_MONDO	C-C motif chemokine 22 (Small-inducible cytokine A22)		Monodelphis domestica (Gray short-tailed opossum)	80
+A0A5F8GQ29	unreviewed	A0A5F8GQ29_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+A0A5F8GRB3	unreviewed	A0A5F8GRB3_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+A0A5F8GSS6	unreviewed	A0A5F8GSS6_MONDO	Interleukin-8 (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8)	CXCL13	Monodelphis domestica (Gray short-tailed opossum)	111
+A0A5F8HEY2	unreviewed	A0A5F8HEY2_MONDO	C-X-C motif chemokine ligand 11	CXCL11	Monodelphis domestica (Gray short-tailed opossum)	87
+A0A5F8HF86	unreviewed	A0A5F8HF86_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+A0A5F8HKT8	unreviewed	A0A5F8HKT8_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+A0A5F8HM16	unreviewed	A0A5F8HM16_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+A0A5F9D5U6	unreviewed	A0A5F9D5U6_RABIT	C-X-C motif chemokine	LOC100008921	Oryctolagus cuniculus (Rabbit)	105
+A0A5F9DI79	unreviewed	A0A5F9DI79_RABIT	G protein-coupled receptor 15 ligand	GPR15LG	Oryctolagus cuniculus (Rabbit)	75
+A0A5F9DK47	unreviewed	A0A5F9DK47_RABIT	C-C motif chemokine		Oryctolagus cuniculus (Rabbit)	119
+A0A5F9DU99	unreviewed	A0A5F9DU99_RABIT	C-X-C motif chemokine ligand 11	CXCL11	Oryctolagus cuniculus (Rabbit)	110
+A0A5G2QBL8	unreviewed	A0A5G2QBL8_PIG	C-X-C motif chemokine	CXCL8	Sus scrofa (Pig)	95
+A0A5G2QDT3	unreviewed	A0A5G2QDT3_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	96
+A0A5G2R804	unreviewed	A0A5G2R804_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	99
+A0A663D645	unreviewed	A0A663D645_PONAB	C-X-C motif chemokine	CR201_G0024832	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	101
+A0A663DAT3	unreviewed	A0A663DAT3_PONAB	C-X-C motif chemokine	CXCL2 CR201_G0024847	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	107
+A0A663DIR7	unreviewed	A0A663DIR7_PONAB	C-C motif chemokine	CCL1 CR201_G0033752	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	96
+A0A669B0H6	unreviewed	A0A669B0H6_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100698610	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	91
+A0A669BH39	unreviewed	A0A669BH39_ORENI	C-C motif chemokine	LOC100700696	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	100
+A0A669BUK1	unreviewed	A0A669BUK1_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC102082882	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	86
+A0A669BVI5	unreviewed	A0A669BVI5_ORENI	C-C motif chemokine	LOC100700696	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669C238	unreviewed	A0A669C238_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	103
+A0A669CCG0	unreviewed	A0A669CCG0_ORENI	C-C motif chemokine	LOC100704474	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	91
+A0A669CCR0	unreviewed	A0A669CCR0_ORENI	Interleukin-8	LOC109202588	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	94
+A0A669CCY7	unreviewed	A0A669CCY7_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109194344	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	86
+A0A669CEE0	unreviewed	A0A669CEE0_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100698610	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	92
+A0A669CGM0	unreviewed	A0A669CGM0_ORENI	C-C motif chemokine		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	100
+A0A669CRW9	unreviewed	A0A669CRW9_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100704742	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+A0A669D8L6	unreviewed	A0A669D8L6_ORENI	C-C motif chemokine	LOC100704474	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	86
+A0A669DA90	unreviewed	A0A669DA90_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109194295	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	114
+A0A669DEK6	unreviewed	A0A669DEK6_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100698610	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	106
+A0A669DKE6	unreviewed	A0A669DKE6_ORENI	Interleukin-8	LOC109202588	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669DSS7	unreviewed	A0A669DSS7_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669DT10	unreviewed	A0A669DT10_ORENI	C-C motif chemokine	LOC109194396	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	106
+A0A669DWG7	unreviewed	A0A669DWG7_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100698610	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	91
+A0A669E009	unreviewed	A0A669E009_ORENI	C-C motif chemokine	LOC100700696	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669E6F2	unreviewed	A0A669E6F2_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	107
+A0A669E908	unreviewed	A0A669E908_ORENI	Chemokine (C-X-C motif) ligand 19	LOC106098416	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	102
+A0A669E9G9	unreviewed	A0A669E9G9_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	103
+A0A669EGI0	unreviewed	A0A669EGI0_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109194344	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	108
+A0A669EHP6	unreviewed	A0A669EHP6_ORENI	C-C motif chemokine		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	88
+A0A669EUF5	unreviewed	A0A669EUF5_ORENI	C-C motif chemokine	LOC100700696	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	103
+A0A669EVS8	unreviewed	A0A669EVS8_ORENI	Interleukin-8	LOC109202588	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	94
+A0A669EZ21	unreviewed	A0A669EZ21_ORENI	Chemokine (C-X-C motif) ligand 19	LOC106098416	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	101
+A0A669F5F6	unreviewed	A0A669F5F6_ORENI	C-C motif chemokine	LOC100700696	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	100
+A0A669F5T0	unreviewed	A0A669F5T0_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC102083221	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	112
+A0A669FAN8	unreviewed	A0A669FAN8_ORENI	Interleukin-8	LOC109202588	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	91
+
+A0A674H725	unreviewed	A0A674H725_TAEGU	Chemokine interleukin-8-like domain-containing protein	LOC101233529	Taeniopygia guttata (Zebra finch) (Poephila guttata)	96
+A0A674HPH2	unreviewed	A0A674HPH2_TAEGU	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Taeniopygia guttata (Zebra finch) (Poephila guttata)	91
+A0A674HRK9	unreviewed	A0A674HRK9_TAEGU	C-C motif chemokine		Taeniopygia guttata (Zebra finch) (Poephila guttata)	102
+A0A674HSH6	unreviewed	A0A674HSH6_TAEGU	Chemokine interleukin-8-like domain-containing protein	LOC105759181	Taeniopygia guttata (Zebra finch) (Poephila guttata)	102
+A0A6D2VUL4	unreviewed	A0A6D2VUL4_PONAB	C-X-C motif chemokine	CXCL11 CR201_G0024883	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	94
+A0A6D2W2X3	unreviewed	A0A6D2W2X3_PONAB	C-C motif chemokine	CCL19 CR201_G0038963	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	98
+A0A6D2W3M7	unreviewed	A0A6D2W3M7_PANTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CK820_G0048335	Pan troglodytes (Chimpanzee)	93
+A0A6D2W5A1	unreviewed	A0A6D2W5A1_PANTR	C-C motif chemokine	CK820_G0016597	Pan troglodytes (Chimpanzee)	93
+A0A6D2W9S4	unreviewed	A0A6D2W9S4_PONAB	C-C motif chemokine	CCL15 CR201_G0051835	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	113
+A0A6D2WB48	unreviewed	A0A6D2WB48_PANTR	C-C motif chemokine	CK820_G0028675	Pan troglodytes (Chimpanzee)	98
+A0A6D2WGT6	unreviewed	A0A6D2WGT6_PANTR	C-X-C motif chemokine	CK820_G0003476	Pan troglodytes (Chimpanzee)	114
+A0A6D2WIS0	unreviewed	A0A6D2WIS0_PANTR	C-C motif chemokine	CK820_G0028751	Pan troglodytes (Chimpanzee)	120
+A0A6D2WRJ0	unreviewed	A0A6D2WRJ0_PANTR	C-X-C motif chemokine	CK820_G0003486	Pan troglodytes (Chimpanzee)	107
+A0A6D2WS36	unreviewed	A0A6D2WS36_PONAB	C-C motif chemokine	CCL3 CR201_G0051828	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	92
+A0A6D2WSN0	unreviewed	A0A6D2WSN0_PANTR	C-C motif chemokine	CK820_G0028755	Pan troglodytes (Chimpanzee)	113
+A0A6D2WU21	unreviewed	A0A6D2WU21_PANTR	C-X-C motif chemokine	CK820_G0003489	Pan troglodytes (Chimpanzee)	107
+A0A6D2WX07	unreviewed	A0A6D2WX07_PANTR	C-C motif chemokine	CK820_G0028676	Pan troglodytes (Chimpanzee)	96
+A0A6D2WXY5	unreviewed	A0A6D2WXY5_PANTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CK820_G0048335	Pan troglodytes (Chimpanzee)	119
+A0A6D2X113	unreviewed	A0A6D2X113_PANTR	C-C motif chemokine	CK820_G0010930	Pan troglodytes (Chimpanzee)	96
+A0A6D2X4X5	unreviewed	A0A6D2X4X5_PANTR	C-C motif chemokine	CK820_G0028813	Pan troglodytes (Chimpanzee)	92
+A0A6D2X783	unreviewed	A0A6D2X783_PONAB	C-C motif chemokine	CR201_G0014627	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	94
+A0A6D2XEA6	unreviewed	A0A6D2XEA6_PANTR	C-X-C motif chemokine	CK820_G0003479	Pan troglodytes (Chimpanzee)	107
+A0A6D2XMZ7	unreviewed	A0A6D2XMZ7_PANTR	C10orf99 isoform 1	CK820_G0038538	Pan troglodytes (Chimpanzee)	81
+A0A6D2XN06	unreviewed	A0A6D2XN06_PONAB	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12 CR201_G0044927	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	93
+A0A6D2XQV2	unreviewed	A0A6D2XQV2_PANTR	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CK820_G0026685	Pan troglodytes (Chimpanzee)	111
+A0A6D2XW97	unreviewed	A0A6D2XW97_PANTR	C-X-C motif chemokine	CK820_G0003478	Pan troglodytes (Chimpanzee)	104
+A0A6D2XZ64	unreviewed	A0A6D2XZ64_PANTR	C-C motif chemokine	CK820_G0052202	Pan troglodytes (Chimpanzee)	94
+A0A6D2XZD1	unreviewed	A0A6D2XZD1_PANTR	C-C motif chemokine	CK820_G0028759	Pan troglodytes (Chimpanzee)	89
+A0A6D2XZU0	unreviewed	A0A6D2XZU0_PANTR	C-X-C motif chemokine	CK820_G0003484	Pan troglodytes (Chimpanzee)	114
+A0A6D2Y582	unreviewed	A0A6D2Y582_PANTR	C-C motif chemokine	CK820_G0016595	Pan troglodytes (Chimpanzee)	94
+A0A6D2Y5K9	unreviewed	A0A6D2Y5K9_PANTR	C-X-C motif chemokine	CK820_G0003526	Pan troglodytes (Chimpanzee)	94
+A0A6D2Y629	unreviewed	A0A6D2Y629_PANTR	C-C motif chemokine	CK820_G0028762	Pan troglodytes (Chimpanzee)	92
+A0A6D2Y7D5	unreviewed	A0A6D2Y7D5_PANTR	C-C motif chemokine	CK820_G0028670	Pan troglodytes (Chimpanzee)	99
+A0A6I8MZD4	unreviewed	A0A6I8MZD4_ORNAN	C-X-C motif chemokine	LOC100080367	Ornithorhynchus anatinus (Duckbill platypus)	117
+A0A6I8NGE9	unreviewed	A0A6I8NGE9_ORNAN	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Ornithorhynchus anatinus (Duckbill platypus)	92
+A0A6I8NJG0	unreviewed	A0A6I8NJG0_ORNAN	C-X-C motif chemokine		Ornithorhynchus anatinus (Duckbill platypus)	103
+A0A6I8PA82	unreviewed	A0A6I8PA82_ORNAN	Chemokine interleukin-8-like domain-containing protein		Ornithorhynchus anatinus (Duckbill platypus)	100
+A0A6I8PIU7	unreviewed	A0A6I8PIU7_HUMAN	C-X-C motif chemokine ligand 16	CXCL16	Homo sapiens (Human)	115
+A0A6I8RUV1	unreviewed	A0A6I8RUV1_XENTR	C-C motif chemokine		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	85
+A0A6I8SFK3	unreviewed	A0A6I8SFK3_XENTR	C-C motif chemokine	LOC101733520	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	120
+A0A6I8SI97	unreviewed	A0A6I8SI97_XENTR	C-C motif chemokine	ccl5	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	117
+
+A0A6P3E5W6	unreviewed	A0A6P3E5W6_SHEEP	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	JEQ12_016809	Ovis aries (Sheep)	99
+A0A6P3E7M8	unreviewed	A0A6P3E7M8_SHEEP	Chemokine interleukin-8-like domain-containing protein	JEQ12_003340	Ovis aries (Sheep)	94
+A0A6P3ECV3	unreviewed	A0A6P3ECV3_SHEEP	Chemokine interleukin-8-like domain-containing protein	JEQ12_003339	Ovis aries (Sheep)	100
+A0A6P3EE32	unreviewed	A0A6P3EE32_SHEEP	Chemokine interleukin-8-like domain-containing protein	JEQ12_003647	Ovis aries (Sheep)	109
+
+A0A6P7E720	unreviewed	A0A6P7E720_SHEEP	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	JEQ12_017506	Ovis aries (Sheep)	118
+A0A6P7ELK0	unreviewed	A0A6P7ELK0_SHEEP	C-C motif chemokine	JEQ12_003343	Ovis aries (Sheep)	89
+A0A6P7EPM9	unreviewed	A0A6P7EPM9_SHEEP	C-C motif chemokine	JEQ12_005010	Ovis aries (Sheep)	102
+A0A6P9FNA1	unreviewed	A0A6P9FNA1_SHEEP	Chemokine interleukin-8-like domain-containing protein	JEQ12_003646	Ovis aries (Sheep)	112
+A0A7D9NM09	unreviewed	A0A7D9NM09_XENTR	C-X-C motif chemokine 11-1	cxcl9 XENTR_v90029263mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	96
+A0A7N5J9J1	unreviewed	A0A7N5J9J1_AILME	C-X-C motif chemokine	CXCL6	Ailuropoda melanoleuca (Giant panda)	113
+A0A7N5JCF2	unreviewed	A0A7N5JCF2_AILME	Chemokine interleukin-8-like domain-containing protein	CCL24	Ailuropoda melanoleuca (Giant panda)	119
+A0A7N5JJT7	unreviewed	A0A7N5JJT7_AILME	C-C motif chemokine	CCL7	Ailuropoda melanoleuca (Giant panda)	99
+A0A7N5JJY7	unreviewed	A0A7N5JJY7_AILME	C-C motif chemokine	CCL17	Ailuropoda melanoleuca (Giant panda)	99
+A0A7N5JMS2	unreviewed	A0A7N5JMS2_AILME	C-C motif chemokine	CCL22	Ailuropoda melanoleuca (Giant panda)	118
+A0A7N5JV37	unreviewed	A0A7N5JV37_AILME	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Ailuropoda melanoleuca (Giant panda)	110
+A0A7N5JYG9	unreviewed	A0A7N5JYG9_AILME	C-X-C motif chemokine	LOC100463732	Ailuropoda melanoleuca (Giant panda)	107
+A0A7N5K1W6	unreviewed	A0A7N5K1W6_AILME	C-C motif chemokine	CCL13	Ailuropoda melanoleuca (Giant panda)	98
+A0A7N5K2E6	unreviewed	A0A7N5K2E6_AILME	Regakine-1-like	LOC100464006	Ailuropoda melanoleuca (Giant panda)	93
+A0A7N5K8I6	unreviewed	A0A7N5K8I6_AILME	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Ailuropoda melanoleuca (Giant panda)	93
+A0A7N5KAC4	unreviewed	A0A7N5KAC4_AILME	C-C motif chemokine	LOC100468796	Ailuropoda melanoleuca (Giant panda)	92
+A0A7N5KP95	unreviewed	A0A7N5KP95_AILME	C-X-C motif chemokine	CXCL11	Ailuropoda melanoleuca (Giant panda)	94
+A0A7N5KT34	unreviewed	A0A7N5KT34_AILME	C-X-C motif chemokine	LOC100463732	Ailuropoda melanoleuca (Giant panda)	103
+A0A7N5P4P7	unreviewed	A0A7N5P4P7_AILME	G protein-coupled receptor 15 ligand	GPR15LG	Ailuropoda melanoleuca (Giant panda)	81
+A0A7N5P516	unreviewed	A0A7N5P516_AILME	C-C motif chemokine	CCL20	Ailuropoda melanoleuca (Giant panda)	95
+A0A7N5P6Z7	unreviewed	A0A7N5P6Z7_AILME	C-X-C motif chemokine	CXCL8	Ailuropoda melanoleuca (Giant panda)	95
+A0A7N5P8G2	unreviewed	A0A7N5P8G2_AILME	C-C motif chemokine 14-like	LOC100468009	Ailuropoda melanoleuca (Giant panda)	118
+A0A7T6ZK99	unreviewed	A0A7T6ZK99_LOXAF	C-X-C motif chemokine	CXCL10	Loxodonta africana (African elephant)	104
+A0A803J3G3	unreviewed	A0A803J3G3_XENTR	Chemokine interleukin-8-like domain-containing protein		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	95
+A0A803JI72	unreviewed	A0A803JI72_XENTR	C-C motif chemokine	ccl5	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	94
+A0A803JT64	unreviewed	A0A803JT64_XENTR	C-X-C motif chemokine	cxcl2	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	99
+A0A803K035	unreviewed	A0A803K035_XENTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	cxcl12	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	110
+A0A803T9I6	unreviewed	A0A803T9I6_ANOCA	Chemokine interleukin-8-like domain-containing protein	LOC100553449	Anolis carolinensis (Green anole) (American chameleon)	105
+A0A803TBM9	unreviewed	A0A803TBM9_ANOCA	Chemokine interleukin-8-like domain-containing protein	LOC103279059	Anolis carolinensis (Green anole) (American chameleon)	97
+A0A803Y3R1	unreviewed	A0A803Y3R1_MELGA	C-C motif chemokine	LOC104913852	Meleagris gallopavo (Wild turkey)	97
+A0A803Y7Z5	unreviewed	A0A803Y7Z5_MELGA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Meleagris gallopavo (Wild turkey)	92
+A0A803Y8I0	unreviewed	A0A803Y8I0_MELGA	Chemokine interleukin-8-like domain-containing protein	LOC104910575	Meleagris gallopavo (Wild turkey)	106
+A0A803YB02	unreviewed	A0A803YB02_MELGA	C-C motif chemokine		Meleagris gallopavo (Wild turkey)	101
+A0A835ZSI2	unreviewed	A0A835ZSI2_SHEEP	C-C motif chemokine	JEQ12_005011	Ovis aries (Sheep)	95
+A0A835ZWU2	unreviewed	A0A835ZWU2_SHEEP	C-C motif chemokine	JEQ12_003345	Ovis aries (Sheep)	112
+A0A835ZZU5	unreviewed	A0A835ZZU5_SHEEP	C-C motif chemokine	JEQ12_003344	Ovis aries (Sheep)	93
+A0A836A206	unreviewed	A0A836A206_SHEEP	C-X-C motif chemokine	JEQ12_017508	Ovis aries (Sheep)	88
+A0A836A767	unreviewed	A0A836A767_SHEEP	C-X-C motif chemokine	JEQ12_017525	Ovis aries (Sheep)	94
+A0A836A9E0	unreviewed	A0A836A9E0_SHEEP	C-C motif chemokine	JEQ12_003349	Ovis aries (Sheep)	93
+A0A836ADK3	unreviewed	A0A836ADK3_SHEEP	C-X-C motif chemokine	JEQ12_017509	Ovis aries (Sheep)	88
+A0A836CQ50	unreviewed	A0A836CQ50_SHEEP	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	JEQ12_013078	Ovis aries (Sheep)	119
+A0A836CYF6	unreviewed	A0A836CYF6_SHEEP	C-C motif chemokine	JEQ12_003342	Ovis aries (Sheep)	105
+A0A836CYX0	unreviewed	A0A836CYX0_SHEEP	C-C motif chemokine	JEQ12_005007	Ovis aries (Sheep)	73
+A0A836CZQ2	unreviewed	A0A836CZQ2_SHEEP	C-C motif chemokine	JEQ12_003338	Ovis aries (Sheep)	79
+A0A836D4N9	unreviewed	A0A836D4N9_SHEEP	C-X-C motif chemokine	JEQ12_017504	Ovis aries (Sheep)	97
+
+A0A8B7EYJ6	unreviewed	A0A8B7EYJ6_MICMU	C-X-C motif chemokine	CXCL11	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	106
+A0A8B7EZ80	unreviewed	A0A8B7EZ80_MICMU	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	LOC105860501	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	108
+A0A8B7FF65	unreviewed	A0A8B7FF65_MICMU	C-C motif chemokine	CCL17	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	102
+A0A8B7FFZ5	unreviewed	A0A8B7FFZ5_MICMU	C-C motif chemokine	CCL22	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	93
+A0A8B7GSB6	unreviewed	A0A8B7GSB6_MICMU	C-C motif chemokine ligand 27	CCL27	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	119
+A0A8B7HMY4	unreviewed	A0A8B7HMY4_MICMU	C-C motif chemokine	LOC105881712	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	92
+A0A8B7HNG4	unreviewed	A0A8B7HNG4_MICMU	C-C motif chemokine	CCL14	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	95
+A0A8B7HP47	unreviewed	A0A8B7HP47_MICMU	C-C motif chemokine ligand 16	CCL16	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	119
+A0A8C0M8G7	unreviewed	A0A8C0M8G7_CANLF	C-C motif chemokine	CCL22	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8C0MGW8	unreviewed	A0A8C0MGW8_CANLF	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Canis lupus familiaris (Dog) (Canis familiaris)	99
+A0A8C0N7F1	unreviewed	A0A8C0N7F1_CANLF	Chemokine interleukin-8-like domain-containing protein		Canis lupus familiaris (Dog) (Canis familiaris)	92
+A0A8C0NNJ5	unreviewed	A0A8C0NNJ5_CANLF	C-C motif chemokine	CCL7	Canis lupus familiaris (Dog) (Canis familiaris)	99
+A0A8C0NWR9	unreviewed	A0A8C0NWR9_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8C0NXF9	unreviewed	A0A8C0NXF9_CANLF	C-X-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	115
+A0A8C0NXT2	unreviewed	A0A8C0NXT2_CANLF	C-C motif chemokine	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8C0NY00	unreviewed	A0A8C0NY00_CANLF	C-X-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	111
+A0A8C0NYM9	unreviewed	A0A8C0NYM9_CANLF	C-X-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	113
+A0A8C0NYU3	unreviewed	A0A8C0NYU3_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	89
+A0A8C0P1V6	unreviewed	A0A8C0P1V6_CANLF	C-X-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	115
+A0A8C0PBJ7	unreviewed	A0A8C0PBJ7_CANLF	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL20	Canis lupus familiaris (Dog) (Canis familiaris)	97
+A0A8C0PE59	unreviewed	A0A8C0PE59_CANLF	C-C motif chemokine	CCL3	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8C0PT44	unreviewed	A0A8C0PT44_CANLF	Chemokine interleukin-8-like domain-containing protein		Canis lupus familiaris (Dog) (Canis familiaris)	112
+A0A8C0Q2W2	unreviewed	A0A8C0Q2W2_CANLF	C-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	94
+A0A8C0Q5X2	unreviewed	A0A8C0Q5X2_CANLF	C-C motif chemokine	CCL5	Canis lupus familiaris (Dog) (Canis familiaris)	91
+A0A8C0Q7D1	unreviewed	A0A8C0Q7D1_CANLF	C-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	117
+A0A8C0Q8I9	unreviewed	A0A8C0Q8I9_CANLF	C-C motif chemokine	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8C0RNZ5	unreviewed	A0A8C0RNZ5_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	83
+A0A8C0RPY4	unreviewed	A0A8C0RPY4_CANLF	Chemokine interleukin-8-like domain-containing protein	CCL23	Canis lupus familiaris (Dog) (Canis familiaris)	119
+A0A8C0S1P5	unreviewed	A0A8C0S1P5_CANLF	Protein GPR15L	GPR15LG	Canis lupus familiaris (Dog) (Canis familiaris)	78
+A0A8C0S3R1	unreviewed	A0A8C0S3R1_CANLF	C-C motif chemokine	CCL19	Canis lupus familiaris (Dog) (Canis familiaris)	100
+A0A8C0S600	unreviewed	A0A8C0S600_CANLF	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Canis lupus familiaris (Dog) (Canis familiaris)	109
+A0A8C0SAA6	unreviewed	A0A8C0SAA6_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	94
+
+
+A0A8C5VNS1	unreviewed	A0A8C5VNS1_MICMU	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	111
+A0A8C5VPG1	unreviewed	A0A8C5VPG1_MICMU	C-C motif chemokine	LOC105882215	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	92
+A0A8C5VPZ2	unreviewed	A0A8C5VPZ2_MICMU	Chemokine interleukin-8-like domain-containing protein	LOC105881712	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	82
+A0A8C5VVM2	unreviewed	A0A8C5VVM2_MICMU	C-C motif chemokine	CCL20	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	97
+A0A8C5W9E2	unreviewed	A0A8C5W9E2_MICMU	C-C motif chemokine	CCL13	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	95
+A0A8C5XSR6	unreviewed	A0A8C5XSR6_MICMU	C-C motif chemokine 25 (Chemokine TECK) (Small-inducible cytokine A25) (Thymus-expressed chemokine)	CCL25	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	110
+A0A8C5Y7L8	unreviewed	A0A8C5Y7L8_MICMU	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	119
+A0A8C5Y9Z6	unreviewed	A0A8C5Y9Z6_MICMU	G protein-coupled receptor 15 ligand	GPR15LG	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	81
+A0A8C5YB76	unreviewed	A0A8C5YB76_MICMU	C-C motif chemokine	CCL8	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	97
+A0A8C5YCC2	unreviewed	A0A8C5YCC2_MICMU	C-C motif chemokine	LOC105881426	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	120
+A0A8C5YCE7	unreviewed	A0A8C5YCE7_MICMU	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	93
+A0A8C5YGA6	unreviewed	A0A8C5YGA6_MICMU	C-C motif chemokine	CCL1	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	90
+A0A8C6EIT4	unreviewed	A0A8C6EIT4_MICMU	C-C motif chemokine	CCL2	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	103
+
+A0A8D0I5L3	unreviewed	A0A8D0I5L3_PIG	MARVEL domain-containing protein		Sus scrofa (Pig)	113
+A0A8D0INB4	unreviewed	A0A8D0INB4_PIG	C-C motif chemokine		Sus scrofa (Pig)	94
+A0A8D0MP23	unreviewed	A0A8D0MP23_PIG	C-C motif chemokine		Sus scrofa (Pig)	99
+A0A8D0MPA0	unreviewed	A0A8D0MPA0_PIG	C-C motif chemokine		Sus scrofa (Pig)	97
+A0A8D0N873	unreviewed	A0A8D0N873_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D0N8L1	unreviewed	A0A8D0N8L1_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	94
+A0A8D0N921	unreviewed	A0A8D0N921_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	112
+A0A8D0NDQ4	unreviewed	A0A8D0NDQ4_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	112
+A0A8D0NSM7	unreviewed	A0A8D0NSM7_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	116
+A0A8D0P0U1	unreviewed	A0A8D0P0U1_PIG	C-C motif chemokine		Sus scrofa (Pig)	93
+A0A8D0P4X5	unreviewed	A0A8D0P4X5_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	93
+A0A8D0QY67	unreviewed	A0A8D0QY67_PIG	C-C motif chemokine	CCL2	Sus scrofa (Pig)	99
+A0A8D0QZR7	unreviewed	A0A8D0QZR7_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D0R068	unreviewed	A0A8D0R068_PIG	C-X-C motif chemokine	CXCL2 LOC100525396	Sus scrofa (Pig)	107
+A0A8D0TRN1	unreviewed	A0A8D0TRN1_PIG	C-X-C motif chemokine	CXCL13	Sus scrofa (Pig)	111
+A0A8D0TVL3	unreviewed	A0A8D0TVL3_PIG	C-C motif chemokine		Sus scrofa (Pig)	97
+A0A8D0V012	unreviewed	A0A8D0V012_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	99
+A0A8D0V016	unreviewed	A0A8D0V016_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	92
+A0A8D0WMD5	unreviewed	A0A8D0WMD5_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D0WNB6	unreviewed	A0A8D0WNB6_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D0WNH9	unreviewed	A0A8D0WNH9_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D0WNJ9	unreviewed	A0A8D0WNJ9_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D0WNK1	unreviewed	A0A8D0WNK1_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D0X662	unreviewed	A0A8D0X662_PIG	C-C motif chemokine		Sus scrofa (Pig)	120
+A0A8D0XGS3	unreviewed	A0A8D0XGS3_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D1ASY3	unreviewed	A0A8D1ASY3_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A8D1AT44	unreviewed	A0A8D1AT44_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A8D1AWU5	unreviewed	A0A8D1AWU5_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A8D1B9F1	unreviewed	A0A8D1B9F1_PIG	C-X-C motif chemokine	CXCL11	Sus scrofa (Pig)	100
+A0A8D1BJ89	unreviewed	A0A8D1BJ89_PIG	C-C motif chemokine		Sus scrofa (Pig)	99
+A0A8D1CBA5	unreviewed	A0A8D1CBA5_PIG	C-C motif chemokine		Sus scrofa (Pig)	99
+A0A8D1D0X1	unreviewed	A0A8D1D0X1_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D1D2T9	unreviewed	A0A8D1D2T9_PIG	C-X-C motif chemokine	LOC100525396	Sus scrofa (Pig)	107
+A0A8D1DC27	unreviewed	A0A8D1DC27_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D1DD60	unreviewed	A0A8D1DD60_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	102
+A0A8D1DL15	unreviewed	A0A8D1DL15_PIG	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Sus scrofa (Pig)	99
+A0A8D1G406	unreviewed	A0A8D1G406_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	102
+A0A8D1G471	unreviewed	A0A8D1G471_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	116
+A0A8D1G4M0	unreviewed	A0A8D1G4M0_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	90
+A0A8D1G5Y7	unreviewed	A0A8D1G5Y7_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	100
+A0A8D1GA37	unreviewed	A0A8D1GA37_PIG	C-X-C motif chemokine	CXCL13	Sus scrofa (Pig)	109
+A0A8D1GDY3	unreviewed	A0A8D1GDY3_PIG	Chemokine interleukin-8-like domain-containing protein	CCL27	Sus scrofa (Pig)	107
+A0A8D1GKZ3	unreviewed	A0A8D1GKZ3_PIG	C-C motif chemokine	CCL19	Sus scrofa (Pig)	100
+A0A8D1H1D3	unreviewed	A0A8D1H1D3_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D1H9L7	unreviewed	A0A8D1H9L7_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D1HP41	unreviewed	A0A8D1HP41_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D1HXG8	unreviewed	A0A8D1HXG8_PIG	C-C motif chemokine		Sus scrofa (Pig)	97
+A0A8D1JR32	unreviewed	A0A8D1JR32_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	119
+A0A8D1JX96	unreviewed	A0A8D1JX96_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	107
+A0A8D1JYL4	unreviewed	A0A8D1JYL4_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	103
+A0A8D1K919	unreviewed	A0A8D1K919_PIG	Chemokine interleukin-8-like domain-containing protein	CCL27	Sus scrofa (Pig)	107
+A0A8D1KTJ7	unreviewed	A0A8D1KTJ7_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D1LDU9	unreviewed	A0A8D1LDU9_PIG	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Sus scrofa (Pig)	95
+A0A8D1MBQ7	unreviewed	A0A8D1MBQ7_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D1N0N2	unreviewed	A0A8D1N0N2_PIG	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)		Sus scrofa (Pig)	110
+A0A8D1ND87	unreviewed	A0A8D1ND87_PIG	C-C motif chemokine		Sus scrofa (Pig)	94
+A0A8D1NLI9	unreviewed	A0A8D1NLI9_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	104
+A0A8D1NTX5	unreviewed	A0A8D1NTX5_PIG	C-C motif chemokine		Sus scrofa (Pig)	99
+A0A8D1PZS0	unreviewed	A0A8D1PZS0_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D1Q3K5	unreviewed	A0A8D1Q3K5_PIG	C-C motif chemokine		Sus scrofa (Pig)	97
+A0A8D1SDX5	unreviewed	A0A8D1SDX5_PIG	C-X-C motif chemokine	LOC100525396 CXCL2	Sus scrofa (Pig)	107
+A0A8D1U3B4	unreviewed	A0A8D1U3B4_PIG	C-X-C motif chemokine	CXCL13	Sus scrofa (Pig)	109
+A0A8D1V9P6	unreviewed	A0A8D1V9P6_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	109
+A0A8D1V9V4	unreviewed	A0A8D1V9V4_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	93
+A0A8D1VAJ7	unreviewed	A0A8D1VAJ7_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	89
+A0A8D1VI37	unreviewed	A0A8D1VI37_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D1VMA7	unreviewed	A0A8D1VMA7_PIG	C-C motif chemokine		Sus scrofa (Pig)	96
+A0A8D1W5D7	unreviewed	A0A8D1W5D7_PIG	C-C motif chemokine		Sus scrofa (Pig)	97
+A0A8D1WPJ7	unreviewed	A0A8D1WPJ7_PIG	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)		Sus scrofa (Pig)	109
+A0A8D1XN14	unreviewed	A0A8D1XN14_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	119
+A0A8D1XU07	unreviewed	A0A8D1XU07_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D1YQR5	unreviewed	A0A8D1YQR5_PIG	C-C motif chemokine		Sus scrofa (Pig)	94
+A0A8D1ZUP7	unreviewed	A0A8D1ZUP7_PIG	C-C motif chemokine		Sus scrofa (Pig)	97
+A0A8D1ZV15	unreviewed	A0A8D1ZV15_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+A0A8D2BJI3	unreviewed	A0A8D2BJI3_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D2BJI5	unreviewed	A0A8D2BJI5_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8D2BJU4	unreviewed	A0A8D2BJU4_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	105
+A0A8D2C048	unreviewed	A0A8D2C048_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+A0A8I3MLU3	unreviewed	A0A8I3MLU3_CANLF	C-C motif chemokine	CCL22	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8I3MQM0	unreviewed	A0A8I3MQM0_CANLF	G protein-coupled receptor 15 ligand		Canis lupus familiaris (Dog) (Canis familiaris)	78
+A0A8I3MSX7	unreviewed	A0A8I3MSX7_CANLF	C-C motif chemokine	CCL19	Canis lupus familiaris (Dog) (Canis familiaris)	90
+A0A8I3MYF9	unreviewed	A0A8I3MYF9_CANLF	C-X-C motif chemokine	CXCL6	Canis lupus familiaris (Dog) (Canis familiaris)	116
+A0A8I3N5K9	unreviewed	A0A8I3N5K9_CANLF	Uncharacterized protein		Canis lupus familiaris (Dog) (Canis familiaris)	119
+A0A8I3NA82	unreviewed	A0A8I3NA82_CANLF	Uncharacterized protein		Canis lupus familiaris (Dog) (Canis familiaris)	94
+A0A8I3NC79	unreviewed	A0A8I3NC79_CANLF	C-C motif chemokine	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8I3NDZ2	unreviewed	A0A8I3NDZ2_CANLF	Pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)	PPBP	Canis lupus familiaris (Dog) (Canis familiaris)	118
+A0A8I3NHX2	unreviewed	A0A8I3NHX2_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	95
+A0A8I3NIA9	unreviewed	A0A8I3NIA9_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	94
+A0A8I3NLR4	unreviewed	A0A8I3NLR4_CANLF	C-C motif chemokine	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	93
+A0A8I3NRM1	unreviewed	A0A8I3NRM1_CANLF	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL20	Canis lupus familiaris (Dog) (Canis familiaris)	113
+A0A8I3NSS8	unreviewed	A0A8I3NSS8_CANLF	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Canis lupus familiaris (Dog) (Canis familiaris)	109
+A0A8I3NZ33	unreviewed	A0A8I3NZ33_CANLF	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL20	Canis lupus familiaris (Dog) (Canis familiaris)	98
+A0A8I3PZE5	unreviewed	A0A8I3PZE5_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	100
+A0A8I3Q8T3	unreviewed	A0A8I3Q8T3_CANLF	C-X-C motif chemokine ligand 11	CXCL11	Canis lupus familiaris (Dog) (Canis familiaris)	92
+A0A8I3VVN9	unreviewed	A0A8I3VVN9_CALJA	C-C motif chemokine	CCL17	Callithrix jacchus (White-tufted-ear marmoset)	95
+A0A8I3W0F6	unreviewed	A0A8I3W0F6_CALJA	C-X-C motif chemokine	CXCL1	Callithrix jacchus (White-tufted-ear marmoset)	107
+A0A8I3W7G6	unreviewed	A0A8I3W7G6_CALJA	C-C motif chemokine		Callithrix jacchus (White-tufted-ear marmoset)	119
+A0A8I3WBS2	unreviewed	A0A8I3WBS2_CALJA	C-C motif chemokine 1 (Small-inducible cytokine A1)		Callithrix jacchus (White-tufted-ear marmoset)	88
+A0A8I3WCR3	unreviewed	A0A8I3WCR3_CALJA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Callithrix jacchus (White-tufted-ear marmoset)	93
+A0A8I3WKT5	unreviewed	A0A8I3WKT5_CALJA	C-C motif chemokine	CCL22	Callithrix jacchus (White-tufted-ear marmoset)	93
+A0A8I3WWJ4	unreviewed	A0A8I3WWJ4_CALJA	C-C motif chemokine ligand 24	CCL24	Callithrix jacchus (White-tufted-ear marmoset)	119
+A0A8I4A249	unreviewed	A0A8I4A249_CALJA	C-X-C motif chemokine	CXCL10	Callithrix jacchus (White-tufted-ear marmoset)	91
+A0A8I5JUL6	unreviewed	A0A8I5JUL6_HUMAN	C-C motif chemokine	CCL15-CCL14	Homo sapiens (Human)	113
+A0A8I5T909	unreviewed	A0A8I5T909_PONAB	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	119
+A0A8I6AC23	unreviewed	A0A8I6AC23_RAT	C-C motif chemokine ligand 27	Ccl27	Rattus norvegicus (Rat)	108
+A0A8J0QRG6	unreviewed	A0A8J0QRG6_XENTR	C-C motif chemokine	ccl4	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	89
+A0A8J0SG44	unreviewed	A0A8J0SG44_XENTR	C-C motif chemokine	LOC105946710	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	90
+A0A8J0T1A8	unreviewed	A0A8J0T1A8_XENTR	C-C motif chemokine	ccl20	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	100
+A0A8J1J1C9	unreviewed	A0A8J1J1C9_XENTR	C-C motif chemokine	LOC100490971	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	97
+A0A8J1J448	unreviewed	A0A8J1J448_XENTR	C-C motif chemokine	ccl5	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	116
+A0A8J8XEY2	unreviewed	A0A8J8XEY2_RAT	C-X-C motif chemokine ligand 14	Cxcl14	Rattus norvegicus (Rat)	61
+A0A8M1NW16	unreviewed	A0A8M1NW16_DANRE	Chemokine (C-C motif) ligand 33, duplicate 3 precursor	ccl33.3 si:ch211-149o7.4	Danio rerio (Zebrafish) (Brachydanio rerio)	85
+A0A8M1P631	unreviewed	A0A8M1P631_DANRE	C-C motif chemokine 19b precursor	ccl19b ccl19 si:dkey-200l5.2	Danio rerio (Zebrafish) (Brachydanio rerio)	114
+A0A8M2BCP9	unreviewed	A0A8M2BCP9_DANRE	C-X-C motif chemokine 13 isoform X1	cxcl13	Danio rerio (Zebrafish) (Brachydanio rerio)	107
+A0A8M3B9T3	unreviewed	A0A8M3B9T3_DANRE	Chemokine (C-X-C motif) ligand 20 isoform X1	cxcl20 cxcl-c5c	Danio rerio (Zebrafish) (Brachydanio rerio)	114
+A0A8M9PED6	unreviewed	A0A8M9PED6_DANRE	C-C motif chemokine 3 isoform X2	ccl39.2	Danio rerio (Zebrafish) (Brachydanio rerio)	83
+A0A8M9PJ26	unreviewed	A0A8M9PJ26_DANRE	C-C motif chemokine	ccl20a.4	Danio rerio (Zebrafish) (Brachydanio rerio)	94
+A0A8P0NRC8	unreviewed	A0A8P0NRC8_CANLF	Chemokine interleukin-8-like domain-containing protein	LOC480601	Canis lupus familiaris (Dog) (Canis familiaris)	94
+A0A8P0P277	unreviewed	A0A8P0P277_CANLF	C-C motif chemokine	CCL19	Canis lupus familiaris (Dog) (Canis familiaris)	90
+A0A8P0PK43	unreviewed	A0A8P0PK43_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	100
+A0A8P0SFC5	unreviewed	A0A8P0SFC5_CANLF	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL20	Canis lupus familiaris (Dog) (Canis familiaris)	98
+A0A8P0TRP1	unreviewed	A0A8P0TRP1_CANLF	C-X-C motif chemokine	LOC106557449	Canis lupus familiaris (Dog) (Canis familiaris)	116
+A0A8W4F6C3	unreviewed	A0A8W4F6C3_PIG	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	LOC100520680	Sus scrofa (Pig)	95
+A0A8W4F7B7	unreviewed	A0A8W4F7B7_PIG	C-C motif chemokine	CCL3L1	Sus scrofa (Pig)	79
+A0A9L0R8H1	unreviewed	A0A9L0R8H1_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Equus caballus (Horse)	110
+A0A9L0RZ67	unreviewed	A0A9L0RZ67_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Equus caballus (Horse)	98
+A0A9L0S2B7	unreviewed	A0A9L0S2B7_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Equus caballus (Horse)	100
+A0A9L0SA98	unreviewed	A0A9L0SA98_HORSE	C-X-C motif chemokine	CXCL8	Equus caballus (Horse)	95
+A0A9L0T9P5	unreviewed	A0A9L0T9P5_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Equus caballus (Horse)	119
+A0A9L0TFR2	unreviewed	A0A9L0TFR2_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Equus caballus (Horse)	90
+A0A9R1SK71	unreviewed	A0A9R1SK71_HORSE	C-X-C motif chemokine		Equus caballus (Horse)	100
+A0A9R8NM27	unreviewed	A0A9R8NM27_HORSE	C-C motif chemokine	LOC100071714	Equus caballus (Horse)	99
+
+A0AAA9SGX3	unreviewed	A0AAA9SGX3_BOVIN	C-C motif chemokine	CCL16	Bos taurus (Bovine)	118
+A0AAA9SJR2	unreviewed	A0AAA9SJR2_BOVIN	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Bos taurus (Bovine)	104
+A0AAA9SM65	unreviewed	A0AAA9SM65_BOVIN	C-C motif chemokine 1 (Small-inducible cytokine A1)	CCL1	Bos taurus (Bovine)	93
+A0AAA9SZQ8	unreviewed	A0AAA9SZQ8_BOVIN	C-C motif chemokine	CCL17	Bos taurus (Bovine)	102
+A0AAF6YUG4	unreviewed	A0AAF6YUG4_BOVIN	C-C motif chemokine		Bos taurus (Bovine)	87
+A0AAF6Z967	unreviewed	A0AAF6Z967_BOVIN	C-C motif chemokine	CCL20	Bos taurus (Bovine)	97
+
+A0AB13A874	unreviewed	A0AB13A874_DANRE	C-X-C motif chemokine 11-1 precursor	cxcl11.1 cxcl11l	Danio rerio (Zebrafish) (Brachydanio rerio)	94
+A0N0R1	unreviewed	A0N0R1_HUMAN	C-C motif chemokine	CCL3 hCG_1749202	Homo sapiens (Human)	92
+A1EC65	unreviewed	A1EC65_RAT	C-C motif chemokine	Ccl5 rCG_35282	Rattus norvegicus (Rat)	92
+A1EC83	unreviewed	A1EC83_RAT	RCG35353	Ccl9 rCG_35353	Rattus norvegicus (Rat)	117
+A1ECA0	unreviewed	A1ECA0_RAT	C-C motif chemokine	Ccl5	Rattus norvegicus (Rat)	92
+A2BHJ6	unreviewed	A2BHJ6_DANRE	Chemokine (C-X-C motif) ligand 11, duplicate 8	cxcl11.8 cxc64 si:dkey-58f10.5	Danio rerio (Zebrafish) (Brachydanio rerio)	102
+A2BIR2	unreviewed	A2BIR2_DANRE	C-C motif chemokine	ccl19a.1 ccl-c5a si:ch211-89f7.4	Danio rerio (Zebrafish) (Brachydanio rerio)	119
+A2RTH0	unreviewed	A2RTH0_MOUSE	C-X-C motif chemokine	Cxcl1	Mus musculus (Mouse)	96
+A5PJF7	unreviewed	A5PJF7_BOVIN	C-C motif chemokine	CCL2	Bos taurus (Bovine)	99
+A5PKF1	unreviewed	A5PKF1_BOVIN	C-C motif chemokine	CCL22	Bos taurus (Bovine)	93
+A6HHD3	unreviewed	A6HHD3_RAT	C-C motif chemokine	Ccl7 rCG_34786	Rattus norvegicus (Rat)	97
+A6HHI5	unreviewed	A6HHI5_RAT	C-C motif chemokine	Ccl6 rCG_32832	Rattus norvegicus (Rat)	116
+A6HHI8	unreviewed	A6HHI8_RAT	C-C motif chemokine	Ccl4 rCG_33576	Rattus norvegicus (Rat)	92
+A6IIY3	unreviewed	A6IIY3_RAT	Chemokine (C-C motif) ligand 27 (Predicted), isoform CRA_c	Ccl27 Ccl27_predicted rCG_54915	Rattus norvegicus (Rat)	119
+A6IIY5	unreviewed	A6IIY5_RAT	Chemokine (C-C motif) ligand 27 (Predicted), isoform CRA_g	Ccl27 Ccl27_predicted rCG_54915	Rattus norvegicus (Rat)	87
+A6J0C7	unreviewed	A6J0C7_RAT	RCG21817	Ccl26 rCG_21817	Rattus norvegicus (Rat)	94
+A6JY46	unreviewed	A6JY46_RAT	C-C motif chemokine	Ccl17 rCG_39159	Rattus norvegicus (Rat)	103
+A6KKD4	unreviewed	A6KKD4_RAT	C-X-C motif chemokine	Cxcl2 rCG_60461	Rattus norvegicus (Rat)	100
+A6KKD5	unreviewed	A6KKD5_RAT	C-X-C motif chemokine	Cxcl1 rCG_60405	Rattus norvegicus (Rat)	96
+A6KKD9	unreviewed	A6KKD9_RAT	C-X-C motif chemokine	Cxcl3 Gm1960 rCG_60515	Rattus norvegicus (Rat)	100
+A6KKE0	unreviewed	A6KKE0_RAT	C-X-C motif chemokine	Cxcl3 Gm1960 rCG_60515	Rattus norvegicus (Rat)	101
+A6KKE3	unreviewed	A6KKE3_RAT	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	Pf4 Cxcl4 rCG_60381	Rattus norvegicus (Rat)	105
+A6KKE5	unreviewed	A6KKE5_RAT	CXC chemokine RTCK1 (Pro-platelet basic protein)	Ppbp Rtck1	Rattus norvegicus (Rat)	111
+A6N7G0	unreviewed	A6N7G0_SHEEP	C-C motif chemokine		Ovis aries (Sheep)	105
+A6QPP9	unreviewed	A6QPP9_BOVIN	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PF4	Bos taurus (Bovine)	118
+A8E4U7	unreviewed	A8E4U7_XENTR	C-X-C motif chemokine 14 precursor (Chemokine (C-X-C motif) ligand 14) (Citrate synthase, mitochondrial) (LOC100125115 protein)	cxcl14 bmac brak cs kec ks1 LOC100125115 mip-2g mip2g njac scyb14	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	99
+A8QKW6	unreviewed	A8QKW6_SALSA	C-C motif chemokine	LOC100136511	Salmo salar (Atlantic salmon)	101
+A9Z1Z1	unreviewed	A9Z1Z1_MOUSE	C-C motif chemokine	Ccl7 MARC	Mus musculus (Mouse)	97
+A9ZPD7	unreviewed	A9ZPD7_DANRE	Chemokine (C-C motif) ligand 35, duplicate 1 precursor (Chemokine CCL-C25y)	ccl35.1 zgc:193706 zgc:193743	Danio rerio (Zebrafish) (Brachydanio rerio)	98
+A9ZPE0	unreviewed	A9ZPE0_DANRE	C-C motif chemokine	ccl20b ccl20 si:dkey-150o13.1	Danio rerio (Zebrafish) (Brachydanio rerio)	102
+A9ZPE1	unreviewed	A9ZPE1_DANRE	CX chemokine ligand 34b, duplicate 11 precursor (Chemokine CXL-C24a)	cxl34b.11 cxl1 si:dkey-25o1.2	Danio rerio (Zebrafish) (Brachydanio rerio)	115
+A9ZPE8	unreviewed	A9ZPE8_DANRE	C-C motif chemokine	ccl38.1 si:dkey-217m5.3	Danio rerio (Zebrafish) (Brachydanio rerio)	106
+A9ZPF0	unreviewed	A9ZPF0_DANRE	Chemokine CXCL-C13c (Interleukin-8b.3 precursor)	cxcl8b.3 cxcl-c13d	Danio rerio (Zebrafish) (Brachydanio rerio)	117
+A9ZPF1	unreviewed	A9ZPF1_DANRE	C-X-C motif chemokine 19 precursor (Chemokine (C-X-C motif) ligand 19) (Chemokine CXCL-C13d)	cxcl19	Danio rerio (Zebrafish) (Brachydanio rerio)	101
+A9ZPF5	unreviewed	A9ZPF5_DANRE	C-C motif chemokine	ccl19a.1 ccl-c5a si:ch211-89f7.4	Danio rerio (Zebrafish) (Brachydanio rerio)	119
+A9ZPF8	unreviewed	A9ZPF8_DANRE	Chemokine (C-X-C motif) ligand 18b (Chemokine CXCL-C1c)	cxcl18b cxcl-c1c si:ch73-6k14.1	Danio rerio (Zebrafish) (Brachydanio rerio)	114
+B0FYJ9	unreviewed	B0FYJ9_PIG	C-C motif chemokine		Sus scrofa (Pig)	92
+B1AB87	unreviewed	B1AB87_HORSE	C-C motif chemokine		Equus caballus (Horse)	99
+B1AB90	unreviewed	B1AB90_HORSE	C-X-C motif chemokine	CXCL10	Equus caballus (Horse)	104
+B2R5J8	unreviewed	B2R5J8_HUMAN	C-C motif chemokine		Homo sapiens (Human)	91
+B3GDY9	unreviewed	B3GDY9_PIG	C-X-C motif chemokine	CXCL11	Sus scrofa (Pig)	100
+B3VFB5	unreviewed	B3VFB5_PIG	Chemokine C motif ligand 1	XCL1	Sus scrofa (Pig)	110
+B3VH89	unreviewed	B3VH89_HORSE	C-C motif chemokine	CCL5	Equus caballus (Horse)	91
+B3VMR2	unreviewed	B3VMR2_HORSE	C-C motif chemokine	CCL2	Equus caballus (Horse)	99
+B5FX95	unreviewed	B5FX95_TAEGU	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)		Taeniopygia guttata (Zebra finch) (Poephila guttata)	89
+B5X5D4	unreviewed	B5X5D4_SALSA	Platelet basic protein	SCYB7	Salmo salar (Atlantic salmon)	100
+B5X5S6	unreviewed	B5X5S6_SALSA	C-C motif chemokine	CCL20 LOC106569679	Salmo salar (Atlantic salmon)	105
+B5X6N7	unreviewed	B5X6N7_SALSA	Interleukin 8 precursor (Interleukin-8)	IL8 IL-8 il8 LOC106595660	Salmo salar (Atlantic salmon)	97
+B5X7B8	unreviewed	B5X7B8_SALSA	Platelet basic protein	SCYB7 scyb7	Salmo salar (Atlantic salmon)	100
+B5X7J9	unreviewed	B5X7J9_SALSA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	SDF1 sdf1	Salmo salar (Atlantic salmon)	99
+B5X8A6	unreviewed	B5X8A6_SALSA	Growth-regulated alpha protein	GROA groa	Salmo salar (Atlantic salmon)	109
+B5X9E3	unreviewed	B5X9E3_SALSA	C-X-C motif chemokine 10	CXL10	Salmo salar (Atlantic salmon)	109
+B5XAA1	unreviewed	B5XAA1_SALSA	C-X-C motif chemokine 10	CXL10 cxl10	Salmo salar (Atlantic salmon)	88
+B5XAV9	unreviewed	B5XAV9_SALSA	C-C motif chemokine	CCL4	Salmo salar (Atlantic salmon)	91
+B5XB31	unreviewed	B5XB31_SALSA	C-X-C motif chemokine 13	CXL13 cxl13	Salmo salar (Atlantic salmon)	118
+B5XCG5	unreviewed	B5XCG5_SALSA	C-X-C motif chemokine 10	CXL10	Salmo salar (Atlantic salmon)	109
+B5XED9	unreviewed	B5XED9_SALSA	C-X-C motif chemokine 10	CXL10 cxl10	Salmo salar (Atlantic salmon)	109
+B5XES8	unreviewed	B5XES8_SALSA	Macrophage inflammatory protein 2-alpha	MIP2A mip2a	Salmo salar (Atlantic salmon)	97
+B5XFI2	unreviewed	B5XFI2_SALSA	C-C motif chemokine	CCL19 LOC106585878	Salmo salar (Atlantic salmon)	114
+B7UBT6	unreviewed	B7UBT6_HORSE	C-X-C motif chemokine	MIP-2beta	Equus caballus (Horse)	113
+B7UBX3	unreviewed	B7UBX3_HORSE	C-X-C motif chemokine	MIP-2alpha	Equus caballus (Horse)	107
+B7ZW36	unreviewed	B7ZW36_HUMAN	C-C motif chemokine	LOC728835	Homo sapiens (Human)	92
+B9EN34	unreviewed	B9EN34_SALSA	C-X-C motif chemokine 11-like (Platelet basic protein)	SCYB7 LOC106570889	Salmo salar (Atlantic salmon)	100
+B9ENE0	unreviewed	B9ENE0_SALSA	C-C motif chemokine	CCL20 LOC106596271	Salmo salar (Atlantic salmon)	98
+B9EQI8	unreviewed	B9EQI8_SALSA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	SDF1 LOC106589772	Salmo salar (Atlantic salmon)	98
+C7FF37	unreviewed	C7FF37_ORENI	IL-8		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+C9J4T6	unreviewed	C9J4T6_HUMAN	C-X-C motif chemokine	CXCL8	Homo sapiens (Human)	95
+D0EI67	unreviewed	D0EI67_HUMAN	C-C motif chemokine	CCL5 hCG_32592	Homo sapiens (Human)	91
+D0EM41	unreviewed	D0EM41_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	94
+D0Z5W4	unreviewed	D0Z5W4_PIG	C-C motif chemokine	CCL19	Sus scrofa (Pig)	100
+D2K841	unreviewed	D2K841_CANLF	C-X-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	118
+D3YW23	unreviewed	D3YW23_MOUSE	C-X-C motif chemokine	Cxcl10	Mus musculus (Mouse)	93
+D6RC73	unreviewed	D6RC73_HUMAN	C-C motif chemokine ligand 28 (Chemokine (C-C motif) ligand 28, isoform CRA_b)	CCL28 hCG_36937	Homo sapiens (Human)	80
+D6RF92	unreviewed	D6RF92_HUMAN	C-X-C motif chemokine	CXCL6	Homo sapiens (Human)	113
+E1BAG6	unreviewed	E1BAG6_BOVIN	C-C motif chemokine 1 (Small-inducible cytokine A1)	CCL1	Bos taurus (Bovine)	93
+E1BGB8	unreviewed	E1BGB8_BOVIN	C-C motif chemokine	LOC616364	Bos taurus (Bovine)	93
+E1BH62	unreviewed	E1BH62_BOVIN	Chemokine interleukin-8-like domain-containing protein	XCL2	Bos taurus (Bovine)	112
+E1BIK4	unreviewed	E1BIK4_BOVIN	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Bos taurus (Bovine)	115
+E9PTY9	unreviewed	E9PTY9_RAT	C-C motif chemokine	Ccl17	Rattus norvegicus (Rat)	103
+F1MD23	unreviewed	F1MD23_BOVIN	C-X-C motif chemokine	CXCL3	Bos taurus (Bovine)	104
+F1MZ86	unreviewed	F1MZ86_BOVIN	C-C motif chemokine ligand 27	CCL27	Bos taurus (Bovine)	119
+F1Q6N2	unreviewed	F1Q6N2_DANRE	CX chemokine ligand 34b, duplicate 11	ccl34b.9 cxl34b.11	Danio rerio (Zebrafish) (Brachydanio rerio)	115
+F1QP63	unreviewed	F1QP63_DANRE	Chemokine (C-C motif) ligand 34b, duplicate 4	ccl34b.4 CCL-chr24j CCL34bd si:dkey-25o1.5	Danio rerio (Zebrafish) (Brachydanio rerio)	98
+F1R6S5	unreviewed	F1R6S5_DANRE	C-C motif chemokine	ccl27a ccl1 wu:fa96a04	Danio rerio (Zebrafish) (Brachydanio rerio)	93
+F1RF20	unreviewed	F1RF20_PIG	C-C motif chemokine	CCL22	Sus scrofa (Pig)	93
+F1RHB4	unreviewed	F1RHB4_PIG	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Sus scrofa (Pig)	99
+F1S3U3	unreviewed	F1S3U3_PIG	C-C motif chemokine 27 (C-C motif chemokine ligand 27)	CCL27	Sus scrofa (Pig)	107
+F6P784	unreviewed	F6P784_DANRE	C-C motif chemokine 19a.2 precursor (Chemokine (C-C motif) ligand 19a, tandem duplicate 2)	ccl19a.2 zgc:194112 zgc:194121	Danio rerio (Zebrafish) (Brachydanio rerio)	107
+F6PM94	unreviewed	F6PM94_MONDO	Cytokine SCM-1 beta-like	LOC100018887	Monodelphis domestica (Gray short-tailed opossum)	120
+F6PNA7	unreviewed	F6PNA7_ORNAN	Chemokine interleukin-8-like domain-containing protein	CCL20	Ornithorhynchus anatinus (Duckbill platypus)	103
+F6QHU4	unreviewed	F6QHU4_HORSE	C-X-C motif chemokine	CXCL11	Equus caballus (Horse)	94
+F6R5P4	unreviewed	F6R5P4_MOUSE	C-C motif chemokine	Ccl17	Mus musculus (Mouse)	103
+F6R8V8	unreviewed	F6R8V8_HORSE	C-X-C motif chemokine	MIP-2BETA	Equus caballus (Horse)	109
+F6RMK1	unreviewed	F6RMK1_HORSE	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	LOC100630489	Equus caballus (Horse)	111
+F6S9Z1	unreviewed	F6S9Z1_HORSE	C-X-C motif chemokine	CXCL6	Equus caballus (Horse)	113
+F6SEM3	unreviewed	F6SEM3_CALJA	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Callithrix jacchus (White-tufted-ear marmoset)	119
+F6TC33	unreviewed	F6TC33_HORSE	C-C motif chemokine		Equus caballus (Horse)	95
+F6TJI5	unreviewed	F6TJI5_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	95
+F6TJJ4	unreviewed	F6TJJ4_MONDO	C-C motif chemokine	LOC100017283	Monodelphis domestica (Gray short-tailed opossum)	91
+F6WJ19	unreviewed	F6WJ19_CALJA	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PF4	Callithrix jacchus (White-tufted-ear marmoset)	102
+F6YD73	unreviewed	F6YD73_HORSE	C-C motif chemokine	LOC100071714	Equus caballus (Horse)	99
+F7A481	unreviewed	F7A481_ORNAN	Chemokine interleukin-8-like domain-containing protein	LOC100083475	Ornithorhynchus anatinus (Duckbill platypus)	120
+F7A5X1	unreviewed	F7A5X1_MONDO	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Monodelphis domestica (Gray short-tailed opossum)	99
+F7AWK0	unreviewed	F7AWK0_MONDO	C-X-C motif chemokine	LOC100618318	Monodelphis domestica (Gray short-tailed opossum)	110
+F7B281	unreviewed	F7B281_ORNAN	C-C motif chemokine		Ornithorhynchus anatinus (Duckbill platypus)	71
+F7B2K3	unreviewed	F7B2K3_ORNAN	C-C motif chemokine		Ornithorhynchus anatinus (Duckbill platypus)	108
+F7B668	unreviewed	F7B668_XENTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	cxcl12	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	109
+F7BJR8	unreviewed	F7BJR8_MONDO	C-C motif chemokine	LOC100022317	Monodelphis domestica (Gray short-tailed opossum)	99
+F7BK23	unreviewed	F7BK23_MONDO	C-C motif chemokine	LOC103093843	Monodelphis domestica (Gray short-tailed opossum)	105
+F7CSR8	unreviewed	F7CSR8_CALJA	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	LOC100402310	Callithrix jacchus (White-tufted-ear marmoset)	102
+F7DTD1	unreviewed	F7DTD1_CALJA	C-C motif chemokine	CCL14 CCL16	Callithrix jacchus (White-tufted-ear marmoset)	93
+F7DYQ8	unreviewed	F7DYQ8_HORSE	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Equus caballus (Horse)	93
+F7EQQ1	unreviewed	F7EQQ1_ORNAN	C-X-C motif chemokine	LOC100080367	Ornithorhynchus anatinus (Duckbill platypus)	118
+F7EQX0	unreviewed	F7EQX0_ORNAN	C-X-C motif chemokine	LOC103170567	Ornithorhynchus anatinus (Duckbill platypus)	102
+F7EV74	unreviewed	F7EV74_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+F7EY20	unreviewed	F7EY20_RAT	Chemokine (C-X-C motif) ligand 7, isoform CRA_b	Ppbp Cxcl7 rCG_60428	Rattus norvegicus (Rat)	111
+F7F4F5	unreviewed	F7F4F5_ORNAN	Chemokine interleukin-8-like domain-containing protein		Ornithorhynchus anatinus (Duckbill platypus)	107
+F7F977	unreviewed	F7F977_MONDO	C-C motif chemokine	LOC100017328	Monodelphis domestica (Gray short-tailed opossum)	91
+F7F990	unreviewed	F7F990_MONDO	C-C motif chemokine		Monodelphis domestica (Gray short-tailed opossum)	95
+F7FU65	unreviewed	F7FU65_ORNAN	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Ornithorhynchus anatinus (Duckbill platypus)	99
+F7GC54	unreviewed	F7GC54_ORNAN	C-C motif chemokine	LOC100089603	Ornithorhynchus anatinus (Duckbill platypus)	98
+F7HYY2	unreviewed	F7HYY2_CALJA	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Callithrix jacchus (White-tufted-ear marmoset)	115
+F7HZS0	unreviewed	F7HZS0_CALJA	C-X-C motif chemokine	CXCL11	Callithrix jacchus (White-tufted-ear marmoset)	95
+F7I909	unreviewed	F7I909_CALJA	C-C motif chemokine	CCL2 CCL11	Callithrix jacchus (White-tufted-ear marmoset)	97
+F8WHA7	unreviewed	F8WHA7_MOUSE	C-C motif chemokine	Ccl20	Mus musculus (Mouse)	102
+G1LGR6	unreviewed	G1LGR6_AILME	C-C motif chemokine	CCL1	Ailuropoda melanoleuca (Giant panda)	95
+G1LK30	unreviewed	G1LK30_AILME	C-C motif chemokine	CCL19	Ailuropoda melanoleuca (Giant panda)	100
+G1M6Y0	unreviewed	G1M6Y0_AILME	C-X-C motif chemokine		Ailuropoda melanoleuca (Giant panda)	94
+G1M8M4	unreviewed	G1M8M4_AILME	C-C motif chemokine ligand 16	CCL16	Ailuropoda melanoleuca (Giant panda)	115
+G1MSH5	unreviewed	G1MSH5_MELGA	Chemokine interleukin-8-like domain-containing protein	LOC100545035	Meleagris gallopavo (Wild turkey)	89
+G1MSI4	unreviewed	G1MSI4_MELGA	C-C motif chemokine		Meleagris gallopavo (Wild turkey)	97
+G1MYM5	unreviewed	G1MYM5_MELGA	Chemokine interleukin-8-like domain-containing protein		Meleagris gallopavo (Wild turkey)	76
+G1N2K2	unreviewed	G1N2K2_MELGA	C-C motif chemokine	CCL20	Meleagris gallopavo (Wild turkey)	100
+G1NCT3	unreviewed	G1NCT3_MELGA	C-X-C motif chemokine	LOC100546187	Meleagris gallopavo (Wild turkey)	104
+G1NNG1	unreviewed	G1NNG1_MELGA	Chemokine interleukin-8-like domain-containing protein	LOC100541131	Meleagris gallopavo (Wild turkey)	97
+G1QKX2	unreviewed	G1QKX2_NOMLE	C-C motif chemokine 25 (Chemokine TECK) (Small-inducible cytokine A25) (Thymus-expressed chemokine)	CCL25	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	85
+G1QLD2	unreviewed	G1QLD2_NOMLE	C-C motif chemokine	CCL7	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	99
+G1QLH5	unreviewed	G1QLH5_NOMLE	C-C motif chemokine	CCL13	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	98
+G1QLJ5	unreviewed	G1QLJ5_NOMLE	C-C motif chemokine	CCL1	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	96
+G1QRA8	unreviewed	G1QRA8_NOMLE	C-C motif chemokine	CCL17	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	94
+G1QRB3	unreviewed	G1QRB3_NOMLE	C-C motif chemokine		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	79
+G1QXY6	unreviewed	G1QXY6_NOMLE	Chemokine interleukin-8-like domain-containing protein	CCL19	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	92
+G1R8X2	unreviewed	G1R8X2_NOMLE	C-X-C motif chemokine	CXCL6	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	114
+G1R8X3	unreviewed	G1R8X3_NOMLE	C-X-C motif chemokine	PF4V1	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	101
+G1R8X4	unreviewed	G1R8X4_NOMLE	C-X-C motif chemokine		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	88
+G1R8Y0	unreviewed	G1R8Y0_NOMLE	C-X-C motif chemokine	CXCL5	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	114
+G1R8Y5	unreviewed	G1R8Y5_NOMLE	C-X-C motif chemokine	CXCL3	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	107
+G1R8Y7	unreviewed	G1R8Y7_NOMLE	C-X-C motif chemokine	CXCL2	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	106
+G1RA03	unreviewed	G1RA03_NOMLE	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	111
+G1RJ21	unreviewed	G1RJ21_NOMLE	G protein-coupled receptor 15 ligand	GPR15LG	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	81
+G1RVI7	unreviewed	G1RVI7_NOMLE	C-C motif chemokine	CCL14	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	109
+G1RVJ4	unreviewed	G1RVJ4_NOMLE	C-C motif chemokine	CCL15	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	113
+G1RVK9	unreviewed	G1RVK9_NOMLE	C-C motif chemokine	CCL18	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	89
+G1RVP2	unreviewed	G1RVP2_NOMLE	C-C motif chemokine	LOC100602721	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	92
+G1SCU3	unreviewed	G1SCU3_RABIT	Chemokine interleukin-8-like domain-containing protein	CCL24	Oryctolagus cuniculus (Rabbit)	113
+G1SDU7	unreviewed	G1SDU7_RABIT	C-C motif chemokine		Oryctolagus cuniculus (Rabbit)	104
+G1SE89	unreviewed	G1SE89_RABIT	C-C motif chemokine	CCL20	Oryctolagus cuniculus (Rabbit)	96
+G1SFK8	unreviewed	G1SFK8_RABIT	C-C motif chemokine	CCL19	Oryctolagus cuniculus (Rabbit)	102
+G1T230	unreviewed	G1T230_RABIT	C-X-C motif chemokine	CXCL5	Oryctolagus cuniculus (Rabbit)	112
+G1T5C3	unreviewed	G1T5C3_RABIT	C-C motif chemokine		Oryctolagus cuniculus (Rabbit)	95
+G1T9I5	unreviewed	G1T9I5_RABIT	C-C motif chemokine	CCL22	Oryctolagus cuniculus (Rabbit)	93
+G1TES9	unreviewed	G1TES9_RABIT	Chemokine interleukin-8-like domain-containing protein	LOC100008921	Oryctolagus cuniculus (Rabbit)	104
+G1TET1	unreviewed	G1TET1_RABIT	C-X-C motif chemokine		Oryctolagus cuniculus (Rabbit)	103
+G1TN23	unreviewed	G1TN23_RABIT	Chemokine interleukin-8-like domain-containing protein		Oryctolagus cuniculus (Rabbit)	116
+G1TNR8	unreviewed	G1TNR8_RABIT	C-C motif chemokine ligand 14	CCL14	Oryctolagus cuniculus (Rabbit)	94
+G1TRQ1	unreviewed	G1TRQ1_RABIT	C-C motif chemokine	CCL4	Oryctolagus cuniculus (Rabbit)	92
+G1U5Q6	unreviewed	G1U5Q6_RABIT	C-X-C motif chemokine	GRO-B	Oryctolagus cuniculus (Rabbit)	108
+G2HG53	unreviewed	G2HG53_PANTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CK820_G0048335	Pan troglodytes (Chimpanzee)	89
+
+G3QHG8	unreviewed	G3QHG8_GORGO	C-C motif chemokine	CCL17	Gorilla gorilla gorilla (Western lowland gorilla)	94
+G3QJ72	unreviewed	G3QJ72_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	108
+G3QJ74	unreviewed	G3QJ74_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	113
+G3QJG4	unreviewed	G3QJG4_GORGO	X-C motif chemokine ligand 2	LOC101143893	Gorilla gorilla gorilla (Western lowland gorilla)	114
+G3QK30	unreviewed	G3QK30_GORGO	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)		Gorilla gorilla gorilla (Western lowland gorilla)	111
+G3QLE9	unreviewed	G3QLE9_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	107
+G3QT24	unreviewed	G3QT24_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	92
+G3QVN6	unreviewed	G3QVN6_GORGO	C-C motif chemokine	CCL3L3	Gorilla gorilla gorilla (Western lowland gorilla)	93
+G3R063	unreviewed	G3R063_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	103
+G3R869	unreviewed	G3R869_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	89
+G3R9V7	unreviewed	G3R9V7_GORGO	G protein-coupled receptor 15 ligand	GPR15LG	Gorilla gorilla gorilla (Western lowland gorilla)	81
+G3RVN7	unreviewed	G3RVN7_GORGO	Chemokine interleukin-8-like domain-containing protein		Gorilla gorilla gorilla (Western lowland gorilla)	64
+G3S3G7	unreviewed	G3S3G7_GORGO	C-C motif chemokine	CCL20	Gorilla gorilla gorilla (Western lowland gorilla)	96
+G3S3R3	unreviewed	G3S3R3_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	107
+G3SA05	unreviewed	G3SA05_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	104
+G3SA76	unreviewed	G3SA76_GORGO	C-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	93
+G3SBK7	unreviewed	G3SBK7_GORGO	Chemokine interleukin-8-like domain-containing protein		Gorilla gorilla gorilla (Western lowland gorilla)	112
+G3SET6	unreviewed	G3SET6_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	107
+G3SIZ2	unreviewed	G3SIZ2_GORGO	C-X-C motif chemokine		Gorilla gorilla gorilla (Western lowland gorilla)	114
+G3SPV8	unreviewed	G3SPV8_LOXAF	C-C motif chemokine	CCL17	Loxodonta africana (African elephant)	103
+G3SQC1	unreviewed	G3SQC1_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	103
+G3SUT3	unreviewed	G3SUT3_LOXAF	C-C motif chemokine	CCL2	Loxodonta africana (African elephant)	97
+G3T244	unreviewed	G3T244_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	108
+G3T6U7	unreviewed	G3T6U7_LOXAF	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Loxodonta africana (African elephant)	108
+G3T7D2	unreviewed	G3T7D2_LOXAF	Chemokine interleukin-8-like domain-containing protein		Loxodonta africana (African elephant)	92
+G3T8B2	unreviewed	G3T8B2_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	92
+G3T9H3	unreviewed	G3T9H3_LOXAF	C-C motif chemokine ligand 24	CCL24	Loxodonta africana (African elephant)	119
+G3TBM7	unreviewed	G3TBM7_LOXAF	C-C motif chemokine	CCL22	Loxodonta africana (African elephant)	92
+G3TDB5	unreviewed	G3TDB5_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	92
+G3TGG2	unreviewed	G3TGG2_LOXAF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Loxodonta africana (African elephant)	93
+G3TGN0	unreviewed	G3TGN0_LOXAF	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Loxodonta africana (African elephant)	95
+G3TKK7	unreviewed	G3TKK7_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	91
+G3TM71	unreviewed	G3TM71_LOXAF	C-C motif chemokine ligand 14	CCL14	Loxodonta africana (African elephant)	92
+G3TMI2	unreviewed	G3TMI2_LOXAF	C-X-C motif chemokine		Loxodonta africana (African elephant)	111
+G3TPA0	unreviewed	G3TPA0_LOXAF	C-C motif chemokine	CCL2	Loxodonta africana (African elephant)	93
+G3TPL8	unreviewed	G3TPL8_LOXAF	Chemokine interleukin-8-like domain-containing protein		Loxodonta africana (African elephant)	110
+G3TUH8	unreviewed	G3TUH8_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	93
+G3TX96	unreviewed	G3TX96_LOXAF	C-C motif chemokine		Loxodonta africana (African elephant)	92
+G3U1A5	unreviewed	G3U1A5_LOXAF	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Loxodonta africana (African elephant)	98
+G3U230	unreviewed	G3U230_LOXAF	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Loxodonta africana (African elephant)	100
+G3U7A1	unreviewed	G3U7A1_LOXAF	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Loxodonta africana (African elephant)	94
+G3UCR9	unreviewed	G3UCR9_LOXAF	C-C motif chemokine	CCL28	Loxodonta africana (African elephant)	106
+G3UDQ5	unreviewed	G3UDQ5_LOXAF	C-X-C motif chemokine	PPBP	Loxodonta africana (African elephant)	115
+G3UIZ2	unreviewed	G3UIZ2_LOXAF	C-C motif chemokine	CCL2	Loxodonta africana (African elephant)	75
+G3ULG2	unreviewed	G3ULG2_LOXAF	C-X-C motif chemokine	CXCL11	Loxodonta africana (African elephant)	100
+G3V6C6	unreviewed	G3V6C6_RAT	C-X-C motif chemokine	Cxcl1	Rattus norvegicus (Rat)	96
+G3V7I1	unreviewed	G3V7I1_RAT	C-C motif chemokine	Ccl4	Rattus norvegicus (Rat)	92
+G8EGP8	unreviewed	G8EGP8_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	103
+G8XRI1	unreviewed	G8XRI1_PIG	C-C motif chemokine	CCL8	Sus scrofa (Pig)	99
+G8XRI2	unreviewed	G8XRI2_PIG	C-C motif chemokine	CCL11	Sus scrofa (Pig)	97
+G8XRI3	unreviewed	G8XRI3_PIG	C-C motif chemokine	CCL14	Sus scrofa (Pig)	99
+G8XRI4	unreviewed	G8XRI4_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	102
+G8XRI5	unreviewed	G8XRI5_PIG	C-C motif chemokine 22 (Small-inducible cytokine A22)	CCL22	Sus scrofa (Pig)	93
+H0V7J2	unreviewed	H0V7J2_CAVPO	C-C motif chemokine	CCL17	Cavia porcellus (Guinea pig)	101
+H0VGB0	unreviewed	H0VGB0_CAVPO	C-C motif chemokine	CCL20	Cavia porcellus (Guinea pig)	96
+H0VVA7	unreviewed	H0VVA7_CAVPO	C-X-C motif chemokine	CXCL6	Cavia porcellus (Guinea pig)	109
+H0VX22	unreviewed	H0VX22_CAVPO	C-C motif chemokine		Cavia porcellus (Guinea pig)	93
+H0W9Z0	unreviewed	H0W9Z0_CAVPO	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Cavia porcellus (Guinea pig)	99
+H0YTH4	unreviewed	H0YTH4_TAEGU	Chemokine interleukin-8-like domain-containing protein	LOC100223328	Taeniopygia guttata (Zebra finch) (Poephila guttata)	95
+H0YTH8	unreviewed	H0YTH8_TAEGU	Interleukin-8	LOC100222345	Taeniopygia guttata (Zebra finch) (Poephila guttata)	103
+H0Z3L9	unreviewed	H0Z3L9_TAEGU	C-C motif chemokine 5-like	LOC115497720	Taeniopygia guttata (Zebra finch) (Poephila guttata)	91
+H0ZJ81	unreviewed	H0ZJ81_TAEGU	C-C motif chemokine 3-like	LOC100229516	Taeniopygia guttata (Zebra finch) (Poephila guttata)	101
+H2EP71	unreviewed	H2EP71_PIG	C-C motif chemokine	CCL17	Sus scrofa (Pig)	97
+H2N4T9	unreviewed	H2N4T9_PONAB	XCL1 isoform 1	XCL1 CR201_G0044596	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	114
+H2N4U0	unreviewed	H2N4U0_PONAB	XCL2 isoform 1	LOC100450406 CR201_G0044594	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	114
+H2NAE6	unreviewed	H2NAE6_PONAB	C10orf99 isoform 1 (G protein-coupled receptor 15 ligand)	GPR15LG CR201_G0036539	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	81
+H2NTB6	unreviewed	H2NTB6_PONAB	C-C motif chemokine	CCL7 CR201_G0033747	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	99
+H2NTE8	unreviewed	H2NTE8_PONAB	C-C motif chemokine	CCL16 CR201_G0051838	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	120
+H2NTF1	unreviewed	H2NTF1_PONAB	C-C motif chemokine	CCL18 CR201_G0051830	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	89
+H2NTF3	unreviewed	H2NTF3_PONAB	C-C motif chemokine	LOC100439906	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	92
+H2NVR2	unreviewed	H2NVR2_PONAB	C-C motif chemokine	LOC100460653 CR201_G0055601	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	93
+H2NVR3	unreviewed	H2NVR3_PONAB	C-C motif chemokine	LOC100461018 CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	92
+H2PDK5	unreviewed	H2PDK5_PONAB	C-X-C motif chemokine	CR201_G0024832	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	95
+H2PDK6	unreviewed	H2PDK6_PONAB	C-X-C motif chemokine	CXCL6 CR201_G0024834	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	114
+H2PDK7	unreviewed	H2PDK7_PONAB	C-X-C motif chemokine	PF4V1 CR201_G0024836	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	101
+H2PDK8	unreviewed	H2PDK8_PONAB	C-X-C motif chemokine	CXCL1 CR201_G0024837	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	107
+H2PDL1	unreviewed	H2PDL1_PONAB	C-X-C motif chemokine	CXCL5 CR201_G0024842	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	113
+H2PDL2	unreviewed	H2PDL2_PONAB	C-X-C motif chemokine	CXCL3 CR201_G0024844	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	107
+H2PRV7	unreviewed	H2PRV7_PONAB	C-C motif chemokine ligand 27 (CCL27 isoform 2)	CCL27 CR201_G0038967	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	112
+H2Q266	unreviewed	H2Q266_PANTR	G protein-coupled receptor 15 ligand	GPR15LG	Pan troglodytes (Chimpanzee)	81
+H2QCN3	unreviewed	H2QCN3_PANTR	C-C motif chemokine	CCL2	Pan troglodytes (Chimpanzee)	99
+H2QCR0	unreviewed	H2QCR0_PANTR	C-C motif chemokine	CCL16	Pan troglodytes (Chimpanzee)	120
+H2QCR1	unreviewed	H2QCR1_PANTR	C-C motif chemokine	CCL15	Pan troglodytes (Chimpanzee)	113
+H2QPN3	unreviewed	H2QPN3_PANTR	C-X-C motif chemokine	CXCL6	Pan troglodytes (Chimpanzee)	114
+H2QPN4	unreviewed	H2QPN4_PANTR	C-X-C motif chemokine	PF4V1	Pan troglodytes (Chimpanzee)	104
+H2QPN5	unreviewed	H2QPN5_PANTR	C-X-C motif chemokine	CXCL1	Pan troglodytes (Chimpanzee)	107
+H2QPN8	unreviewed	H2QPN8_PANTR	C-X-C motif chemokine	CXCL5	Pan troglodytes (Chimpanzee)	114
+H2QPN9	unreviewed	H2QPN9_PANTR	C-X-C motif chemokine	CXCL3	Pan troglodytes (Chimpanzee)	107
+H2QPP0	unreviewed	H2QPP0_PANTR	C-X-C motif chemokine	CXCL2	Pan troglodytes (Chimpanzee)	107
+H2QRJ0	unreviewed	H2QRJ0_PANTR	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Pan troglodytes (Chimpanzee)	111
+H2QUS5	unreviewed	H2QUS5_PANTR	C-C motif chemokine ligand 24	CCL24	Pan troglodytes (Chimpanzee)	119
+H2QX70	unreviewed	H2QX70_PANTR	C-C motif chemokine ligand 27	CCL27	Pan troglodytes (Chimpanzee)	112
+H2R2S1	unreviewed	H2R2S1_PANTR	C-C motif chemokine	CCL20	Pan troglodytes (Chimpanzee)	96
+H2RAU7	unreviewed	H2RAU7_PANTR	C-C motif chemokine	CCL18	Pan troglodytes (Chimpanzee)	89
+H2RD25	unreviewed	H2RD25_PANTR	C-C motif chemokine	CCL14	Pan troglodytes (Chimpanzee)	93
+H2RDM0	unreviewed	H2RDM0_PANTR	C-C motif chemokine	CCL4	Pan troglodytes (Chimpanzee)	92
+H2RGW8	unreviewed	H2RGW8_PANTR	C-C motif chemokine	CCL14	Pan troglodytes (Chimpanzee)	109
+H9GHH5	unreviewed	H9GHH5_ANOCA	Chemokine interleukin-8-like domain-containing protein	LOC100563503	Anolis carolinensis (Green anole) (American chameleon)	100
+H9H9Y8	unreviewed	H9H9Y8_NOMLE	Chemokine interleukin-8-like domain-containing protein	LOC100580385	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	114
+I3K8Z1	unreviewed	I3K8Z1_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109204576	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+J7I290	unreviewed	J7I290_RABIT	C-C motif chemokine ligand 7	CCL7	Oryctolagus cuniculus (Rabbit)	99
+K7AJ01	unreviewed	K7AJ01_PANTR	C-X-C motif chemokine	CXCL3	Pan troglodytes (Chimpanzee)	107
+K7AR94	unreviewed	K7AR94_PANTR	C-X-C motif chemokine	CXCL1	Pan troglodytes (Chimpanzee)	107
+K7AV54	unreviewed	K7AV54_PANTR	C-X-C motif chemokine	PF4V1	Pan troglodytes (Chimpanzee)	104
+K7B093	unreviewed	K7B093_PANTR	C-C motif chemokine	CCL7	Pan troglodytes (Chimpanzee)	109
+K7B1E1	unreviewed	K7B1E1_PANTR	C-X-C motif chemokine	CXCL1	Pan troglodytes (Chimpanzee)	107
+K7BMP3	unreviewed	K7BMP3_PANTR	C-X-C motif chemokine	CXCL1	Pan troglodytes (Chimpanzee)	107
+K7BNQ0	unreviewed	K7BNQ0_PANTR	C-C motif chemokine	CCL2	Pan troglodytes (Chimpanzee)	99
+K7C287	unreviewed	K7C287_PANTR	C-X-C motif chemokine	CXCL1	Pan troglodytes (Chimpanzee)	107
+K7C883	unreviewed	K7C883_PANTR	C-X-C motif chemokine	CXCL3	Pan troglodytes (Chimpanzee)	107
+K7CC53	unreviewed	K7CC53_PANTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Pan troglodytes (Chimpanzee)	119
+K7CRP5	unreviewed	K7CRP5_PANTR	C-X-C motif chemokine	PF4	Pan troglodytes (Chimpanzee)	104
+K7CRX7	unreviewed	K7CRX7_PANTR	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PF4V1	Pan troglodytes (Chimpanzee)	101
+K7D409	unreviewed	K7D409_PANTR	C-C motif chemokine	CCL4L2 LOC455004	Pan troglodytes (Chimpanzee)	92
+K7D4A1	unreviewed	K7D4A1_PANTR	C-X-C motif chemokine	CXCL3	Pan troglodytes (Chimpanzee)	107
+K7DAF8	unreviewed	K7DAF8_PANTR	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	CXCL12	Pan troglodytes (Chimpanzee)	93
+K7DGZ9	unreviewed	K7DGZ9_PANTR	C-X-C motif chemokine	CXCL2 CXCL1	Pan troglodytes (Chimpanzee)	107
+K7DK48	unreviewed	K7DK48_PANTR	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PF4V1	Pan troglodytes (Chimpanzee)	101
+K7E0V8	unreviewed	K7E0V8_MONDO	C-C motif chemokine	CCL20	Monodelphis domestica (Gray short-tailed opossum)	102
+K7E1S4	unreviewed	K7E1S4_MONDO	Cytokine SCM-1 beta-like		Monodelphis domestica (Gray short-tailed opossum)	103
+K7E218	unreviewed	K7E218_MONDO	C-C motif chemokine	LOC100020928	Monodelphis domestica (Gray short-tailed opossum)	98
+K7E609	unreviewed	K7E609_MONDO	C-C motif chemokine 5 (Small-inducible cytokine A5) (T-cell-specific protein RANTES)		Monodelphis domestica (Gray short-tailed opossum)	109
+K7ESX4	unreviewed	K7ESX4_PONAB	C-C motif chemokine	CCL20 CR201_G0042846	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	96
+K7EUD7	unreviewed	K7EUD7_PONAB	C-X-C motif chemokine	CXCL8	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	101
+K7GPC7	unreviewed	K7GPC7_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+L7MRN3	unreviewed	L7MRN3_HORSE	C-X-C motif chemokine	CXCL11	Equus caballus (Horse)	100
+M3ZAM1	unreviewed	M3ZAM1_NOMLE	Chemokine interleukin-8-like domain-containing protein	LOC100595821	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	74
+O46675	reviewed	GROG_BOVIN	Growth-regulated protein homolog gamma (GRO-gamma)		Bos taurus (Bovine)	98
+O46676	reviewed	GROA_BOVIN	Growth-regulated protein homolog alpha (GRO-alpha)		Bos taurus (Bovine)	104
+O46677	reviewed	GROB_BOVIN	Growth-regulated protein homolog beta (GRO-beta)		Bos taurus (Bovine)	104
+P47854	reviewed	GRO2_RABIT	Growth-regulated protein homolog (GRO homolog)		Oryctolagus cuniculus (Rabbit)	104
+Q0N2S7	unreviewed	Q0N2S7_PIG	C-C motif chemokine		Sus scrofa (Pig)	94
+Q0P5I9	unreviewed	Q0P5I9_BOVIN	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Bos taurus (Bovine)	89
+Q0P7L1	unreviewed	Q0P7L1_MELGA	C-C motif chemokine	SCYA4	Meleagris gallopavo (Wild turkey)	90
+Q0VB35	unreviewed	Q0VB35_MOUSE	C-C motif chemokine	Ccl1	Mus musculus (Mouse)	92
+Q149U7	unreviewed	Q149U7_MOUSE	C-C motif chemokine	Ccl8	Mus musculus (Mouse)	97
+Q28724	unreviewed	Q28724_RABIT	C-X-C motif chemokine		Oryctolagus cuniculus (Rabbit)	108
+Q29RR9	unreviewed	Q29RR9_BOVIN	Chemokine (C-C motif) ligand 14	CCL14	Bos taurus (Bovine)	94
+Q2EN90	unreviewed	Q2EN90_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	104
+Q2KIE5	unreviewed	Q2KIE5_BOVIN	C-X-C motif chemokine	CXCL2	Bos taurus (Bovine)	104
+Q32L58	unreviewed	Q32L58_BOVIN	C-C motif chemokine	LOC504773	Bos taurus (Bovine)	92
+Q3LSL4	unreviewed	Q3LSL4_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	93
+Q3LSL5	unreviewed	Q3LSL5_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Canis lupus familiaris (Dog) (Canis familiaris)	89
+Q3SYY1	unreviewed	Q3SYY1_BOVIN	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Bos taurus (Bovine)	99
+Q3U1E8	unreviewed	Q3U1E8_MOUSE	C-X-C motif chemokine	Cxcl13	Mus musculus (Mouse)	109
+Q3U1L9	unreviewed	Q3U1L9_MOUSE	C-X-C motif chemokine	Cxcl2	Mus musculus (Mouse)	96
+Q3U5L6	unreviewed	Q3U5L6_MOUSE	C-C motif chemokine	Ccl2	Mus musculus (Mouse)	96
+Q3UAS6	unreviewed	Q3UAS6_MOUSE	C-X-C motif chemokine	Cxcl10	Mus musculus (Mouse)	98
+Q3UCV1	unreviewed	Q3UCV1_MOUSE	C-X-C motif chemokine	Cxcl10	Mus musculus (Mouse)	98
+Q3UK71	unreviewed	Q3UK71_MOUSE	C-X-C motif chemokine	Cxcl10	Mus musculus (Mouse)	98
+Q542T1	unreviewed	Q542T1_MOUSE	Lymphotactin (C motif chemokine 1) (Cytokine SCM-1) (Small-inducible cytokine C1)	Xcl1 XCL1	Mus musculus (Mouse)	114
+Q545B5	unreviewed	Q545B5_MOUSE	C-C motif chemokine	Ccl12	Mus musculus (Mouse)	104
+Q546S6	unreviewed	Q546S6_MOUSE	C-C motif chemokine	Ccl22 DCBCK	Mus musculus (Mouse)	92
+Q548P0	unreviewed	Q548P0_MOUSE	C-C motif chemokine	Ccl19 Scya19	Mus musculus (Mouse)	108
+Q54AI7	unreviewed	Q54AI7_MOUSE	C-C motif chemokine	Ccl20	Mus musculus (Mouse)	97
+Q5EFJ3	unreviewed	Q5EFJ3_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	104
+Q5FVN3	unreviewed	Q5FVN3_RAT	C-C motif chemokine ligand 9 (Ccl9-like protein) (Chemokine (C-C motif) ligand 9) (Chemokine CCL9)	Ccl9	Rattus norvegicus (Rat)	117
+Q5I0L5	unreviewed	Q5I0L5_RAT	C-C motif chemokine	Ccl22	Rattus norvegicus (Rat)	92
+Q5I6F8	unreviewed	Q5I6F8_CANLF	C-C motif chemokine	CCL7	Canis lupus familiaris (Dog) (Canis familiaris)	99
+Q5K4L9	unreviewed	Q5K4L9_PIG	C-C motif chemokine	CCL20	Sus scrofa (Pig)	96
+Q5KSU7	unreviewed	Q5KSU7_CANLF	C-C motif chemokine	CCL7	Canis lupus familiaris (Dog) (Canis familiaris)	99
+Q5QNV9	unreviewed	Q5QNV9_MOUSE	C-C motif chemokine	Ccl4	Mus musculus (Mouse)	92
+Q5QNW0	unreviewed	Q5QNW0_MOUSE	C-C motif chemokine	Ccl3	Mus musculus (Mouse)	92
+Q5R8M6	unreviewed	Q5R8M6_PONAB	Stromal cell-derived factor 1 (C-X-C motif chemokine 12) (Pre-B cell growth-stimulating factor)	DKFZp469G1525	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	93
+Q5RCF4	unreviewed	Q5RCF4_PONAB	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	DKFZp469J175 CXCL14 CR201_G0017585	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	111
+Q5TYP6	unreviewed	Q5TYP6_DANRE	C-C motif chemokine	ccl38.6 CCL-chr20b CCL38af si:dkeyp-59a8.1 wu:fj16d01	Danio rerio (Zebrafish) (Brachydanio rerio)	103
+Q5TYP9	unreviewed	Q5TYP9_DANRE	C-C motif chemokine	ccl38a.4 si:dkeyp-59a8.3 zgc:171266	Danio rerio (Zebrafish) (Brachydanio rerio)	101
+Q5TYQ0	unreviewed	Q5TYQ0_DANRE	C-C motif chemokine	ccl38a.5 ccl2 si:dkeyp-59a8.2	Danio rerio (Zebrafish) (Brachydanio rerio)	103
+Q5VI85	unreviewed	Q5VI85_RABIT	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Oryctolagus cuniculus (Rabbit)	106
+Q5VZ75	unreviewed	Q5VZ75_HUMAN	C-C motif chemokine	CCL19	Homo sapiens (Human)	104
+Q5XNN9	unreviewed	Q5XNN9_CANLF	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)		Canis lupus familiaris (Dog) (Canis familiaris)	89
+Q642U4	unreviewed	Q642U4_MOUSE	C-C motif chemokine	Ccl20	Mus musculus (Mouse)	96
+Q68AP1	unreviewed	Q68AP1_CANLF	C-C motif chemokine 17 (CC chemokine TARC) (Small-inducible cytokine A17) (Thymus and activation-regulated chemokine)	CCL20	Canis lupus familiaris (Dog) (Canis familiaris)	97
+Q68AY7	unreviewed	Q68AY7_CANLF	C-C motif chemokine	CCL19	Canis lupus familiaris (Dog) (Canis familiaris)	100
+Q68AY8	unreviewed	Q68AY8_CANLF	C-C motif chemokine 1 (Small-inducible cytokine A1)	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	94
+Q68Y87	unreviewed	Q68Y87_CANLF	C-C motif chemokine ligand 27 (Cutaneous T cell attracting chemokine)	CTACK CCL27	Canis lupus familiaris (Dog) (Canis familiaris)	119
+Q6DUK4	unreviewed	Q6DUK4_PIG	C-C motif chemokine		Sus scrofa (Pig)	93
+Q6EKW4	unreviewed	Q6EKW4_PIG	Stromal cell-derived factor 1 (C-X-C motif chemokine 12)	CXCL12	Sus scrofa (Pig)	116
+Q6I9S7	unreviewed	Q6I9S7_HUMAN	C-X-C motif chemokine	CXCL5 hCG_16364	Homo sapiens (Human)	114
+Q6IBD6	unreviewed	Q6IBD6_HUMAN	C-C motif chemokine	CCL19 hCG_20476	Homo sapiens (Human)	98
+Q6P8R3	unreviewed	Q6P8R3_MOUSE	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	Pf4 Cxcl4	Mus musculus (Mouse)	105
+Q6PED1	unreviewed	Q6PED1_RAT	C-C motif chemokine	Ccl5	Rattus norvegicus (Rat)	92
+Q6PUD4	unreviewed	Q6PUD4_PIG	C-X-C motif chemokine	CXCL2	Sus scrofa (Pig)	107
+Q6PUJ1	unreviewed	Q6PUJ1_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	107
+
+Q7Z7Q8	unreviewed	Q7Z7Q8_HUMAN	C-C motif chemokine	MCP-3 CCL7 hCG_29304	Homo sapiens (Human)	109
+Q867A6	unreviewed	Q867A6_SHEEP	Lymphotactin	Lptn	Ovis aries (Sheep)	112
+Q8K453	unreviewed	Q8K453_RAT	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	Cxcl14	Rattus norvegicus (Rat)	99
+Q8R392	unreviewed	Q8R392_MOUSE	C-X-C motif chemokine	Cxcl11	Mus musculus (Mouse)	100
+Q91ZH5	unreviewed	Q91ZH5_RAT	C-C motif chemokine	Ccl22 MDC	Rattus norvegicus (Rat)	92
+Q9BDJ2	unreviewed	Q9BDJ2_BOVIN	C motif chemokine ligand 1 (Chemokine (C motif) ligand 1) (Lymphotactin)	XCL1	Bos taurus (Bovine)	97
+Q9DFG4	unreviewed	Q9DFG4_DANRE	C-X-C motif chemokine 14 precursor (CXC-type chemokine) (Chemokine (C-X-C motif) ligand 14)	cxcl14 fb67g04 Scyba scyba wu:fb67g04	Danio rerio (Zebrafish) (Brachydanio rerio)	100
+Q9EQI5	unreviewed	Q9EQI5_MOUSE	Chemokine subfamily B Cys-X-Cys (Platelet basic protein) (Thymus chemokine 1)	Ppbp Cxcl7	Mus musculus (Mouse)	113
+Q9QX28	unreviewed	Q9QX28_MOUSE	C-X-C motif chemokine	Cxcl13 angie2	Mus musculus (Mouse)	86
+Q9QZU2	unreviewed	Q9QZU2_MOUSE	C-C motif chemokine	Ccl22	Mus musculus (Mouse)	92
+R4G9F3	unreviewed	R4G9F3_ANOCA	C-C motif chemokine	CCL20	Anolis carolinensis (Green anole) (American chameleon)	102
+U3CWL0	unreviewed	U3CWL0_CALJA	C-C motif chemokine	CCL20	Callithrix jacchus (White-tufted-ear marmoset)	96
+U3EC16	unreviewed	U3EC16_CALJA	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Callithrix jacchus (White-tufted-ear marmoset)	111
+U3F7H0	unreviewed	U3F7H0_CALJA	C-C motif chemokine	CCL4 LOC100385441	Callithrix jacchus (White-tufted-ear marmoset)	92
+W5NPF7	unreviewed	W5NPF7_SHEEP	C-C motif chemokine	CCL22	Ovis aries (Sheep)	93
+W5NPQ5	unreviewed	W5NPQ5_SHEEP	C-C motif chemokine		Ovis aries (Sheep)	102
+W5P1N4	unreviewed	W5P1N4_SHEEP	C-C motif chemokine	LOC101113771	Ovis aries (Sheep)	93
+W5P2A3	unreviewed	W5P2A3_SHEEP	C-C motif chemokine	LOC101114285	Ovis aries (Sheep)	109
+W5P2M5	unreviewed	W5P2M5_SHEEP	C-C motif chemokine	LOC101114535	Ovis aries (Sheep)	93
+W5P3F0	unreviewed	W5P3F0_SHEEP	C-C motif chemokine	LOC101111035	Ovis aries (Sheep)	93
+W5P3I2	unreviewed	W5P3I2_SHEEP	C-C motif chemokine	LOC101111303	Ovis aries (Sheep)	89
+W5P3Q3	unreviewed	W5P3Q3_SHEEP	C-C motif chemokine	LOC100101238	Ovis aries (Sheep)	89
+W5P426	unreviewed	W5P426_SHEEP	Chemokine interleukin-8-like domain-containing protein	LOC101115044	Ovis aries (Sheep)	94
+W5P491	unreviewed	W5P491_SHEEP	Chemokine interleukin-8-like domain-containing protein	CCL16	Ovis aries (Sheep)	104
+W5P4G7	unreviewed	W5P4G7_SHEEP	C-C motif chemokine	CCL5	Ovis aries (Sheep)	91
+W5PH50	unreviewed	W5PH50_SHEEP	Chemokine (C motif) ligand 1	XCL1	Ovis aries (Sheep)	112
+W5PH69	unreviewed	W5PH69_SHEEP	C-C motif chemokine	CCL19	Ovis aries (Sheep)	115
+W5PHD1	unreviewed	W5PHD1_SHEEP	Chemokine interleukin-8-like domain-containing protein	LOC101122122	Ovis aries (Sheep)	109
+W5PHD5	unreviewed	W5PHD5_SHEEP	C-C motif chemokine 1 (Small-inducible cytokine A1)	CCL1	Ovis aries (Sheep)	97
+W5PHJ9	unreviewed	W5PHJ9_SHEEP	C-C motif chemokine	LOC101119572	Ovis aries (Sheep)	110
+W5PII4	unreviewed	W5PII4_SHEEP	C-C motif chemokine	LOC101119832	Ovis aries (Sheep)	101
+W5PIQ4	unreviewed	W5PIQ4_SHEEP	C-C motif chemokine	LOC101120093	Ovis aries (Sheep)	115
+W5PV16	unreviewed	W5PV16_SHEEP	C-C motif chemokine	CCL26	Ovis aries (Sheep)	69
+W5PV23	unreviewed	W5PV23_SHEEP	Chemokine interleukin-8-like domain-containing protein	CCL24	Ovis aries (Sheep)	116
+W5PYW3	unreviewed	W5PYW3_SHEEP	C-X-C motif chemokine	LOC101103238	Ovis aries (Sheep)	109
+W5PZ55	unreviewed	W5PZ55_SHEEP	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]	PPBP	Ovis aries (Sheep)	119
+W5PZA5	unreviewed	W5PZA5_SHEEP	C-X-C motif chemokine 14 (Chemokine BRAK) (MIP-2G) (Small-inducible cytokine B14)	CXCL14	Ovis aries (Sheep)	115
+W5PZF0	unreviewed	W5PZF0_SHEEP	Multifunctional fusion protein [Includes: Platelet factor 4 (PF-4) (C-X-C motif chemokine 4); C-X-C motif chemokine]		Ovis aries (Sheep)	119
+W5PZG1	unreviewed	W5PZG1_SHEEP	C-X-C motif chemokine	CXCL1	Ovis aries (Sheep)	75
+W5Q5B3	unreviewed	W5Q5B3_SHEEP	C-X-C motif chemokine	CXCL11	Ovis aries (Sheep)	100
+W5Q654	unreviewed	W5Q654_SHEEP	C-X-C motif chemokine		Ovis aries (Sheep)	102
+W5Q8I5	unreviewed	W5Q8I5_SHEEP	Chemokine interleukin-8-like domain-containing protein	CXCL13	Ovis aries (Sheep)	109
+W5QHB2	unreviewed	W5QHB2_SHEEP	C-C motif chemokine	CCL20	Ovis aries (Sheep)	97
+W5QJA1	unreviewed	W5QJA1_SHEEP	C-X-C motif chemokine		Ovis aries (Sheep)	75
+A0A0B4J2G5	unreviewed	A0A0B4J2G5_HUMAN	C-C motif chemokine ligand 14	CCL14	Homo sapiens (Human)	65
+A0A0J9YTR7	unreviewed	A0A0J9YTR7_MOUSE	Platelet factor 4	Pf4	Mus musculus (Mouse)	77
+A0A0J9YWH4	unreviewed	A0A0J9YWH4_HUMAN	C-C motif chemokine 4-like	CCL4L2	Homo sapiens (Human)	103
+A0A0R4IFJ9	unreviewed	A0A0R4IFJ9_DANRE	C-C motif chemokine 22-like (Chemokine (C-C motif) ligand 39, duplicate 6)	ccl39.6	Danio rerio (Zebrafish) (Brachydanio rerio)	99
+A0A0R4IPJ5	unreviewed	A0A0R4IPJ5_DANRE	Chemokine (C-C motif) ligand 34b, duplicate 1	ccl34b.1 si:dkey-25o1.6	Danio rerio (Zebrafish) (Brachydanio rerio)	97
+A0A0R4J0X6	unreviewed	A0A0R4J0X6_MOUSE	C-C motif chemokine ligand 27A	Ccl27a	Mus musculus (Mouse)	120
+A0A1B8Y8M3	unreviewed	A0A1B8Y8M3_XENTR	C-X-C motif chemokine 11-1	cxcl11 XENTR_v90029261mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	100
+A0A1B8Y8M8	unreviewed	A0A1B8Y8M8_XENTR	Interleukin-8	cxcl8b cxc8b.1 cxcl8b.1 LOC101730379 XENTR_v90029246mg	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	95
+A0A1D5RMK8	unreviewed	A0A1D5RMK8_MOUSE	C-X3-C motif chemokine ligand 1	Cx3cl1	Mus musculus (Mouse)	64
+A0A1S3KMJ0	unreviewed	A0A1S3KMJ0_SALSA	C-C motif chemokine 8-like	LOC106560915	Salmo salar (Atlantic salmon)	118
+A0A1S3L039	unreviewed	A0A1S3L039_SALSA	C-C motif chemokine 19-like	LOC106563358	Salmo salar (Atlantic salmon)	108
+A0A1S3L676	unreviewed	A0A1S3L676_SALSA	C-X-C motif chemokine 11-like	LOC106564720	Salmo salar (Atlantic salmon)	109
+A0A1S3LZK6	unreviewed	A0A1S3LZK6_SALSA	Uncharacterized protein LOC106569488 isoform X2	LOC106569488	Salmo salar (Atlantic salmon)	89
+A0A1S3LZS0	unreviewed	A0A1S3LZS0_SALSA	Uncharacterized protein LOC106569488 isoform X1	LOC106569488	Salmo salar (Atlantic salmon)	101
+A0A1S3M0J6	unreviewed	A0A1S3M0J6_SALSA	C-C motif chemokine 21 isoform X2	ccl21	Salmo salar (Atlantic salmon)	101
+A0A1S3M6V4	unreviewed	A0A1S3M6V4_SALSA	C-C motif chemokine 4-like	LOC106570886	Salmo salar (Atlantic salmon)	103
+A0A1S3NHL8	unreviewed	A0A1S3NHL8_SALSA	C-C motif chemokine 20-like isoform X2	LOC106579494	Salmo salar (Atlantic salmon)	100
+A0A1S3NHM2	unreviewed	A0A1S3NHM2_SALSA	Eotaxin-like	LOC106579498	Salmo salar (Atlantic salmon)	98
+A0A1S3PKF1	unreviewed	A0A1S3PKF1_SALSA	C-C motif chemokine 4-like	LOC106585882	Salmo salar (Atlantic salmon)	99
+A0A1S3PL40	unreviewed	A0A1S3PL40_SALSA	C-X-C motif chemokine 13-like	LOC106585872	Salmo salar (Atlantic salmon)	86
+A0A1S3PQZ1	unreviewed	A0A1S3PQZ1_SALSA	C-X-C motif chemokine 11-like	LOC106586893	Salmo salar (Atlantic salmon)	109
+A0A1S3PWJ4	unreviewed	A0A1S3PWJ4_SALSA	C-C motif chemokine 13-like	LOC106587932	Salmo salar (Atlantic salmon)	104
+A0A1S3PWM0	unreviewed	A0A1S3PWM0_SALSA	C-C motif chemokine 13-like	LOC106587960	Salmo salar (Atlantic salmon)	99
+A0A1S3PWM9	unreviewed	A0A1S3PWM9_SALSA	C-C motif chemokine 13-like	LOC106587941	Salmo salar (Atlantic salmon)	93
+A0A1S3PWR4	unreviewed	A0A1S3PWR4_SALSA	C-C motif chemokine 13-like	LOC106587975	Salmo salar (Atlantic salmon)	99
+A0A1S3PXZ1	unreviewed	A0A1S3PXZ1_SALSA	C-C motif chemokine 13-like	LOC106587939	Salmo salar (Atlantic salmon)	93
+A0A1S3QB30	unreviewed	A0A1S3QB30_SALSA	Eotaxin-like	LOC106590516	Salmo salar (Atlantic salmon)	98
+A0A1S3R4J6	unreviewed	A0A1S3R4J6_SALSA	C-C motif chemokine 4-like	LOC106600447	Salmo salar (Atlantic salmon)	105
+A0A1S3RTF8	unreviewed	A0A1S3RTF8_SALSA	C-X-C motif chemokine 14-like isoform X2	LOC106604935	Salmo salar (Atlantic salmon)	100
+A0A1S3SDZ1	unreviewed	A0A1S3SDZ1_SALSA	Growth-regulated alpha protein-like	LOC106608883	Salmo salar (Atlantic salmon)	73
+A0A1S3T541	unreviewed	A0A1S3T541_SALSA	C-C motif chemokine 25-like	LOC106613704	Salmo salar (Atlantic salmon)	95
+A0A286ZQ00	unreviewed	A0A286ZQ00_PIG	C-C motif chemokine		Sus scrofa (Pig)	92
+A0A2I2YCD7	unreviewed	A0A2I2YCD7_GORGO	C-C motif chemokine ligand 28	CCL28	Gorilla gorilla gorilla (Western lowland gorilla)	80
+A0A2I2Z1Q9	unreviewed	A0A2I2Z1Q9_GORGO	X-C motif chemokine ligand 1		Gorilla gorilla gorilla (Western lowland gorilla)	93
+A0A2I3H0G4	unreviewed	A0A2I3H0G4_NOMLE	C-C motif chemokine ligand 28	CCL28	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	80
+A0A2I3H4A1	unreviewed	A0A2I3H4A1_NOMLE	Chemokine interleukin-8-like domain-containing protein	LOC100595480	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	103
+A0A2I3RVJ5	unreviewed	A0A2I3RVJ5_PANTR	C-C motif chemokine ligand 2	CCL2	Pan troglodytes (Chimpanzee)	109
+A0A2I3S6D9	unreviewed	A0A2I3S6D9_PANTR	C-C motif chemokine ligand 28	CCL28	Pan troglodytes (Chimpanzee)	80
+A0A2J8J6F9	unreviewed	A0A2J8J6F9_PANTR	CCL25 isoform 3	CK820_G0050358	Pan troglodytes (Chimpanzee)	84
+A0A2J8LJ54	unreviewed	A0A2J8LJ54_PANTR	CCL2 isoform 3	CK820_G0028670	Pan troglodytes (Chimpanzee)	65
+A0A2J8LJK3	unreviewed	A0A2J8LJK3_PANTR	CCL14 isoform 4	CK820_G0028752	Pan troglodytes (Chimpanzee)	65
+A0A2J8LJV0	unreviewed	A0A2J8LJV0_PANTR	CCL4L2 isoform 2	CK820_G0028813	Pan troglodytes (Chimpanzee)	96
+A0A2J8LJV4	unreviewed	A0A2J8LJV4_PANTR	Chemokine interleukin-8-like domain-containing protein	LOC455004	Pan troglodytes (Chimpanzee)	64
+A0A2J8LJW4	unreviewed	A0A2J8LJW4_PANTR	CCL4L2 isoform 8	CK820_G0028813	Pan troglodytes (Chimpanzee)	87
+A0A2J8LJW7	unreviewed	A0A2J8LJW7_PANTR	CCL4L2 isoform 5	CK820_G0028813	Pan troglodytes (Chimpanzee)	86
+A0A2J8LJX1	unreviewed	A0A2J8LJX1_PANTR	CCL4L2 isoform 4	CK820_G0028813	Pan troglodytes (Chimpanzee)	103
+A0A2J8LLU5	unreviewed	A0A2J8LLU5_PANTR	XCL2 isoform 1	CK820_G0027773	Pan troglodytes (Chimpanzee)	114
+A0A2J8QZG8	unreviewed	A0A2J8QZG8_PONAB	CCL4L2 isoform 5	CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	103
+A0A2J8QZH0	unreviewed	A0A2J8QZH0_PONAB	CCL4L2 isoform 1	CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	96
+A0A2J8QZH1	unreviewed	A0A2J8QZH1_PONAB	CCL4L2 isoform 2 (CCL4L2 isoform 7)	CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	64
+A0A2J8QZH4	unreviewed	A0A2J8QZH4_PONAB	CCL4L2 isoform 4	CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	103
+A0A2J8QZH6	unreviewed	A0A2J8QZH6_PONAB	CCL4L2 isoform 6	CR201_G0055603	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	86
+A0A2J8RCI5	unreviewed	A0A2J8RCI5_PONAB	CCL14 isoform 3	CR201_G0051837	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	65
+A0A2J8RD43	unreviewed	A0A2J8RD43_PONAB	CCL25 isoform 1	CR201_G0051659	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	84
+A0A2J8SA70	unreviewed	A0A2J8SA70_PONAB	CCL28 isoform 3	CR201_G0044789	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	80
+A0A2J8TNK2	unreviewed	A0A2J8TNK2_PONAB	CCL2 isoform 3	CR201_G0033746	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	65
+A0A2R8MBM5	unreviewed	A0A2R8MBM5_CALJA	Chemokine interleukin-8-like domain-containing protein	LOC100385441	Callithrix jacchus (White-tufted-ear marmoset)	103
+A0A2R8Q8Y8	unreviewed	A0A2R8Q8Y8_DANRE	Chemokine (C-X-C motif) ligand 18a, duplicate 1	cxcl18a.1 cxc46	Danio rerio (Zebrafish) (Brachydanio rerio)	120
+A0A2U6T1M3	unreviewed	A0A2U6T1M3_ORENI	CXC chemokine 2		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	106
+
+
+A0A3Q2H454	unreviewed	A0A3Q2H454_HORSE	Uncharacterized protein		Equus caballus (Horse)	96
+
+A0A4X1T541	unreviewed	A0A4X1T541_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	63
+A0A4X1T5G3	unreviewed	A0A4X1T5G3_PIG	C-C motif chemokine	CCL4	Sus scrofa (Pig)	82
+A0A4X1T5J8	unreviewed	A0A4X1T5J8_PIG	C-C motif chemokine ligand 4	CCL4	Sus scrofa (Pig)	64
+A0A4X1V3N1	unreviewed	A0A4X1V3N1_PIG	Uncharacterized protein		Sus scrofa (Pig)	60
+A0A5F5PR44	unreviewed	A0A5F5PR44_HORSE	Chemokine interleukin-8-like domain-containing protein		Equus caballus (Horse)	80
+A0A5F5PT78	unreviewed	A0A5F5PT78_HORSE	C-C motif chemokine		Equus caballus (Horse)	98
+A0A5F5Q0I8	unreviewed	A0A5F5Q0I8_HORSE	Chemokine interleukin-8-like domain-containing protein		Equus caballus (Horse)	64
+A0A5F9C5M3	unreviewed	A0A5F9C5M3_RABIT	C-X-C motif chemokine		Oryctolagus cuniculus (Rabbit)	111
+A0A5F9C8I4	unreviewed	A0A5F9C8I4_RABIT	Chemokine interleukin-8-like domain-containing protein		Oryctolagus cuniculus (Rabbit)	104
+A0A5F9CRU0	unreviewed	A0A5F9CRU0_RABIT	Chemokine (C-C motif) ligand 4	CCL4	Oryctolagus cuniculus (Rabbit)	96
+A0A5F9D9E4	unreviewed	A0A5F9D9E4_RABIT	Chemokine (C-C motif) ligand 4	CCL4	Oryctolagus cuniculus (Rabbit)	64
+A0A5G2Q926	unreviewed	A0A5G2Q926_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	89
+A0A5G2QUB5	unreviewed	A0A5G2QUB5_PIG	C-C motif chemokine ligand 4	CCL4	Sus scrofa (Pig)	96
+A0A669B170	unreviewed	A0A669B170_ORENI	Eotaxin-like	LOC109200482 LOC109200481	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+A0A669B2U1	unreviewed	A0A669B2U1_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+A0A669B9V4	unreviewed	A0A669B9V4_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100690251	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669BBP0	unreviewed	A0A669BBP0_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669BIF5	unreviewed	A0A669BIF5_ORENI	C-C motif chemokine 20	ccl25a	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	105
+A0A669BJ23	unreviewed	A0A669BJ23_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	103
+A0A669BK32	unreviewed	A0A669BK32_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	100
+A0A669BKD1	unreviewed	A0A669BKD1_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669BKP2	unreviewed	A0A669BKP2_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	64
+A0A669BLQ6	unreviewed	A0A669BLQ6_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	87
+A0A669BQT1	unreviewed	A0A669BQT1_ORENI	Eotaxin-like	LOC109199676	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669BWU4	unreviewed	A0A669BWU4_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	79
+A0A669C3C7	unreviewed	A0A669C3C7_ORENI	Monocyte chemotactic protein 1B	LOC109202766	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669C5I1	unreviewed	A0A669C5I1_ORENI	Eotaxin-like	LOC109200487	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669C7M7	unreviewed	A0A669C7M7_ORENI	Chemokine (C-X-C motif) ligand 14	cxcl14	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669C9L4	unreviewed	A0A669C9L4_ORENI	C-C motif chemokine 20	ccl20b	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669CAD5	unreviewed	A0A669CAD5_ORENI	Eotaxin-like	LOC109199677	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669CAW5	unreviewed	A0A669CAW5_ORENI	C-X-C motif chemokine 10	LOC100697780	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	103
+A0A669CKG7	unreviewed	A0A669CKG7_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109202703	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669CLR5	unreviewed	A0A669CLR5_ORENI	Eotaxin-like	LOC109199676	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	96
+A0A669CMM5	unreviewed	A0A669CMM5_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	98
+A0A669CNH6	unreviewed	A0A669CNH6_ORENI	Eotaxin-like	LOC109199677	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669CQ91	unreviewed	A0A669CQ91_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100693396	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	100
+A0A669CRH7	unreviewed	A0A669CRH7_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100700788	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	87
+A0A669CSC3	unreviewed	A0A669CSC3_ORENI	Monocyte chemotactic protein 1B	LOC109202766	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669CYC9	unreviewed	A0A669CYC9_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	103
+A0A669D020	unreviewed	A0A669D020_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100690251	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+A0A669D2X6	unreviewed	A0A669D2X6_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	100
+A0A669D5V2	unreviewed	A0A669D5V2_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	98
+A0A669D8E8	unreviewed	A0A669D8E8_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	92
+A0A669DAA8	unreviewed	A0A669DAA8_ORENI	C-C motif chemokine 20	ccl25a	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	112
+A0A669DBS4	unreviewed	A0A669DBS4_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	102
+A0A669DG25	unreviewed	A0A669DG25_ORENI	Eotaxin-like	LOC109199676	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	96
+A0A669DHF3	unreviewed	A0A669DHF3_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	88
+A0A669DJB6	unreviewed	A0A669DJB6_ORENI	C-C motif chemokine 20	LOC100699919	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	94
+A0A669DK66	unreviewed	A0A669DK66_ORENI	C-C motif chemokine 4	LOC102081464	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669DKQ9	unreviewed	A0A669DKQ9_ORENI	Chemokine (C-C motif) ligand 25b	LOC100694279	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	119
+A0A669DPX8	unreviewed	A0A669DPX8_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	80
+A0A669DTS9	unreviewed	A0A669DTS9_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109199678	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	51
+A0A669DV40	unreviewed	A0A669DV40_ORENI	Chemokine (C-X-C motif) ligand 19	LOC106098416	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	92
+A0A669DWV1	unreviewed	A0A669DWV1_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	102
+A0A669DXM2	unreviewed	A0A669DXM2_ORENI	Monocyte chemotactic protein 1B	LOC109202766	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+A0A669E139	unreviewed	A0A669E139_ORENI	C-X-C motif chemokine 10	LOC102077089	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	106
+A0A669E190	unreviewed	A0A669E190_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	97
+A0A669E1B8	unreviewed	A0A669E1B8_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669E5P7	unreviewed	A0A669E5P7_ORENI	C-C motif chemokine 4	LOC102081464	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669E7R2	unreviewed	A0A669E7R2_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109204576	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	81
+A0A669E858	unreviewed	A0A669E858_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	101
+A0A669EBK9	unreviewed	A0A669EBK9_ORENI	Eotaxin-like	LOC109200482 LOC109200481	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	93
+A0A669EDM8	unreviewed	A0A669EDM8_ORENI	C-C motif chemokine 4	LOC102081464	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	109
+A0A669EF07	unreviewed	A0A669EF07_ORENI	Eotaxin-like	LOC109200481	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+A0A669EFP8	unreviewed	A0A669EFP8_ORENI	C-X-C motif chemokine 10	LOC100697780	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	105
+A0A669EJS4	unreviewed	A0A669EJS4_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109202762	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669EKG0	unreviewed	A0A669EKG0_ORENI	Chemokine (C-X-C motif) ligand 19	LOC106098416	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	107
+A0A669EL15	unreviewed	A0A669EL15_ORENI	C-C motif chemokine 4	LOC102081464	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	109
+A0A669ERG1	unreviewed	A0A669ERG1_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100690251	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	94
+A0A669F1H3	unreviewed	A0A669F1H3_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	60
+A0A669F1W1	unreviewed	A0A669F1W1_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100700523	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	90
+A0A669F2M4	unreviewed	A0A669F2M4_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	60
+A0A669F495	unreviewed	A0A669F495_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109194344	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	97
+A0A669F5N5	unreviewed	A0A669F5N5_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	79
+A0A669F692	unreviewed	A0A669F692_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100691242	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+A0A669F6S8	unreviewed	A0A669F6S8_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	102
+A0A669F718	unreviewed	A0A669F718_ORENI	C-X-C motif chemokine 10	LOC109204854	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	106
+A0A669F743	unreviewed	A0A669F743_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC100693396	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	98
+A0A669F7D3	unreviewed	A0A669F7D3_ORENI	Eotaxin-like	LOC109200482	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+A0A669F8P1	unreviewed	A0A669F8P1_ORENI	Chemokine interleukin-8-like domain-containing protein	LOC109199678	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	74
+
+A0A674GUX2	unreviewed	A0A674GUX2_TAEGU	Interleukin-8	LOC100222345	Taeniopygia guttata (Zebra finch) (Poephila guttata)	94
+A0A674HNR9	unreviewed	A0A674HNR9_TAEGU	C-X-C motif chemokine		Taeniopygia guttata (Zebra finch) (Poephila guttata)	103
+A0A6D2VU93	unreviewed	A0A6D2VU93_PANTR	CCL4L2 isoform 1 (CCL4L2 isoform 6)	CK820_G0028813	Pan troglodytes (Chimpanzee)	64
+A0A6D2WW62	unreviewed	A0A6D2WW62_PANTR	CCL4L2 isoform 3	CK820_G0028813	Pan troglodytes (Chimpanzee)	103
+A0A6D2WWF0	unreviewed	A0A6D2WWF0_PANTR	CCL27 isoform 2	CK820_G0014401	Pan troglodytes (Chimpanzee)	112
+A0A6D2XFB4	unreviewed	A0A6D2XFB4_PANTR	CCL28 isoform 3	CK820_G0044221	Pan troglodytes (Chimpanzee)	80
+A0A6D2Y0L5	unreviewed	A0A6D2Y0L5_PANTR	XCL1 isoform 1	CK820_G0027771	Pan troglodytes (Chimpanzee)	114
+A0A6D2Y1L9	unreviewed	A0A6D2Y1L9_PANTR	CCL24 isoform 1 (CCL24 isoform 2)	CK820_G0052201	Pan troglodytes (Chimpanzee)	119
+A0A6I8NMB8	unreviewed	A0A6I8NMB8_ORNAN	Chemokine interleukin-8-like domain-containing protein		Ornithorhynchus anatinus (Duckbill platypus)	98
+A0A6I8NS61	unreviewed	A0A6I8NS61_ORNAN	Chemokine interleukin-8-like domain-containing protein		Ornithorhynchus anatinus (Duckbill platypus)	94
+A0A6I8P984	unreviewed	A0A6I8P984_ORNAN	Chemokine interleukin-8-like domain-containing protein		Ornithorhynchus anatinus (Duckbill platypus)	119
+A0A6I8S7M0	unreviewed	A0A6I8S7M0_XENTR	Chemokine interleukin-8-like domain-containing protein		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	101
+A0A6I8SI63	unreviewed	A0A6I8SI63_XENTR	Chemokine interleukin-8-like domain-containing protein		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	86
+A0A6I8SIF9	unreviewed	A0A6I8SIF9_XENTR	Chemokine interleukin-8-like domain-containing protein		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	81
+A0A6I8SQI1	unreviewed	A0A6I8SQI1_XENTR	Chemokine (C-X-C motif) ligand 14	cxcl14	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	98
+A0A6I8SXT0	unreviewed	A0A6I8SXT0_XENTR	Chemokine interleukin-8-like domain-containing protein		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	84
+
+A0A6P3E707	unreviewed	A0A6P3E707_SHEEP	Chemokine interleukin-8-like domain-containing protein	JEQ12_017539	Ovis aries (Sheep)	109
+A0A6P3EJ98	unreviewed	A0A6P3EJ98_SHEEP	C-C motif chemokine 1 (Small-inducible cytokine A1)	JEQ12_003317	Ovis aries (Sheep)	97
+A0A7N5KIK5	unreviewed	A0A7N5KIK5_AILME	C-C motif chemokine 4	LOC100468796	Ailuropoda melanoleuca (Giant panda)	97
+A0A803J6I4	unreviewed	A0A803J6I4_XENTR	Interleukin-8	LOC100498389	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	95
+A0A803JX38	unreviewed	A0A803JX38_XENTR	Chemokine interleukin-8-like domain-containing protein		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	76
+A0A803TY50	unreviewed	A0A803TY50_ANOCA	Chemokine interleukin-8-like domain-containing protein		Anolis carolinensis (Green anole) (American chameleon)	114
+A0A803U136	unreviewed	A0A803U136_ANOCA	C-X-C motif chemokine ligand 14	CXCL14	Anolis carolinensis (Green anole) (American chameleon)	98
+A0A803XKR0	unreviewed	A0A803XKR0_MELGA	Chemokine interleukin-8-like domain-containing protein	LOC109367188	Meleagris gallopavo (Wild turkey)	108
+A0A803XSP9	unreviewed	A0A803XSP9_MELGA	Chemokine interleukin-8-like domain-containing protein	LOC100548721	Meleagris gallopavo (Wild turkey)	96
+A0A803XV46	unreviewed	A0A803XV46_MELGA	Chemokine interleukin-8-like domain-containing protein		Meleagris gallopavo (Wild turkey)	100
+A0A803YR04	unreviewed	A0A803YR04_MELGA	Chemokine interleukin-8-like domain-containing protein		Meleagris gallopavo (Wild turkey)	111
+
+A0A8C0NNV6	unreviewed	A0A8C0NNV6_CANLF	C-C motif chemokine		Canis lupus familiaris (Dog) (Canis familiaris)	95
+A0A8C0NU85	unreviewed	A0A8C0NU85_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	65
+A0A8C0P470	unreviewed	A0A8C0P470_CANLF	Chemokine (C-C motif) ligand 4	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	80
+A0A8C0PDV3	unreviewed	A0A8C0PDV3_CANLF	Chemokine (C-C motif) ligand 4	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	97
+A0A8C0RM81	unreviewed	A0A8C0RM81_CANLF	Chemokine (C-C motif) ligand 13	CCL13	Canis lupus familiaris (Dog) (Canis familiaris)	94
+A0A8C0RPL3	unreviewed	A0A8C0RPL3_CANLF	Pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)	PPBP	Canis lupus familiaris (Dog) (Canis familiaris)	118
+A0A8C0RQ39	unreviewed	A0A8C0RQ39_CANLF	Chemokine (C-C motif) ligand 4	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	64
+A0A8C0S9U0	unreviewed	A0A8C0S9U0_CANLF	Chemokine interleukin-8-like domain-containing protein		Canis lupus familiaris (Dog) (Canis familiaris)	62
+A0A8C0SAD0	unreviewed	A0A8C0SAD0_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	65
+
+A0A8C5VC67	unreviewed	A0A8C5VC67_MICMU	Chemokine interleukin-8-like domain-containing protein	LOC105881712	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	64
+
+A0A8D0ITH8	unreviewed	A0A8D0ITH8_PIG	C-C motif chemokine ligand 24	CCL24	Sus scrofa (Pig)	119
+A0A8D0MVS1	unreviewed	A0A8D0MVS1_PIG	C-C motif chemokine		Sus scrofa (Pig)	90
+A0A8D0Q8J3	unreviewed	A0A8D0Q8J3_PIG	C-C motif chemokine ligand 24	CCL24	Sus scrofa (Pig)	119
+A0A8D0R6W1	unreviewed	A0A8D0R6W1_PIG	C-C motif chemokine		Sus scrofa (Pig)	93
+A0A8D0TGQ6	unreviewed	A0A8D0TGQ6_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	119
+A0A8D0X655	unreviewed	A0A8D0X655_PIG	C-C motif chemokine ligand 4	CCL4	Sus scrofa (Pig)	96
+A0A8D1AJF1	unreviewed	A0A8D1AJF1_PIG	C-C motif chemokine		Sus scrofa (Pig)	93
+A0A8D1EAB7	unreviewed	A0A8D1EAB7_PIG	C-C motif chemokine ligand 24	CCL24	Sus scrofa (Pig)	119
+A0A8D1F102	unreviewed	A0A8D1F102_PIG	Chemokine like factor	CKLF	Sus scrofa (Pig)	113
+A0A8D1F8C2	unreviewed	A0A8D1F8C2_PIG	Uncharacterized protein		Sus scrofa (Pig)	66
+A0A8D1FV53	unreviewed	A0A8D1FV53_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	103
+A0A8D1HPJ4	unreviewed	A0A8D1HPJ4_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	89
+A0A8D1JPE7	unreviewed	A0A8D1JPE7_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	104
+A0A8D1LDT6	unreviewed	A0A8D1LDT6_PIG	Uncharacterized protein		Sus scrofa (Pig)	103
+A0A8D1MBS5	unreviewed	A0A8D1MBS5_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	89
+A0A8D1MYM5	unreviewed	A0A8D1MYM5_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	67
+A0A8D1P269	unreviewed	A0A8D1P269_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	119
+A0A8D1PHB6	unreviewed	A0A8D1PHB6_PIG	C-C motif chemokine ligand 24	CCL24	Sus scrofa (Pig)	119
+A0A8D1PY18	unreviewed	A0A8D1PY18_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	89
+A0A8D1Q372	unreviewed	A0A8D1Q372_PIG	C-C motif chemokine		Sus scrofa (Pig)	93
+A0A8D1T3P0	unreviewed	A0A8D1T3P0_PIG	C-X-C motif chemokine		Sus scrofa (Pig)	103
+A0A8D1U7P9	unreviewed	A0A8D1U7P9_PIG	C-C motif chemokine ligand 4	CCL4	Sus scrofa (Pig)	96
+A0A8D1VEB7	unreviewed	A0A8D1VEB7_PIG	Chemokine interleukin-8-like domain-containing protein		Sus scrofa (Pig)	104
+A0A8D1W2C8	unreviewed	A0A8D1W2C8_PIG	C-C motif chemokine	CCL1	Sus scrofa (Pig)	89
+A0A8D1X2I4	unreviewed	A0A8D1X2I4_PIG	C-C motif chemokine ligand 4	CCL4	Sus scrofa (Pig)	64
+A0A8I3MP02	unreviewed	A0A8I3MP02_CANLF	C-C motif chemokine	CCL26	Canis lupus familiaris (Dog) (Canis familiaris)	89
+A0A8I3N774	unreviewed	A0A8I3N774_CANLF	Chemokine (C-C motif) ligand 4	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	64
+A0A8I3NCF7	unreviewed	A0A8I3NCF7_CANLF	Chemokine (C-C motif) ligand 4	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	97
+A0A8I3NTR7	unreviewed	A0A8I3NTR7_CANLF	Chemokine (C-C motif) ligand 13	CCL13	Canis lupus familiaris (Dog) (Canis familiaris)	94
+A0A8I3RUV8	unreviewed	A0A8I3RUV8_CANLF	Chemokine (C-C motif) ligand 4	LOC480600	Canis lupus familiaris (Dog) (Canis familiaris)	80
+A0A8I3RYH5	unreviewed	A0A8I3RYH5_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	65
+A0A8I3WAD3	unreviewed	A0A8I3WAD3_CALJA	Chemokine interleukin-8-like domain-containing protein	LOC100385441	Callithrix jacchus (White-tufted-ear marmoset)	64
+A0A8J0QRI6	unreviewed	A0A8J0QRI6_XENTR	Lymphotactin	LOC100493953	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	115
+A0A8J0QTL0	unreviewed	A0A8J0QTL0_XENTR	C-C motif chemokine 4	LOC100493779	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	96
+A0A8J0QXD8	unreviewed	A0A8J0QXD8_XENTR	C-X-C motif chemokine 10	cxcl10	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	99
+A0A8J1IYX8	unreviewed	A0A8J1IYX8_XENTR	C-C motif chemokine 28	ccl27 ccl28	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	95
+A0A8J1IZC8	unreviewed	A0A8J1IZC8_XENTR	C-X-C motif chemokine 13	cxcl13	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	98
+A0A8J1JWM9	unreviewed	A0A8J1JWM9_XENTR	C-C motif chemokine 25	ccl25	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	89
+A0A8L2QAZ9	unreviewed	A0A8L2QAZ9_RAT	C-C motif chemokine ligand 20	Ccl20	Rattus norvegicus (Rat)	95
+A0A8L2QNC9	unreviewed	A0A8L2QNC9_RAT	C-C motif chemokine	Ccl6	Rattus norvegicus (Rat)	117
+A0A8M1NH65	unreviewed	A0A8M1NH65_DANRE	Chemokine (C-C motif) ligand 33, duplicate 2	ccl33.2 si:ch211-149o7.6	Danio rerio (Zebrafish) (Brachydanio rerio)	118
+A0A8M1PS90	unreviewed	A0A8M1PS90_DANRE	Monocyte chemotactic protein 1B-like	ccl39.6	Danio rerio (Zebrafish) (Brachydanio rerio)	99
+A0A8M2BA23	unreviewed	A0A8M2BA23_DANRE	Chemokine (C-C motif) ligand 34b, duplicate 4 isoform X1	ccl34b.4 CCL-chr24j CCL34bd si:dkey-25o1.5	Danio rerio (Zebrafish) (Brachydanio rerio)	95
+A0A8M2BIN2	unreviewed	A0A8M2BIN2_DANRE	C-C motif chemokine 20	ccl20l	Danio rerio (Zebrafish) (Brachydanio rerio)	120
+A0A8M3AZJ3	unreviewed	A0A8M3AZJ3_DANRE	C-C motif chemokine 5-like	LOC101884623	Danio rerio (Zebrafish) (Brachydanio rerio)	95
+A0A8M9P5Y4	unreviewed	A0A8M9P5Y4_DANRE	Chemokine (C-C motif) ligand 34b, duplicate 1 isoform X1	ccl34b.1 si:dkey-25o1.6	Danio rerio (Zebrafish) (Brachydanio rerio)	96
+A0A8M9PT87	unreviewed	A0A8M9PT87_DANRE	LOW QUALITY PROTEIN: chemokine CCL-CUa	LOC100141478	Danio rerio (Zebrafish) (Brachydanio rerio)	96
+A0A8P0PJ56	unreviewed	A0A8P0PJ56_CANLF	Chemokine interleukin-8-like domain-containing protein		Canis lupus familiaris (Dog) (Canis familiaris)	98
+A0A8P0SMG7	unreviewed	A0A8P0SMG7_CANLF	C-C motif chemokine	CCL1	Canis lupus familiaris (Dog) (Canis familiaris)	65
+A0A8P0TT73	unreviewed	A0A8P0TT73_CANLF	C-C motif chemokine	CCL26	Canis lupus familiaris (Dog) (Canis familiaris)	89
+A0A8W4FCE4	unreviewed	A0A8W4FCE4_PIG	C-C motif chemokine	CCL4	Sus scrofa (Pig)	82
+
+A0A9L0R9K1	unreviewed	A0A9L0R9K1_HORSE	Chemokine (C-C motif) ligand 8	LOC100071714	Equus caballus (Horse)	98
+A0A9L0RRK3	unreviewed	A0A9L0RRK3_HORSE	Chemokine interleukin-8-like domain-containing protein		Equus caballus (Horse)	96
+A0A9L0SWW3	unreviewed	A0A9L0SWW3_HORSE	Chemokine (C-C motif) ligand 8	LOC100071714	Equus caballus (Horse)	99
+A0AAA9S2L4	unreviewed	A0AAA9S2L4_BOVIN	C-C motif chemokine		Bos taurus (Bovine)	112
+A0AAA9S9B9	unreviewed	A0AAA9S9B9_BOVIN	C-C motif chemokine		Bos taurus (Bovine)	104
+A0AAA9SIX2	unreviewed	A0AAA9SIX2_BOVIN	C-C motif chemokine ligand 4	CCL4	Bos taurus (Bovine)	64
+
+
+A0AB13A8L3	unreviewed	A0AB13A8L3_DANRE	C-C motif chemokine 32b.3 precursor	ccl32b.3	Danio rerio (Zebrafish) (Brachydanio rerio)	115
+A0AB13A9A2	unreviewed	A0AB13A9A2_DANRE	CX chemokine ligand 34c precursor	cxl34c si:ch211-125g7.3 wu:fb09d09	Danio rerio (Zebrafish) (Brachydanio rerio)	118
+A0AB32TSY2	unreviewed	A0AB32TSY2_DANRE	Uncharacterized protein isoform X1	LOC137496105	Danio rerio (Zebrafish) (Brachydanio rerio)	115
+A0AB32TUN4	unreviewed	A0AB32TUN4_DANRE	C-C motif chemokine 5-like isoform X2	LOC137496105	Danio rerio (Zebrafish) (Brachydanio rerio)	97
+A0AB40EBF4	unreviewed	A0AB40EBF4_DANRE	C-X-C motif chemokine 3	LOC101883994	Danio rerio (Zebrafish) (Brachydanio rerio)	119
+A2AMS5	unreviewed	A2AMS5_MOUSE	C-C motif chemokine ligand 27A	Ccl27a	Mus musculus (Mouse)	119
+A6JWB9	unreviewed	A6JWB9_RAT	Chemokine (C-C motif) ligand 20	Ccl20 rCG_23712	Rattus norvegicus (Rat)	96
+A6KKE4	unreviewed	A6KKE4_RAT	Chemokine (C-X-C motif) ligand 4, isoform CRA_a	Cxcl4 rCG_60381	Rattus norvegicus (Rat)	77
+A9ZPD5	unreviewed	A9ZPD5_DANRE	Chemokine (C-C motif) ligand 39, duplicate 1 (Chemokine CCL-C25t)	ccl39.1 si:dkeyp-55h4.5	Danio rerio (Zebrafish) (Brachydanio rerio)	94
+A9ZPD6	unreviewed	A9ZPD6_DANRE	Chemokine (C-C motif) ligand 39, duplicate 3 (Chemokine CCL-C25v)	ccl39.3 ccl-c25v si:dkeyp-55h4.6	Danio rerio (Zebrafish) (Brachydanio rerio)	94
+A9ZPD8	unreviewed	A9ZPD8_DANRE	Chemokine (C-C motif) ligand 35, duplicate 2 (Chemokine CCL-C25ab) (Chemokine CCL-C25ac)	ccl35.2	Danio rerio (Zebrafish) (Brachydanio rerio)	98
+A9ZPE2	unreviewed	A9ZPE2_DANRE	Chemokine (C-C motif) ligand 34b, duplicate 9 precursor (Chemokine CCL-C24b)	ccl34b.9 si:dkey-25o1.3	Danio rerio (Zebrafish) (Brachydanio rerio)	116
+A9ZPE5	unreviewed	A9ZPE5_DANRE	Chemokine CCL-C24j	ccl34b.4	Danio rerio (Zebrafish) (Brachydanio rerio)	98
+A9ZPF4	unreviewed	A9ZPF4_DANRE	C-C motif chemokine 27b precursor (Chemokine CCL-C10b)	ccl27b	Danio rerio (Zebrafish) (Brachydanio rerio)	91
+A9ZPF7	unreviewed	A9ZPF7_DANRE	Chemokine (C-C motif) ligand 34a, duplicate 3 precursor (Chemokine CCL-C2e)	ccl34a.3 si:ch211-122l24.5	Danio rerio (Zebrafish) (Brachydanio rerio)	111
+A9ZPG3	unreviewed	A9ZPG3_DANRE	Chemokine CCL-CUe	ccl33.2	Danio rerio (Zebrafish) (Brachydanio rerio)	110
+A9ZPG5	unreviewed	A9ZPG5_DANRE	Chemokine CCL-CUj	LOC100216314	Danio rerio (Zebrafish) (Brachydanio rerio)	86
+B1AVL8	unreviewed	B1AVL8_MOUSE	C-C motif chemokine ligand 1	Ccl1	Mus musculus (Mouse)	85
+B5X5G3	unreviewed	B5X5G3_SALSA	C-C motif chemokine 28	CCL28	Salmo salar (Atlantic salmon)	114
+B5X5Q4	unreviewed	B5X5Q4_SALSA	C-C motif chemokine 13	CCL13	Salmo salar (Atlantic salmon)	93
+B5X6U9	unreviewed	B5X6U9_SALSA	C-C motif chemokine 28	CCL28	Salmo salar (Atlantic salmon)	93
+B5X7X5	unreviewed	B5X7X5_SALSA	C-C motif chemokine 20	CCL20 LOC106600142	Salmo salar (Atlantic salmon)	113
+B5X7Y2	unreviewed	B5X7Y2_SALSA	C-X-C motif chemokine 14	CXL14 cxl14	Salmo salar (Atlantic salmon)	100
+B5X8C5	unreviewed	B5X8C5_SALSA	C-C motif chemokine 13	CCL13	Salmo salar (Atlantic salmon)	93
+B5X8E8	unreviewed	B5X8E8_SALSA	C-C motif chemokine 25	CCL25 ccl25	Salmo salar (Atlantic salmon)	105
+B5X9I2	unreviewed	B5X9I2_SALSA	C-C motif chemokine 19	CCL19 LOC106565855	Salmo salar (Atlantic salmon)	107
+B5XAL9	unreviewed	B5XAL9_SALSA	C-C motif chemokine 13	CCL13 LOC106593851	Salmo salar (Atlantic salmon)	104
+B5XB81	unreviewed	B5XB81_SALSA	C-C motif chemokine 28	CCL28	Salmo salar (Atlantic salmon)	93
+B5XBD0	unreviewed	B5XBD0_SALSA	C-C motif chemokine 8	CCL8 ccl8	Salmo salar (Atlantic salmon)	105
+B5XBF9	unreviewed	B5XBF9_SALSA	C-C motif chemokine 28	CCL28	Salmo salar (Atlantic salmon)	93
+B5XCT7	unreviewed	B5XCT7_SALSA	C-C motif chemokine 21 (C-C motif chemokine 21 precursor)	CCL21 ccl21	Salmo salar (Atlantic salmon)	102
+B5XDV5	unreviewed	B5XDV5_SALSA	C-C motif chemokine 25	CCL25 ccl25	Salmo salar (Atlantic salmon)	92
+B5XFF9	unreviewed	B5XFF9_SALSA	C-C motif chemokine 13	CCL13	Salmo salar (Atlantic salmon)	93
+B5XFJ6	unreviewed	B5XFJ6_SALSA	C-C motif chemokine 28	CCL28 ccl28	Salmo salar (Atlantic salmon)	93
+B9EL65	unreviewed	B9EL65_SALSA	C-C motif chemokine 20	CCL20 LOC106595332	Salmo salar (Atlantic salmon)	97
+B9ELM8	unreviewed	B9ELM8_SALSA	C-X-C motif chemokine 14	CXL14 LOC106604935	Salmo salar (Atlantic salmon)	101
+B9EMJ9	unreviewed	B9EMJ9_SALSA	C-C motif chemokine 20	CCL20	Salmo salar (Atlantic salmon)	105
+B9EMS0	unreviewed	B9EMS0_SALSA	C-C motif chemokine 20	CCL20	Salmo salar (Atlantic salmon)	74
+B9EPW9	unreviewed	B9EPW9_SALSA	C-C motif chemokine 20	CCL20 LOC106600611	Salmo salar (Atlantic salmon)	105
+D2HM86	unreviewed	D2HM86_AILME	Chemokine interleukin-8-like domain-containing protein	PANDA_012663	Ailuropoda melanoleuca (Giant panda)	90
+F1R655	unreviewed	F1R655_DANRE	C-C motif chemokine 34b.8 precursor (Chemokine (C-C motif) ligand 34b, duplicate 8)	ccl34b.8 si:dkey-25o1.4	Danio rerio (Zebrafish) (Brachydanio rerio)	118
+F7C5L0	unreviewed	F7C5L0_CALJA	C-C motif chemokine ligand 27	CCL27	Callithrix jacchus (White-tufted-ear marmoset)	108
+F8VQM2	unreviewed	F8VQM2_MOUSE	C-C motif chemokine ligand 26	Ccl26	Mus musculus (Mouse)	93
+F8VWI0	unreviewed	F8VWI0_HUMAN	C-C motif chemokine ligand 25	CCL25	Homo sapiens (Human)	84
+G1LK27	unreviewed	G1LK27_AILME	C-C motif chemokine ligand 27	CCL27	Ailuropoda melanoleuca (Giant panda)	113
+G1LXV2	unreviewed	G1LXV2_AILME	C-C motif chemokine 4	LOC100468796	Ailuropoda melanoleuca (Giant panda)	64
+G1N7X0	unreviewed	G1N7X0_MELGA	Chemokine interleukin-8-like domain-containing protein	CXCL14	Meleagris gallopavo (Wild turkey)	109
+G1RVH8	unreviewed	G1RVH8_NOMLE	Chemokine interleukin-8-like domain-containing protein	CCL16	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	75
+G1TQC5	unreviewed	G1TQC5_RABIT	Chemokine interleukin-8-like domain-containing protein	PPBP	Oryctolagus cuniculus (Rabbit)	82
+G1TQN0	unreviewed	G1TQN0_RABIT	Chemokine interleukin-8-like domain-containing protein		Oryctolagus cuniculus (Rabbit)	106
+G1TV23	unreviewed	G1TV23_RABIT	C-X-C motif chemokine ligand 11	CXCL11	Oryctolagus cuniculus (Rabbit)	94
+G3QQ85	unreviewed	G3QQ85_GORGO	Chemokine interleukin-8-like domain-containing protein		Gorilla gorilla gorilla (Western lowland gorilla)	64
+G3QXA0	unreviewed	G3QXA0_GORGO	Chemokine interleukin-8-like domain-containing protein		Gorilla gorilla gorilla (Western lowland gorilla)	53
+G3T4P3	unreviewed	G3T4P3_LOXAF	C-C motif chemokine ligand 27	CCL27	Loxodonta africana (African elephant)	102
+G3TJZ3	unreviewed	G3TJZ3_LOXAF	Chemokine interleukin-8-like domain-containing protein		Loxodonta africana (African elephant)	115
+G3UJZ2	unreviewed	G3UJZ2_LOXAF	C-C motif chemokine ligand 2	CCL2	Loxodonta africana (African elephant)	63
+H0YU12	unreviewed	H0YU12_TAEGU	C-X-C motif chemokine ligand 13	LOC101233771	Taeniopygia guttata (Zebra finch) (Poephila guttata)	107
+H0ZT85	unreviewed	H0ZT85_TAEGU	Monocyte chemotactic protein 1B-like	LOC100227529	Taeniopygia guttata (Zebra finch) (Poephila guttata)	101
+H1A3P4	unreviewed	H1A3P4_TAEGU	C-X-C motif chemokine ligand 14	CXCL14	Taeniopygia guttata (Zebra finch) (Poephila guttata)	98
+H9HA21	unreviewed	H9HA21_NOMLE	C-C motif chemokine ligand 27	CCL27	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	112
+I3JL94	unreviewed	I3JL94_ORENI	Eotaxin	LOC102081377	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	94
+I3JXS4	unreviewed	I3JXS4_ORENI	Monocyte chemotactic protein 1B	LOC100710378	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	99
+I3JXT8	unreviewed	I3JXT8_ORENI	Chemokine interleukin-8-like domain-containing protein		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	89
+I3JXU0	unreviewed	I3JXU0_ORENI	Monocyte chemotactic protein 1B	LOC100711717	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+I3K982	unreviewed	I3K982_ORENI	C-C motif chemokine 19	ccl19a.1	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	110
+I3KBG5	unreviewed	I3KBG5_ORENI	Eotaxin-like	LOC109199676	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+I3KEG8	unreviewed	I3KEG8_ORENI	Eotaxin-like	LOC109200487	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	95
+J3KRT7	unreviewed	J3KRT7_HUMAN	C-C motif chemokine ligand 2 (Chemokine (C-C motif) ligand 2, isoform CRA_a)	CCL2 hCG_29298	Homo sapiens (Human)	65
+Q0N2S9	unreviewed	Q0N2S9_PIG	Chemokine ligand 24-like protein		Sus scrofa (Pig)	119
+Q5C9Q0	unreviewed	Q5C9Q0_MOUSE	Eotaxin 3-like protein	Ccl26 Ccl26l	Mus musculus (Mouse)	93
+Q5VZ77	unreviewed	Q5VZ77_HUMAN	Chemokine (C-C motif) ligand 27	CCL27 hCG_20477	Homo sapiens (Human)	112
+Q6AXC2	unreviewed	Q6AXC2_MOUSE	C-X-C motif chemokine ligand 14 (Cxcl14 protein)	Cxcl14	Mus musculus (Mouse)	61
+Q7TMS1	unreviewed	Q7TMS1_MOUSE	Ccl2 protein	Ccl2	Mus musculus (Mouse)	65
+Q8MIG1	unreviewed	Q8MIG1_PIG	Skinkine		Sus scrofa (Pig)	107
+Q8MKC8	unreviewed	Q8MKC8_HORSE	Mcp-2		Equus caballus (Horse)	99
+W5PH97	unreviewed	W5PH97_SHEEP	Chemokine interleukin-8-like domain-containing protein	CCL27	Ovis aries (Sheep)	99
