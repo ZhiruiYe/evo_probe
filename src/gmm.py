@@ -124,16 +124,12 @@ def gmm_guided_projection(X: np.ndarray,
     Returns:
         Dict: 包含完整分析结果的字典
     """
-    try:
-        from diptest import diptest
-    except ImportError:
-        raise ImportError("需要安装diptest包: pip install diptest")
         
     from sklearn.mixture import GaussianMixture
     from sklearn.preprocessing import StandardScaler
     import matplotlib.pyplot as plt
     
-    print(f"=== 基于GMM指导的Dip Test (k={k}) ===")
+    print(f"=== 基于GMM指导的投影 (k={k}) ===")
     
     # 步骤1: 拟合GMM模型
     print("步骤1: 拟合GMM模型...")
@@ -146,6 +142,9 @@ def gmm_guided_projection(X: np.ndarray,
     # 获取聚类标签和概率
     labels = gmm.predict(X_scaled)
     probabilities = gmm.predict_proba(X_scaled)
+
+    # 获取协方差矩阵
+    covariances = gmm.covariances_
     
     print(f"GMM拟合完成")
     print(f"各聚类大小: {np.bincount(labels)}")
@@ -259,7 +258,8 @@ def gmm_guided_projection(X: np.ndarray,
         'center_B': center_B,
         'cluster_sizes': np.bincount(labels),
         'bic_score': gmm.bic(X_scaled),
-        'total_samples': len(projected_data)
+        'total_samples': len(projected_data),
+        'covariances': covariances
     }
     
     return results
@@ -322,3 +322,22 @@ def compare_gmm_guided_projections(datasets: Dict[str, np.ndarray],
     
 
     return all_results
+
+
+
+
+def get_sequences_by_label(gmm_labels, label_id, sequences):
+    """
+    根据GMM标签提取对应的序列
+    
+    Args:
+        gmm_labels: GMM聚类标签数组
+        label_id: 目标标签ID
+        sequences: 序列列表
+        
+    Returns:
+        filtered_sequences: 符合标签的序列列表
+    """
+    mask = gmm_labels == label_id
+    filtered_sequences = [sequences[i] for i in range(len(sequences)) if mask[i]]
+    return filtered_sequences
