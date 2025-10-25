@@ -1,4 +1,5 @@
 import numpy as np
+import re
 from typing import List, Tuple, Dict, Optional
 
 # 氨基酸三字母到单字母的转换字典
@@ -130,124 +131,70 @@ def create_binary_contact_matrix(distance_matrix: np.ndarray, threshold: float =
     return contact_matrix
 
 
-def filter_dist_matrix(matrix, threshold=10, remove_diag=3):
-    """保持向后兼容性的旧函数"""
-    contact_matrix = create_binary_contact_matrix(matrix, threshold, remove_diag)
-    i_indices, j_indices = np.where(np.triu(contact_matrix, k=1))
-    return list(zip(i_indices, j_indices))
-
-def extract_sequence_from_pdb(pdb_path: str, chain_id: str = "A") -> str:
-    """
-    从PDB文件提取氨基酸序列 - 细菌式基因，可重用
-    
-    Args:
-        pdb_path: PDB文件路径
-        chain_id: 链ID
-        
-    Returns:
-        无gap的氨基酸序列字符串
-    """
-    sequence = ""
-    
-    try:
-        with open(pdb_path, 'r') as f:
-            lines = f.readlines()
-    except FileNotFoundError:
-        print(f"PDB文件不存在: {pdb_path}")
-        return ""
-    
-    target_chain = None
-    processed_residues = set()  # 避免重复处理同一残基
-    
-    for line in lines:
-        if not line.startswith('ATOM'):
-            continue
-            
-        # 解析PDB ATOM行
-        atom_name = line[12:16].strip()
-        res_name = line[17:20].strip()
-        current_chain = line[21].strip()
-        res_num = int(line[22:26].strip())
-        
-        # 确定目标链
-        if target_chain is None:
-            target_chain = current_chain if chain_id is None else chain_id
-        
-        # 跳过非目标链
-        if current_chain != target_chain:
-            continue
-            
-        # 只处理Cα原子，避免重复
-        if atom_name == 'CA' and res_num not in processed_residues:
-            aa_code = AA_THREE_TO_ONE.get(res_name, 'X')  # 未知氨基酸用X表示
-            sequence += aa_code
-            processed_residues.add(res_num)
-    
-    print(f"从PDB提取序列完成: {len(sequence)} 个残基 (链 {target_chain})")
-    return sequence
 
 
-def create_pdb_to_msa_mapping(pdb_sequence: str, msa_sequence: str, pdb_start_offset: int = 0) -> Dict[int, int]:
+
+def create_pdb_to_msa_mapping(pdb_residue_dict: Dict[int, str], msa_sequence: str, pdb_start_offset: int = 0) -> Dict[int, int]:
     """
-    创建PDB残基ID到MSA位置的映射 - 完美的细菌式基因
+    创建PDB残基ID到MSA位置的映射 
     带残基类型验证和起始偏移量，确保映射正确性
     
     Args:
-        pdb_sequence: 从PDB提取的序列（无gap）
+        pdb_residue_dict: PDB残基字典 {残基ID: 残基类型}，如 {1: 'M', 2: 'K', 5: 'L', ...}
         msa_sequence: MSA中对应的序列（含gap，用-表示）
         pdb_start_offset: PDB序列的起始偏移量（默认0，表示从PDB第1个残基开始）
     
     Returns:
         {pdb_residue_id: msa_position} 映射字典
-        
-    Example:
-        pdb_seq = "VGSEVSDKRT..."
-        msa_seq = "EVSDKRT-CV..."
-        pdb_start_offset = 3  # PDB第4个残基(E)对应MSA第0个位置(E)
-        返回: {4: 0, 5: 1, 6: 2, 7: 3, ...}
     """
     # 清理MSA序列中的空格和换行符
     clean_msa = msa_sequence.replace(' ', '').replace('\n', '').strip()
-    
+
+    # 按残基ID排序，获取有序的PDB序列
+    sorted_pdb_ids = sorted(pdb_residue_dict.keys())
+    pdb_sequence = ''.join(pdb_residue_dict[res_id] for res_id in sorted_pdb_ids)
+
     # 如果没有指定偏移量，尝试自动找到对齐起始点
     if pdb_start_offset == 0:
         pdb_start_offset = find_alignment_start(pdb_sequence, clean_msa)
         print(f"自动检测到PDB起始偏移量: {pdb_start_offset}")
     
     pdb_to_msa = {}
-    pdb_idx = pdb_start_offset  # PDB序列中的位置（考虑偏移量）
+    pdb_seq_idx = pdb_start_offset  # PDB序列中的位置（考虑偏移量）
     matched_count = 0
     mismatches = []
     
     for msa_pos, msa_char in enumerate(clean_msa):
         if msa_char != '-':  # 非gap位置
-            if pdb_idx < len(pdb_sequence):
-                pdb_char = pdb_sequence[pdb_idx]
+            if pdb_seq_idx < len(sorted_pdb_ids):
+                # 获取当前PDB残基ID和类型
+                pdb_residue_id = sorted_pdb_ids[pdb_seq_idx]
+                pdb_char = pdb_residue_dict[pdb_residue_id]
                 
                 # 验证残基类型是否匹配
                 if pdb_char.upper() == msa_char.upper():
-                    # PDB残基ID从1开始，所以+1
-                    pdb_residue_id = pdb_idx + 1
                     pdb_to_msa[pdb_residue_id] = msa_pos
                     matched_count += 1
                 else:
                     # 记录不匹配的残基
-                    mismatches.append((pdb_idx + 1, pdb_char, msa_pos, msa_char))
+                    mismatches.append((pdb_residue_id, pdb_char, msa_pos, msa_char))
                     if len(mismatches) <= 5:  # 只显示前5个不匹配
-                        print(f"警告: 残基不匹配 - PDB位置{pdb_idx + 1}({pdb_char}) vs MSA位置{msa_pos}({msa_char})")
+                        print(f"警告: 残基不匹配 - PDB残基{pdb_residue_id}({pdb_char}) vs MSA位置{msa_pos}({msa_char})")
                 
-                pdb_idx += 1
+                pdb_seq_idx += 1
             else:
                 print(f"警告: MSA序列比PDB序列长，MSA位置{msa_pos}({msa_char})无对应PDB残基")
                 break
-    
+                
     # 检查是否还有未映射的PDB残基
-    if pdb_idx < len(pdb_sequence):
-        print(f"警告: PDB序列比MSA序列长，有{len(pdb_sequence) - pdb_idx}个PDB残基未映射")
-    
+    if pdb_seq_idx < len(sorted_pdb_ids):
+        unmapped_count = len(sorted_pdb_ids) - pdb_seq_idx
+        print(f"警告: PDB序列比MSA序列长，有{unmapped_count}个PDB残基未映射")
+        print(f"未映射的PDB残基ID: {sorted_pdb_ids[pdb_seq_idx:pdb_seq_idx+5]}{'...' if unmapped_count > 5 else ''}")
+      
     print(f"PDB到MSA映射完成: {len(pdb_to_msa)} 个残基 (匹配: {matched_count}, 不匹配: {len(mismatches)})")
     print(f"PDB序列长度: {len(pdb_sequence)}, MSA序列长度: {len(clean_msa)}")
-    print(f"PDB起始偏移: {pdb_start_offset} (PDB第{pdb_start_offset+1}个残基对应MSA第0个位置)")
+
     
     return pdb_to_msa
 
@@ -375,7 +322,8 @@ def calculate_contact_difference(chemokine_id: str, alternate_id: str, threshold
         'alternate_matrix': aligned_alternate,
         'residue_indices': common_residues,
         'chemokine_residue_types': chemokine_types,
-        'alternate_residue_types': alternate_types
+        'alternate_residue_types': alternate_types,
+        
     })
     
     return results
@@ -410,42 +358,41 @@ def calculate_contact_difference_msa_id(chemokine_id: str, alternate_id: str,
     pdb_results = calculate_contact_difference(chemokine_id, alternate_id, threshold, remove_diag)
     
     # 提取PDB序列
-    chemokine_pdb_seq = extract_sequence_from_pdb(f"/yezhirui/evo_probe/data/{chemokine_id}.pdb", "A")
-    alternate_pdb_seq = extract_sequence_from_pdb(f"/yezhirui/evo_probe/data/{alternate_id}.pdb", "A")
+    pdb_dict = pdb_results['alternate_residue_types']
     
     # 创建PDB到MSA的映射
-    chemokine_pdb_to_msa = create_pdb_to_msa_mapping(chemokine_pdb_seq, msa_seq)
-    alternate_pdb_to_msa = create_pdb_to_msa_mapping(alternate_pdb_seq, msa_seq)
+    pdb_to_msa = create_pdb_to_msa_mapping(pdb_dict, msa_seq,pdb_start_offset=3)
+
     
     # 转换接触对到MSA索引
-    new_contacts_msa = convert_contacts_to_msa_indices(pdb_results['new_contacts'], alternate_pdb_to_msa)
-    lost_contacts_msa = convert_contacts_to_msa_indices(pdb_results['lost_contacts'], chemokine_pdb_to_msa)
-    common_contacts_msa = convert_contacts_to_msa_indices(pdb_results['common_contacts'], chemokine_pdb_to_msa)
+    new_contacts_msa = convert_contacts_to_msa_indices(pdb_results['new_contacts'], pdb_to_msa)
+    lost_contacts_msa = convert_contacts_to_msa_indices(pdb_results['lost_contacts'], pdb_to_msa)
     
-    # 创建MSA索引的接触矩阵
-    msa_length = max(len(msa_seq.replace(' ', '').replace('\n', '').strip()),
-                     len(msa_seq.replace(' ', '').replace('\n', '').strip()))
     
-    chemokine_matrix_msa = create_contact_matrix_from_pairs(common_contacts_msa + lost_contacts_msa, msa_length)
-    alternate_matrix_msa = create_contact_matrix_from_pairs(common_contacts_msa + new_contacts_msa, msa_length)
-    diff_matrix_msa = alternate_matrix_msa - chemokine_matrix_msa
+    # # 创建MSA索引的接触矩阵
+    # msa_length = max(len(msa_seq.replace(' ', '').replace('\n', '').strip()),
+    #                  len(msa_seq.replace(' ', '').replace('\n', '').strip()))
     
-    # 清零对角线附近的元素
-    diff_matrix_msa = clear_diagonal_band(diff_matrix_msa, remove_diag)
+    # chemokine_matrix_msa = create_contact_matrix_from_pairs(common_contacts_msa + lost_contacts_msa, msa_length)
+    # alternate_matrix_msa = create_contact_matrix_from_pairs(common_contacts_msa + new_contacts_msa, msa_length)
+    # diff_matrix_msa = alternate_matrix_msa - chemokine_matrix_msa
+    
+    # # 清零对角线附近的元素
+    # diff_matrix_msa = clear_diagonal_band(diff_matrix_msa, remove_diag)
     
     return {
-        'diff_matrix': diff_matrix_msa,
+        # 'diff_matrix': diff_matrix_msa,
         'new_contacts': new_contacts_msa,
         'lost_contacts': lost_contacts_msa,
-        'common_contacts': common_contacts_msa,
         'critical_contacts': lost_contacts_msa + new_contacts_msa,
-        'chemokine_matrix': chemokine_matrix_msa,
-        'alternate_matrix': alternate_matrix_msa,
-        'msa_length': msa_length,
+        "pdb_to_msa_map": pdb_to_msa,
+        "alternate_residue_types": pdb_results['alternate_residue_types'],
+        # 'chemokine_matrix': chemokine_matrix_msa,
+        # 'alternate_matrix': alternate_matrix_msa,
         'summary': {
             'new_count': len(new_contacts_msa),
             'lost_count': len(lost_contacts_msa),
-            'common_count': len(common_contacts_msa),
+            'common_count': len(pdb_results['common_contacts']),
             'critical_count': len(lost_contacts_msa + new_contacts_msa)
         }
     }
@@ -582,81 +529,213 @@ def analyze_critical_contacts(diff_matrix: np.ndarray, residue_indices: List[int
     }
 
 
-def get_critical_contacts(chemokine_id: str, alternate_id: str, threshold: float = 8.0,remove_diag: int = 3) -> Tuple[List, List]:
+
+def parse_ancestral_probs(anc_prob_file: str, node_id: str = None) -> Dict[int, Dict[str, float]]:
     """
-    简洁版本：仅返回关键接触 - 完美的细菌式基因
-    可以轻松"yoink"到任何项目中
+    解析祖先概率文件，获取每个位点的完整氨基酸概率分布 - 细菌式基因
     
     Args:
-        chemokine_id: 趋化因子PDB ID
-        alternate_id: 替代折叠PDB ID  
-        threshold: 接触阈值（Å）
+        anc_prob_file: 祖先概率文件路径
+        node_id: 指定要解析的节点ID（如"499", "507"等），None表示使用第一个节点
         
     Returns:
-        (new_contacts, lost_contacts): 新形成和断开的接触对列表
+        {site: {aa: prob, ...}} 字典 - site使用0-based索引，aa为20种氨基酸的概率分布
+        例如: {0: {'A': 0.474, 'R': 0.001, ..., 'V': 0.023}, 1: {...}, ...}
     """
-    results = calculate_contact_difference(chemokine_id, alternate_id, threshold,remove_diag)
-    return results['new_contacts'], results['lost_contacts']
+    site_distributions = {}
+    current_node = None
+    target_node_found = False
+    parsing_target_node = False
+    
+    try:
+        with open(anc_prob_file, 'r') as f:
+            for line in f:
+                line = line.strip()
+                
+                # 检查是否是节点标题行
+                if line.startswith('Prob distribution at node'):
+                    # 提取节点ID
+                    node_match = re.search(r'node (\d+)', line)
+                    if node_match:
+                        current_node = node_match.group(1)  
+                        
+                        # 如果没指定node_id，使用第一个节点
+                        if node_id is None:
+                            parsing_target_node = True
+                            target_node_found = True
+                        # 如果找到了目标节点
+                        elif current_node == str(node_id):
+                            parsing_target_node = True
+                            target_node_found = True
+                        else:
+                            parsing_target_node = False
+                    continue
+                
+                # 如果不在目标节点中，跳过
+                if not parsing_target_node:
+                    continue
+                    
+                # 跳过头部和空行
+                if not line or 'site' in line or 'Prob distribution' in line:
+                    continue
+                
+                # 查找包含概率分布的行（含有冒号和氨基酸概率）
+                if ':' not in line or 'A(' not in line:
+                    continue
+                    
+                # 解析行：提取site编号和概率分布
+                parts = line.split(':')
+                if len(parts) != 2:
+                    continue
+                
+                # 提取site编号（在行首）
+                site_match = re.match(r'\s*(\d+)', line)
+                if not site_match:
+                    continue
+                site_num = int(site_match.group(1))
+                
+                # 解析概率分布 "A(0.474) R(0.001) ..."
+                prob_part = parts[1].strip()
+                aa_probs = {}
+                
+                # 使用正则表达式提取氨基酸概率
+                matches = re.findall(r'([ARNDCQEGHILKMFPSTWYV])\(([0-9.]+)\)', prob_part)
+                for aa, prob_str in matches:
+                    aa_probs[aa] = float(prob_str)
+                
+                # 存储完整的概率分布，转换为0-based索引
+                if aa_probs:
+                    site_distributions[site_num - 1] = aa_probs
+        
+        if node_id is not None and not target_node_found:
+            print(f"警告: 未找到节点 {node_id}，可用节点: 499, 500, 501, 502, 507")
+                    
+    except FileNotFoundError:
+        print(f"祖先概率文件不存在: {anc_prob_file}")
+    except Exception as e:
+        print(f"解析祖先概率文件时出错: {e}")
+        
+    return site_distributions
 
 
-def get_critical_contacts_with_msa_mapping(chemokine_id: str, alternate_id: str, 
-                                          chemokine_msa_seq: str, alternate_msa_seq: str,
-                                          threshold: float = 8.0, remove_diag: int = 3) -> Tuple[List, List]:
+def get_ancestral_probs_max_aa(anc_prob_file: str, node_id: str = None) -> Dict[int, Tuple[str, float]]:
     """
-    带MSA映射的关键接触获取函数 - 细菌式基因
+    获取每个位点概率最大的氨基酸类型及其概率 - 复用parse_ancestral_probs
     
     Args:
-        chemokine_id: 趋化因子PDB ID
-        alternate_id: 替代折叠PDB ID
-        chemokine_msa_seq: 趋化因子在MSA中的序列
-        alternate_msa_seq: 替代折叠在MSA中的序列
-        threshold: 接触阈值（Å）
-        remove_diag: 忽略对角线附近的残基对数量
+        anc_prob_file: 祖先概率文件路径
+        node_id: 指定要解析的节点ID（如"499", "507"等），None表示使用第一个节点
         
     Returns:
-        (new_contacts_msa, lost_contacts_msa): MSA索引的新形成和断开接触对列表
+        {site: (max_aa, max_prob)} 字典 - 使用0-based索引
+        例如: {0: ('A', 0.474), 1: ('K', 0.823), ...}
     """
-    # 获取PDB接触差异
-    results = calculate_contact_difference(chemokine_id, alternate_id, threshold, remove_diag)
+    # 调用基础函数获取完整概率分布
+    site_distributions = parse_ancestral_probs(anc_prob_file, node_id)
     
-    # 提取PDB序列
-    chemokine_pdb_seq = extract_sequence_from_pdb(f"/yezhirui/evo_probe/data/{chemokine_id}.pdb", "A")
-    alternate_pdb_seq = extract_sequence_from_pdb(f"/yezhirui/evo_probe/data/{alternate_id}.pdb", "A")
+    # 提取每个位点的最大概率氨基酸
+    site_max_probs = {}
+    for site, aa_probs in site_distributions.items():
+        if aa_probs:
+            max_aa = max(aa_probs, key=aa_probs.get)
+            max_prob = aa_probs[max_aa]
+            site_max_probs[site] = (max_aa, max_prob)
     
-    # 创建PDB到MSA的映射
-    chemokine_pdb_to_msa = create_pdb_to_msa_mapping(chemokine_pdb_seq, chemokine_msa_seq)
-    alternate_pdb_to_msa = create_pdb_to_msa_mapping(alternate_pdb_seq, alternate_msa_seq)
-    
-    # 转换接触对到MSA索引
-    new_contacts_msa = convert_contacts_to_msa_indices(results['new_contacts'], alternate_pdb_to_msa)
-    lost_contacts_msa = convert_contacts_to_msa_indices(results['lost_contacts'], chemokine_pdb_to_msa)
-    
-    return new_contacts_msa, lost_contacts_msa
+    return site_max_probs
 
 
 def get_contact_info(contact_list: List[Tuple[int, int]], 
                     contact_index: int, 
-                    residue_types: Dict[int, str]) -> str:
+                    residue_types: Dict[int, str] = None,
+                    node_id: str = None
+                    ) -> str:
     """
-    简单版本：根据contact index获取残基信息字符串
+    根据contact index获取残基信息字符串，支持祖先概率信息
     
     Args:
         contact_list: 接触对列表 [(res1, res2), ...]
         contact_index: 要查询的接触对索引
         residue_types: 残基类型字典 {残基编号: 单字母氨基酸代码}
+        node_id: 祖先节点ID，如果提供则从anc_prob.txt读取概率信息
         
     Returns:
-        描述字符串，如 "A15-V42" (单字母氨基酸代码)
+        描述字符串，如 "A15-V42" 或 "15A(0.3)-42V(0.4)" (带概率信息)
     """
     if contact_index >= len(contact_list):
         return f"索引 {contact_index} 超出范围 (最大: {len(contact_list)-1})"
     
     res1, res2 = contact_list[contact_index]
-    type1 = residue_types.get(res1, 'X')  # 未知类型用X表示
-    type2 = residue_types.get(res2, 'X')
     
-    return f"{type1}{res1}-{type2}{res2}"
+    # 如果提供了node_id，尝试读取祖先概率信息
+    if node_id is not None:
+        anc_prob_file = f"/yezhirui/evo_probe/data/anc_prob.txt"  # 假设文件名格式
+        site_probs = get_ancestral_probs_max_aa(anc_prob_file,node_id)
+        
+        if res1 in site_probs and res2 in site_probs:
+            aa1, prob1 = site_probs[res1]
+            aa2, prob2 = site_probs[res2]
+            return f"{res1}{aa1}({prob1:.1f})-{res2}{aa2}({prob2:.1f})"
+    
+    # 使用传统的残基类型信息
+    if residue_types is not None:
+        type1 = residue_types.get(res1, 'X')  # 未知类型用X表示
+        type2 = residue_types.get(res2, 'X')
+        return f"{type1}{res1}-{type2}{res2}"
+    else:
+        return f"{res1}-{res2}"
 
+def get_contact_info_with_pdb(contact_list, contact_index, msa_to_pdb_map=None, 
+                             residue_types=None, node_id=None):
+    """
+    获取残基信息字符串，同时显示MSA位置和对应的PDB ID
+    
+    Args:
+        contact_list: 接触对列表 [(res1, res2), ...]，这里是MSA位置
+        contact_index: 要查询的接触对索引
+        msa_to_pdb_map: MSA到PDB的映射字典 {msa_id: pdb_id}
+        residue_types: 残基类型字典
+        node_id: 祖先节点ID
+        
+    Returns:
+        描述字符串，如 "0(4E)-40(46K)" 表示 "MSA位置(PDB位置+残基类型)"
+    """
+    if contact_index >= len(contact_list):
+        return f"索引 {contact_index} 超出范围 (最大: {len(contact_list)-1})"
+    
+    msa_res1, msa_res2 = contact_list[contact_index]
+    
+    # 获取对应的PDB ID
+    if msa_to_pdb_map is not None:
+        pdb_res1 = msa_to_pdb_map.get(msa_res1, None)
+        pdb_res2 = msa_to_pdb_map.get(msa_res2, None)
+        
+        # 如果提供了node_id，尝试读取祖先概率信息
+        if node_id is not None:
+            anc_prob_file = f"/yezhirui/evo_probe/data/anc_prob.txt"
+            site_probs = get_ancestral_probs_max_aa(anc_prob_file,node_id)
+            
+            if msa_res1 in site_probs and msa_res2 in site_probs:
+                aa1, prob1 = site_probs[msa_res1]
+                aa2, prob2 = site_probs[msa_res2]
+                
+                # 格式: MSA位置(PDB位置+残基类型)
+                pdb_part1 = f"{pdb_res1}{aa1}" if pdb_res1 is not None else f"?{aa1}"
+                pdb_part2 = f"{pdb_res2}{aa2}" if pdb_res2 is not None else f"?{aa2}"
+                return f"{msa_res1}({pdb_part1})-{msa_res2}({pdb_part2})"
+        
+        # 使用残基类型信息
+        if residue_types is not None and pdb_res1 is not None and pdb_res2 is not None:
+            type1 = residue_types.get(pdb_res1, 'X')
+            type2 = residue_types.get(pdb_res2, 'X')
+            return f"{msa_res1}({pdb_res1}{type1})-{msa_res2}({pdb_res2}{type2})"
+        
+        # 只有PDB ID，没有残基类型
+        if pdb_res1 is not None and pdb_res2 is not None:
+            return f"{msa_res1}({pdb_res1})-{msa_res2}({pdb_res2})"
+    
+    # 只显示MSA位置
+    return f"{msa_res1}-{msa_res2}"
+    
 
 def plot_contacts(seq_len,contact_list, title, contact_list2=None):
     import matplotlib.pyplot as plt
@@ -691,29 +770,6 @@ def plot_contacts(seq_len,contact_list, title, contact_list2=None):
 
 
 
-def demo_msa_mapping():
-    """
-    演示MSA映射功能的使用 - 细菌式基因
-    """
-
-    human_xcl1_msa = "EVSDKRT-CVSLTTQRLPVSRIKTYTIT---EGSLRAVIFITKRGLKVCADPQATWVRDVVRSMDRKSNT"
-    
-    # 提取PDB序列进行验证
-    pdb_seq = extract_sequence_from_pdb("/yezhirui/evo_probe/data/2jp1.pdb", "A")
-    print(f"PDB序列: {pdb_seq}")
-    
-    # 创建映射
-    pdb_to_msa = create_pdb_to_msa_mapping(pdb_seq, human_xcl1_msa)
-    
-    # 显示前10个映射
-    print("\n前20个PDB到MSA的映射:")
-    for pdb_id, msa_pos in list(pdb_to_msa.items())[:20]:
-        print(f"  PDB残基{pdb_id} -> MSA位置{msa_pos}")
-
-
-
-    
-    return pdb_to_msa
 
 
 if __name__ == "__main__":
@@ -721,16 +777,11 @@ if __name__ == "__main__":
     chemokine_pdb = "1j8i"  # 趋化因子折叠
     alternate_pdb = "2jp1"  # 替代折叠
     
-    print("=== 简洁版本：仅获取关键接触 ===")
-    new_contacts, lost_contacts = get_critical_contacts(chemokine_pdb, alternate_pdb,threshold=10.0,remove_diag=5)
-    print(f"新形成接触: {len(new_contacts)} 个")
-    print(f"断开接触: {len(lost_contacts)} 个")
     
-    print("\n=== MSA映射功能演示 ===")
-    demo_msa_mapping()
     
     print("\n=== 完整分析版本 ===")
-    results = calculate_contact_difference(chemokine_pdb, alternate_pdb, threshold=10.0,remove_diag=5)
+    msa_seq = 'EVSDKRT-CVSLTTQRLPVSRIKTYTIT---EGSLRAVIFITKRGLKVCADPQATWVRDVVRSMDRKSNT'
+    results = calculate_contact_difference_msa_id(chemokine_pdb, alternate_pdb, msa_seq, threshold=10.0,remove_diag=5)
     
     print(f"\n接触变化统计:")
     print(f"新形成的接触: {results['summary']['new_count']} 个")
@@ -745,38 +796,16 @@ if __name__ == "__main__":
     for res1, res2 in results['lost_contacts'][:5]:
         print(f"  残基 {res1} - {res2}")
         
-    print(f"\n差异矩阵形状: {results['diff_matrix'].shape}")
-    unique, counts = np.unique(results['diff_matrix'], return_counts=True)
-    print("矩阵元素统计 (包含对称部分):")
-    for val, count in zip(unique, counts):
-        if val == 1:
-            print(f"  +1 (新接触): {count} 个矩阵元素 = {count//2} 个接触对")
-        elif val == -1:
-            print(f"  -1 (断开接触): {count} 个矩阵元素 = {count//2} 个接触对") 
-        else:
-            print(f"   0 (无变化): {count} 个矩阵元素")
+    # print(f"\n差异矩阵形状: {results['diff_matrix'].shape}")
+    # unique, counts = np.unique(results['diff_matrix'], return_counts=True)
+    # print("矩阵元素统计 (包含对称部分):")
+    # for val, count in zip(unique, counts):
+    #     if val == 1:
+    #         print(f"  +1 (新接触): {count} 个矩阵元素 = {count//2} 个接触对")
+    #     elif val == -1:
+    #         print(f"  -1 (断开接触): {count} 个矩阵元素 = {count//2} 个接触对") 
+    #     else:
+    #         print(f"   0 (无变化): {count} 个矩阵元素")
 
-    # === 新功能演示：根据contact index查询残基信息 ===
-    print("\n=== 新功能演示：残基信息查询 ===")
-    
-    # 演示查询新形成接触的残基信息
-    if results['new_contacts']:
-        print("\n前3个新形成接触的残基信息:")
-        for i in range(min(3, len(results['new_contacts']))):
-            contact_info = get_contact_info(results['new_contacts'], i, results['alternate_residue_types'])
-            print(f"  Contact {i}: {contact_info}")
-    
-    # 演示查询断开接触的残基信息
-    if results['lost_contacts']:
-        print("\n前3个断开接触的残基信息:")
-        for i in range(min(3, len(results['lost_contacts']))):
-            contact_info = get_contact_info(results['lost_contacts'], i, results['chemokine_residue_types'])
-            print(f"  Contact {i}: {contact_info}")
 
-    seq_len = 65
-    
-    plot_contacts(seq_len, new_contacts, f"{chemokine_pdb}_{alternate_pdb}_new_contacts")
-    plot_contacts(seq_len, lost_contacts, f"{chemokine_pdb}_{alternate_pdb}_lost_contacts")
-    plot_contacts(seq_len, new_contacts, f"{chemokine_pdb}_{alternate_pdb}_new_lost_contacts", lost_contacts)
 
-    

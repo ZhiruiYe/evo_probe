@@ -119,3 +119,56 @@ class ContactSpace:
         return len(self.node_sequences.get(node_id, []))
 
 
+
+    def get_embeddings_by_sequences(self, sequences_to_find: List[str], 
+                                 
+                                ) -> Tuple[np.ndarray, List[int]]:
+        """
+        根据序列内容查找对应的embedding向量（可yoink）
+        
+        Args:
+            sequences_to_find: 要查找的序列列表
+            
+        Returns:
+            (found_embeddings, indices): 找到的embedding和对应索引
+        """
+        indices = []
+        for seq in sequences_to_find:
+            try:
+                idx = self.all_sequences.index(seq)
+                indices.append(idx)
+            except ValueError:
+                print(f"警告: 序列未找到: {seq[:20]}...")
+                
+        if not indices:
+            return np.array([]), []
+            
+        found_embeddings = self.embeddings[indices]
+        return found_embeddings, indices
+
+
+
+if __name__ == "__main__":
+    from find_contact import calculate_contact_difference_msa_id
+    # 1. 获取关键接触点
+    chemokine_pdb = "1j8i"  # 趋化因子折叠
+    alternate_pdb = "2jp1"  # 替代折叠
+    msa_seq = 'EVSDKRT-CVSLTTQRLPVSRIKTYTIT---EGSLRAVIFITKRGLKVCADPQATWVRDVVRSMDRKSNT'
+    results = calculate_contact_difference_msa_id(chemokine_pdb, alternate_pdb,msa_seq,threshold=10.0,remove_diag=5)
+    critical_contacts = results['critical_contacts']
+    print(f"关键接触点数量: {len(critical_contacts)}")
+    
+    # 2. 加载MJ矩阵
+    mj_dict = load_mj_matrix("/yezhirui/evo_probe/data/mj_matrix.txt")
+    
+    # 3. 生成contact embedding
+    contact_space = ContactSpace(critical_contacts, mj_dict)
+    
+    # 4. 批量添加节点
+    path_dir = "/yezhirui/evo_probe/data/sample"
+    node_configs = [("ANC0", f"{path_dir}/node499_anc0_samples.fasta"),("ANC1", f"{path_dir}/node500_anc1_samples.fasta"),
+    ("ANC2", f"{path_dir}/node501_anc2_samples.fasta"), ("ANC3", f"{path_dir}/node502_anc3_samples.fasta"), ("ANC4", f"{path_dir}/node507_anc4_samples.fasta")]
+    for node_id, fasta_path in node_configs:
+        contact_space.add_node_from_fasta(node_id, fasta_path)
+
+    contact_space.build_embeddings()
